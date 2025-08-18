@@ -1,0 +1,24 @@
+{
+  "total_items": 15993,
+  "label_distribution": {
+    "safe": 14582,
+    "unsafe": 1411
+  },
+  "prompt_length_stats": {
+    "min": 1,
+    "max": 713,
+    "avg": 68.36834865253549
+  },
+  "response_length_stats": {
+    "min": 1,
+    "max": 989,
+    "avg": 291.5484274370037
+  },
+  "metadata": {
+    "batch_directory": "/home/malam10/projects/ai-safety-bangla/llamaguard_dataset/bangla_batches",
+    "output_file": "/home/malam10/projects/ai-safety-bangla/datasets/bangla_prompt_response_mixed.json",
+    "conversion_timestamp": "/home/malam10/projects/ai-safety-bangla",
+    "total_batch_files": 160,
+    "data_format": "prompt_response_pairs"
+  }
+}
