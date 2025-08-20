@@ -1,7 +1,7 @@
 import json
 
 # Step 1: Read the input JSON file
-input_file_path = "catqa_bangla.json"  # Replace with your actual file path
+input_file_path = "datasets/catqa_bangla.json"  # Replace with your actual file path
 
 with open(input_file_path, "r", encoding="utf-8") as f:
     nested_data = json.load(f)

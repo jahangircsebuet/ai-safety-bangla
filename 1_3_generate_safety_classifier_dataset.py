@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import List, Dict, Any
 
 class BanglaSafetyDatasetGenerator:
-    def __init__(self, batch_dir: str = "/home/malam10/projects/ai-safety-bangla/llamaguard_dataset/bangla_batches"):
+    def __init__(self, batch_dir: str = "llamaguard_dataset/bangla_batches"):
         """
         Initialize the Bangla Safety Dataset Generator.
         
@@ -62,7 +62,7 @@ class BanglaSafetyDatasetGenerator:
         
         print(f"📊 Total LlamaGuard data extracted: {len([x for x in self.compiled_data if x['source'] == 'llamaguard'])}")
     
-    def add_multijail_data(self, file_path: str = "/home/malam10/projects/ai-safety-bangla/datasets/converted_multijail_bangla.json") -> None:
+    def add_multijail_data(self, file_path: str = "datasets/converted_multijail_bangla.json") -> None:
         """
         Add MultiJail prompts from the specified file.
         
@@ -95,7 +95,7 @@ class BanglaSafetyDatasetGenerator:
         except Exception as e:
             print(f"  ❌ Error loading MultiJail data: {e}")
     
-    def add_catqa_data(self, file_path: str = "/home/malam10/projects/ai-safety-bangla/datasets/converted_catqa_bangla.json") -> None:
+    def add_catqa_data(self, file_path: str = "datasets/converted_catqa_bangla.json") -> None:
         """
         Add CatQA prompts from the specified file.
         
@@ -153,7 +153,7 @@ class BanglaSafetyDatasetGenerator:
             "source_distribution": source_counts
         }
     
-    def save_dataset(self, output_path: str = "/home/malam10/projects/ai-safety-bangla/datasets/bangla_safety_prompt_dataset.json") -> None:
+    def save_dataset(self, output_path: str = "datasets/bangla_safety_prompt_dataset.json") -> None:
         """
         Save the combined dataset to a JSON file.
         
@@ -175,9 +175,9 @@ class BanglaSafetyDatasetGenerator:
         print(f"✅ Dataset saved successfully! File size: {file_size:.2f} MB")
     
     def generate_dataset(self, 
-                        output_path: str = "/home/malam10/projects/ai-safety-bangla/datasets/bangla_safety_prompt_dataset.json",
-                        multijail_path: str = "/home/malam10/projects/ai-safety-bangla/datasets/converted_multijail_bangla.json",
-                        catqa_path: str = "/home/malam10/projects/ai-safety-bangla/datasets/converted_catqa_bangla.json") -> Dict[str, Any]:
+                        output_path: str = "datasets/bangla_safety_prompt_dataset.json",
+                        multijail_path: str = "datasets/converted_multijail_bangla.json",
+                        catqa_path: str = "datasets/converted_catqa_bangla.json") -> Dict[str, Any]:
         """
         Generate the complete Bangla safety dataset.
         
@@ -244,3 +244,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+ 
