@@ -7,7 +7,14 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"  # silence fork warning
 import json
 import pandas as pd
 from datasets import Dataset
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer, __version__ as TR_VERSION
+from transformers import (
+    AutoTokenizer,
+    AutoModelForSequenceClassification,
+    TrainingArguments,
+    Trainer,
+    TrainerCallback,
+    __version__ as TR_VERSION,
+)
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 import torch
 
@@ -37,6 +44,58 @@ def load_token():
     print("❌ HUGGING_FACE_HUB_TOKEN not found in .env files or environment variables")
     print("💡 Ensure: HUGGING_FACE_HUB_TOKEN=your_token_here")
     return None
+
+
+class _ManualLogCallback(TrainerCallback):
+    """
+    Writes logs the evaluator expects, guaranteeing numeric training loss per epoch:
+      Epoch N:
+      Training Loss: <mean_train_loss_this_epoch>
+      Eval Loss: <eval_loss_this_epoch>
+    """
+    def __init__(self, log_path: str):
+        self.log_path = log_path
+        self._cur_epoch = None
+        self._epoch_losses = []  # collect 'loss' values within an epoch
+        os.makedirs(os.path.dirname(self.log_path), exist_ok=True)
+        with open(self.log_path, "w", encoding="utf-8") as f:
+            f.write("Manual Training Log\n")
+
+    def _write_epoch_block(self, epoch_num: int, train_loss: float = None, eval_loss: float = None):
+        # Always write numeric Training Loss; if not available, fallback to 0.0
+        tloss = float(train_loss) if train_loss is not None else 0.0
+        eloss = float(eval_loss) if eval_loss is not None else float("nan")
+        with open(self.log_path, "a", encoding="utf-8") as f:
+            f.write(f"Epoch {epoch_num}:\n")
+            f.write(f"Training Loss: {tloss}\n")
+            if eloss == eloss:  # not NaN
+                f.write(f"Eval Loss: {eloss}\n")
+            else:
+                f.write("Eval Loss: N/A\n")
+
+    def on_epoch_begin(self, args, state, control, **kwargs):
+        self._cur_epoch = int(state.epoch) if state.epoch is not None else (
+            int(state.global_step // state.max_steps) if state.max_steps else 0
+        )
+        self._epoch_losses = []
+
+    def on_log(self, args, state, control, logs=None, **kwargs):
+        # Collect per-step training losses for the current epoch
+        if logs and "loss" in logs:
+            try:
+                self._epoch_losses.append(float(logs["loss"]))
+            except Exception:
+                pass
+
+    def on_evaluate(self, args, state, control, metrics=None, **kwargs):
+        # Called at end of epoch when evaluation runs (evaluation_strategy="epoch")
+        epoch_num = self._cur_epoch if self._cur_epoch is not None else (
+            int(state.epoch) if state.epoch is not None else 0
+        )
+        mean_train = (sum(self._epoch_losses) / len(self._epoch_losses)) if self._epoch_losses else None
+        eval_loss = float(metrics["eval_loss"]) if metrics and "eval_loss" in metrics else None
+        self._write_epoch_block(epoch_num, train_loss=mean_train, eval_loss=eval_loss)
+
 
 class BanglaSafetyClassifierTrainer:
     def __init__(self, json_path, model_names=None, num_epochs=3):
@@ -90,6 +149,7 @@ class BanglaSafetyClassifierTrainer:
             weight_decay=0.01,
             num_train_epochs=epochs,
             logging_steps=50,
+            logging_dir=output_dir,  # ✅ logs under results/<model>
         )
         # Modern extras (may not exist on older versions)
         modern = dict(
@@ -101,7 +161,7 @@ class BanglaSafetyClassifierTrainer:
             metric_for_best_model="f1",
             greater_is_better=True,
             logging_strategy="steps",
-            report_to="none",
+            report_to="none",  # keep simple; evaluator doesn't need TB/W&B
             fp16=fp16,
         )
         # Try modern first
@@ -111,11 +171,9 @@ class BanglaSafetyClassifierTrainer:
             print(f"⚠️ Detected older transformers ({TR_VERSION}). Falling back to basic TrainingArguments. ({e})")
             # Strip unsupported keys progressively
             fallback = dict(base)
-            # Add the most compatible bits if available
             try:
                 return TrainingArguments(**fallback)
             except TypeError as e2:
-                # Last resort: remove even more (very old versions)
                 minimal = dict(output_dir=output_dir, num_train_epochs=epochs, per_device_train_batch_size=8)
                 print(f"⚠️ Using minimal TrainingArguments. ({e2})")
                 return TrainingArguments(**minimal)
@@ -163,6 +221,13 @@ class BanglaSafetyClassifierTrainer:
 
                 training_args = self._build_training_args(out_dir, self.num_epochs, use_fp16)
 
+                # ✅ manual log path for evaluator
+                manual_logs_dir = os.path.join(out_dir, "manual_logs")
+                os.makedirs(manual_logs_dir, exist_ok=True)
+                manual_log_path = os.path.join(
+                    manual_logs_dir, f"{model_name.replace('/', '_')}_training_log.txt"
+                )
+
                 trainer = Trainer(
                     model=model,
                     args=training_args,
@@ -172,6 +237,9 @@ class BanglaSafetyClassifierTrainer:
                     compute_metrics=self.compute_metrics,
                 )
 
+                # ✅ attach manual logger callback
+                trainer.add_callback(_ManualLogCallback(manual_log_path))
+
                 print(f"🚀 Starting training (Trainer will run {self.num_epochs} epoch(s))...")
                 trainer.train()
 
@@ -179,29 +247,41 @@ class BanglaSafetyClassifierTrainer:
                 eval_metrics = trainer.evaluate()
                 print(f"📈 Final Eval: {eval_metrics}")
 
+                # ✅ Save where evaluator looks
                 best_dir = os.path.join(out_dir, "best")
                 os.makedirs(best_dir, exist_ok=True)
                 trainer.save_model(best_dir)
                 self.tokenizer.save_pretrained(best_dir)
+
+                final_dir = os.path.join(out_dir, "final_model")  # evaluator expects this
+                os.makedirs(final_dir, exist_ok=True)
+                trainer.save_model(final_dir)
+                self.tokenizer.save_pretrained(final_dir)
+
+                # Convenience copy
                 easy_dir = f"./bangla_safety_classifier_{model_name.replace('/', '_')}"
                 os.makedirs(easy_dir, exist_ok=True)
                 trainer.save_model(easy_dir)
                 self.tokenizer.save_pretrained(easy_dir)
+
                 print(f"✅ Best model saved to: {best_dir}")
+                print(f"✅ Final model saved to: {final_dir}")
                 print(f"✅ Model also saved to: {easy_dir}")
+                print(f"📝 Manual log written to: {manual_log_path}")
 
             except Exception as e:
                 print(f"❌ Error training {model_name}: {e}")
                 continue
+
 
 if __name__ == "__main__":
     dataset_path = "datasets/bangla_safety_prompt_dataset.json"
     trainer = BanglaSafetyClassifierTrainer(
         json_path=dataset_path,
         model_names=[
-            # "xlm-roberta-base",
-            # "bert-base-multilingual-cased",
-            "distilbert-base-multilingual-cased",
+            "xlm-roberta-base",
+            #"bert-base-multilingual-cased",
+            #"distilbert-base-multilingual-cased",
         ],
         num_epochs=3,
     )
