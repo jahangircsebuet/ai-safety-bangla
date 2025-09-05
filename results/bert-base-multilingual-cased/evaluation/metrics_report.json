@@ -1,0 +1,21 @@
+{
+  "model_name": "bert-base-multilingual-cased",
+  "metrics": {
+    "precision": 0.8319907940161104,
+    "recall": 0.8178733031674208,
+    "f1_score": 0.8248716486023959,
+    "roc_auc": 0.919060425142319,
+    "pr_auc": 0.8887154327254081
+  },
+  "classification_report": "              precision    recall  f1-score   support\n\n        Safe       0.87      0.88      0.88      3766\n      Unsafe       0.83      0.82      0.82      2652\n\n    accuracy                           0.86      6418\n   macro avg       0.85      0.85      0.85      6418\nweighted avg       0.86      0.86      0.86      6418\n",
+  "confusion_matrix": [
+    [
+      3328,
+      438
+    ],
+    [
+      483,
+      2169
+    ]
+  ]
+}

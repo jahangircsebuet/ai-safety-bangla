@@ -1,0 +1,18 @@
+Model: xlm-roberta-base
+==================================================
+
+Precision: 0.7752
+Recall: 0.8179
+F1-Score: 0.7960
+ROC AUC: 0.9059
+PR AUC: 0.8708
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Safe       0.87      0.83      0.85      3766
+      Unsafe       0.78      0.82      0.80      2652
+
+    accuracy                           0.83      6418
+   macro avg       0.82      0.83      0.82      6418
+weighted avg       0.83      0.83      0.83      6418
