@@ -37,8 +37,9 @@ from datasets import load_dataset
 
 # *******************store multijail into foarmatted json start 
 # Input and output file paths
-csv_path = "multijail_bn.csv"   # replace with your actual CSV file
-json_path = "converted_multijail_bn.json"
+
+csv_path = "datasets/multijail_bn.csv"         # correct relative path
+json_path = "datasets/converted_multijail_bn.json"  # save output alongside it
 
 # Start ID
 start_id = 1

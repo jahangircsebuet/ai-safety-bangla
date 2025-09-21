@@ -449,7 +449,7 @@ class ModelEvaluator:
 def main():
     """Main function to run evaluation"""
     # Configuration
-    dataset_path = "/home/malam10/projects/ai-safety-bangla/datasets/bangla_safety_prompt_dataset.json"
+    dataset_path = "datasets/bangla_safety_prompt_dataset.json"
     results_dir = "./results"
     
     # Initialize evaluator

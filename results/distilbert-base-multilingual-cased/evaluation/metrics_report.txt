@@ -1,0 +1,18 @@
+Model: distilbert-base-multilingual-cased
+==================================================
+
+Precision: 0.8128
+Recall: 0.8039
+F1-Score: 0.8083
+ROC AUC: 0.9137
+PR AUC: 0.8843
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Safe       0.86      0.87      0.87      3766
+      Unsafe       0.81      0.80      0.81      2652
+
+    accuracy                           0.84      6418
+   macro avg       0.84      0.84      0.84      6418
+weighted avg       0.84      0.84      0.84      6418
