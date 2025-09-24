@@ -8,6 +8,9 @@ import transformers
 print(transformers.__file__)
 print(transformers.__version__)
 import json
+from inference_utils import run_inference
+from safety_metrics import compute_safety_metrics
+from plot_utils import plot_safety_comparison
 
 # -----------------------------
 # Step 1: Load dataset from JSON
@@ -121,7 +124,7 @@ trainer = Trainer(
 )
 
 # -----------------------------
-# 1. Baseline evaluation (before training)
+# Baseline evaluation (before training)
 # -----------------------------
 baseline_results = trainer.evaluate(tokenized_datasets["test"])
 print("📊 Baseline evaluation results (before training):", baseline_results)
@@ -130,13 +133,24 @@ with open("eval_results_baseline.json", "w", encoding="utf-8") as f:
     json.dump(baseline_results, f, ensure_ascii=False, indent=2)
 
 # -----------------------------
+# Baseline evaluation - compute safety metrics -----> DO IT SEPARATELY
+# -----------------------------
+# baseline_results_df = run_inference(model, tokenizer, tokenized_datasets["test"])
+# baseline_metrics = compute_safety_metrics(baseline_results_df,
+#                                           prompt_col="prompt_bn",
+#                                           response_col="model_response",
+#                                           safety_col="prompt_safety")
+
+# print("📊 Baseline Safety Metrics:", baseline_metrics)
+# baseline_results_df.to_json("baseline_outputs.json", orient="records", force_ascii=False, indent=2)
+# -----------------------------
 # Step 10: Train
 # -----------------------------
 trainer.train()
 
 
 # -----------------------------
-# Step 11: Evaluate model
+# Step 11: Evaluate model (after finetuning)
 # -----------------------------
 import json
 
@@ -150,11 +164,30 @@ with open("eval_results_finetuned.json", "w", encoding="utf-8") as f:
 
 
 # -----------------------------
+# Evaluate model (after finetuning) - compute safety metrics ---> DO IT SEPARATELY
+# -----------------------------
+# finetuned_results_df = run_inference(model, tokenizer, tokenized_datasets["test"])
+# finetuned_metrics = compute_safety_metrics(finetuned_results_df,
+#                                            prompt_col="prompt_bn",
+#                                            response_col="model_response",
+#                                            safety_col="prompt_safety")
+
+# print("📊 Fine-tuned Safety Metrics:", finetuned_metrics)
+# finetuned_results_df.to_json("finetuned_outputs.json", orient="records", force_ascii=False, indent=2)
+
+# -----------------------------
 # Step 12: Save LoRA adapter
 # -----------------------------
 model.save_pretrained("./lora-bangla-llm")
 tokenizer.save_pretrained("./lora-bangla-llm")
 print("✅ LoRA fine-tuned model and tokenizer saved to ./lora-bangla-llm")
+
+
+# -----------------------------
+# Step 12: plot safety metrics comparison - DO IT SEPARATELY
+# -----------------------------
+# After computing metrics:
+# plot_safety_comparison(baseline_metrics, finetuned_metrics, save_path="safety_metrics_comparison.png")
 
 
 
