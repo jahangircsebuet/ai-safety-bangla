@@ -266,7 +266,7 @@ class BanglaConversationTranslator:
         print(f"✅ Successfully translated {translated_count}/{len(conversations)} conversations")
         print(f"📁 Created {len(saved_files)} batch files in {output_dir}")
         print(f"📋 Summary saved to: {summary_file}")
-        
+
         # Calculate total file size
         total_size = sum(os.path.getsize(f) for f in saved_files) / (1024 * 1024)
         print(f"💾 Total size: {total_size:.2f} MB")
@@ -277,7 +277,7 @@ def main():
     """
     try:
         # Initialize translator
-        translator = BanglaConversationTranslator()
+translator = BanglaConversationTranslator()
         
         # Configuration
         input_file = "llama_guard_dataset_english_with_safety.json"
