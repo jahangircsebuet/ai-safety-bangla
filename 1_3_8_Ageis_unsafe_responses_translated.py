@@ -100,7 +100,7 @@ for i in tqdm(range(0, len(filtered), BATCH_SIZE), desc="Translating"):
             "response": response_bn[j],
             "prompt_label": ex.get("prompt_label", ""),
             "response_label": ex.get("response_label", ""),
-            "category_label": ex.get("violated_categories", ""),
+            "prompt_category": ex.get("violated_categories", ""),
         }
         output.append(translated_entry)
 

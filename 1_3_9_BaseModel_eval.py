@@ -314,3 +314,5 @@ def main():
 # ------------------------------
 if __name__ == "__main__":
     main()
+
+#CUDA_VISIBLE_DEVICES=2 nohup python BaseModel_eval.py > /home/tahad/ai-safety-bangla/logs/BaseModel_eval.log 2>&1 &

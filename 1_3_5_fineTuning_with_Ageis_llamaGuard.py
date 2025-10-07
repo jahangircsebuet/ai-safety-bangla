@@ -4,10 +4,6 @@
 """
 CE-Only Fine-Tuning for TigerLLM-1B-it (Gemma3 Causal LM) using LoRA
 -------------------------------------------------------------------
-This script performs a baseline fine-tuning of the TigerLLM-1B-it model
-on a set of prompt/response pairs using a cross-entropy loss alone.
-It uses the correct Gemma3 causal LM architecture and LoRA adapters.
-
 ✓ Uses AutoModelForCausalLM and AutoConfig (Gemma3)
 ✓ LoRA on q_proj/k_proj/v_proj/o_proj
 ✓ Concatenates prompt + response, masks prompt tokens in labels
@@ -28,12 +24,7 @@ import torch
 import torch.nn.functional as F
 from datasets import Dataset
 from tqdm import tqdm
-
-from transformers import (
-    AutoConfig,
-    AutoTokenizer,
-    AutoModelForCausalLM,
-)
+from transformers import AutoConfig, AutoTokenizer, AutoModelForCausalLM
 from peft import LoraConfig, get_peft_model
 
 # ===============================================================
@@ -44,16 +35,15 @@ RESULTS_BASE_DIR = "./FineTuned_Models"
 LOSS_TYPE = "_LoRA_CE"
 SAVE_FOLDER_NAME = BASE_MODEL_NAME.split("/")[-1] + LOSS_TYPE
 
-EPOCHS = 10
+EPOCHS = 5
 BATCH_SIZE = 16
 GRAD_ACCUM = 8
 LR = 5e-5
 
-# Use BF16 if available, else FP16 for mixed precision
+# Use BF16 if available, else FP16
 USE_BF16 = torch.cuda.is_available() and torch.cuda.is_bf16_supported()
 FP16 = (not USE_BF16)
 
-# Sequence length settings
 MAX_SOURCE_LEN = 2048
 MAX_TARGET_LEN = 512
 MAX_TOTAL_LEN = MAX_SOURCE_LEN + MAX_TARGET_LEN
@@ -94,7 +84,6 @@ base_model = AutoModelForCausalLM.from_pretrained(
     torch_dtype=(torch.bfloat16 if USE_BF16 else None),
 )
 
-# LoRA configuration
 lora_config = LoraConfig(
     r=8,
     lora_alpha=16,
@@ -109,6 +98,29 @@ model.train()
 total_params = sum(p.numel() for p in model.parameters())
 trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
 print(f"Params: total={total_params/1e6:.1f}M, trainable={trainable_params/1e6:.1f}M")
+
+# ===============================================================
+# DATASET HELPERS
+# ===============================================================
+def load_dataset_from_list(path: str) -> Dataset:
+    """Load JSON list or dict dataset into HuggingFace Dataset."""
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    if isinstance(data, list):
+        input_texts = [d.get("prompt") or d.get("input_text", "") for d in data]
+        output_texts = [d.get("response") or d.get("output_text", "") for d in data]
+        prompt_labels = [d.get("prompt_label", "safe") for d in data]
+        prompt_cats = [d.get("prompt_category", "safe") for d in data]
+        return Dataset.from_dict({
+            "input_text": input_texts,
+            "output_text": output_texts,
+            "prompt_label": prompt_labels,
+            "prompt_category": prompt_cats,
+        })
+    elif isinstance(data, dict):
+        return Dataset.from_dict(data)
+    else:
+        raise ValueError(f"Unsupported JSON format: {path}")
 
 # ===============================================================
 # LOAD DATASETS (Train / Val / Test)
@@ -126,9 +138,8 @@ for path in train_paths:
         raw_train_items.extend(json.load(f))
 
 if not raw_train_items:
-    raise ValueError("No training data found — check train_paths!")
+    raise ValueError(" No training data found — check train_paths!")
 
-# Merge + shuffle once for balanced order
 random.shuffle(raw_train_items)
 
 def encode_entry(entry: Dict) -> Dict:
@@ -154,29 +165,23 @@ train_dataset = Dataset.from_dict({
     "prompt_category": [e["prompt_category"] for e in encoded_train],
 })
 
-# Load validation and test datasets
-with open(VAL_DATA_PATH, "r", encoding="utf-8") as f:
-    val_data = json.load(f)
-with open(TEST_DATA_PATH, "r", encoding="utf-8") as f:
-    test_data = json.load(f)
-val_dataset = Dataset.from_dict(val_data)
-test_dataset = Dataset.from_dict(test_data)
+val_dataset = load_dataset_from_list(VAL_DATA_PATH)
+test_dataset = load_dataset_from_list(TEST_DATA_PATH)
 
-# Save val/test datasets for evaluation
 save_root = os.path.join(RESULTS_BASE_DIR, SAVE_FOLDER_NAME)
 model_dir = os.path.join(save_root, "model")
 results_dir = os.path.join(save_root, "results")
 os.makedirs(model_dir, exist_ok=True)
 os.makedirs(results_dir, exist_ok=True)
 with open(os.path.join(results_dir, "val_dataset.json"), "w", encoding="utf-8") as f:
-    json.dump(val_data, f, ensure_ascii=False, indent=2)
+    json.dump(val_dataset.to_dict(), f, ensure_ascii=False, indent=2)
 with open(os.path.join(results_dir, "test_dataset.json"), "w", encoding="utf-8") as f:
-    json.dump(test_data, f, ensure_ascii=False, indent=2)
+    json.dump(test_dataset.to_dict(), f, ensure_ascii=False, indent=2)
 
-print(f"Loaded Train={len(train_dataset)}, Val={len(val_dataset)}, Test={len(test_dataset)}")
+print(f" Loaded Train={len(train_dataset)}, Val={len(val_dataset)}, Test={len(test_dataset)}")
 
 # ===============================================================
-# BUILD CAUSAL BATCHES
+# BUILD CAUSAL BATCH
 # ===============================================================
 def build_causal_batch(prompts, targets, tokenizer, max_source_len, max_target_len, device):
     enc_p = tokenizer(prompts, padding=True, truncation=True, max_length=max_source_len, return_tensors="pt")
@@ -239,6 +244,7 @@ for epoch in range(EPOCHS):
         with autocast(enabled=torch.cuda.is_available(), dtype=AUTOCAST_DTYPE):
             out = model(**batch_data)
             loss = out.loss
+
         epoch_losses.append(loss.item())
         scaler.scale(loss / GRAD_ACCUM).backward()
         if (step + 1) % GRAD_ACCUM == 0:
@@ -262,7 +268,8 @@ print(f"Final model + tokenizer saved to {model_dir}")
 
 plt.figure(figsize=(6,4))
 plt.plot(ce_history, label="Cross-Entropy Loss")
-plt.xlabel("Epoch"); plt.ylabel("Loss")
+plt.xlabel("Epoch")
+plt.ylabel("Loss")
 plt.title("CE Loss over Epochs (LoRA Baseline)")
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
@@ -270,4 +277,5 @@ plt.savefig(os.path.join(results_dir, "ce_loss_curve.png"), dpi=300)
 plt.close()
 print(f"Loss curve saved to {results_dir}/ce_loss_curve.png")
 
-print("Training complete.")
+print(" Training complete.")
+
