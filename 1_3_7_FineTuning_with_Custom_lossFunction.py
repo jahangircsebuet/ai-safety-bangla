@@ -4,9 +4,11 @@
 """
 TigerLLM Safety Fine-Tuning (LoRA + Contrastive Safety Loss)
 ------------------------------------------------------------
-✓ Uses your exact model loader (T5Config + LoRA)
+✓ Uses exact model loader (T5Config + LoRA)
 ✓ Combines CE + margin-based contrastive safety loss
-✓ Unsafe prompts: learns to prefer refusal or safe redirection
+✓ Unsafe prompts:
+    → if safe response exists: learn redirection
+    → else: alternate refusal & unsafe response for contrastive loss
 ✓ Safe prompts: normal completion
 ✓ AMP + GradScaler + Gradient Accumulation
 ✓ Logs and saves per-epoch metrics
@@ -29,13 +31,13 @@ RESULTS_BASE_DIR = "./FineTuned_Models"
 LOSS_TYPE = "_LoRA_CE+Contrastive"
 SAVE_FOLDER_NAME = BASE_MODEL_NAME.split("/")[-1] + LOSS_TYPE
 
-EPOCHS = 3
-BATCH_SIZE = 128
+EPOCHS = 10
+BATCH_SIZE = 16
 GRAD_ACCUM = 8
 LR = 5e-5
 FP16 = True
 MAX_LEN = 512
-GAMMA = 5.0
+GAMMA = 9.0
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -61,8 +63,10 @@ scaler = GradScaler(enabled=(FP16 and DEVICE.startswith("cuda")))
 # Load Model / Tokenizer
 # ===============================================================
 print(f"Loading {BASE_MODEL_NAME}...")
+
 tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL_NAME)
 config = T5Config.from_pretrained(BASE_MODEL_NAME)
+
 if config.decoder_start_token_id is None:
     config.decoder_start_token_id = tokenizer.pad_token_id
 
@@ -79,6 +83,7 @@ model = get_peft_model(base_model, lora_config).to(DEVICE)
 dataset_paths = [
     "/home/tahad/ai-safety-bangla/datasets/LLamaGuard_prompt_response_pairs_bangla_translation_categorized.json",
     "/home/tahad/ai-safety-bangla/datasets/ageis_prompt_response_pairs_bangla_translation_facebook_nllb-200-distilled-600M_categorized.json",
+    "/home/tahad/ai-safety-bangla/datasets/Ageis_unsafe_responses_translated.json",
 ]
 
 raw_items = []
@@ -86,29 +91,40 @@ for path in dataset_paths:
     with open(path, "r", encoding="utf-8") as f:
         raw_items.extend(json.load(f))
 
+# --- Modified Encode Function ---
 def encode_entry(entry):
-    # For unsafe prompts → 50% refusal, 50% redirection
     if entry.get("prompt_label") == "unsafe":
-        response = REFUSAL_TEMPLATE if random.random() < 0.5 else entry["response"]
+        if entry.get("response_label") == "safe":
+            # Safe redirect exists → teach the model redirection
+            response = entry["response"]
+        else:
+            # No safe response → alternate between refusal & unsafe for contrastive training
+            response = REFUSAL_TEMPLATE if random.random() < 0.5 else entry["response"]
     else:
+        # Safe prompt → normal supervised learning
         response = entry["response"]
 
     return {
         "input_text": entry["prompt"],
         "output_text": response,
         "prompt_label": entry["prompt_label"],
-        "category_label": entry.get("category_label", "safe")
+        "response_label": entry.get("response_label", "safe"),
+        "category_label": entry.get("category_label", "safe"),
     }
 
 encoded = [encode_entry(e) for e in raw_items]
+
+random.shuffle(encoded)
+
 dataset = Dataset.from_dict({
     "input_text": [e["input_text"] for e in encoded],
     "output_text": [e["output_text"] for e in encoded],
     "prompt_label": [e["prompt_label"] for e in encoded],
+    "response_label": [e["response_label"] for e in encoded],
     "category_label": [e["category_label"] for e in encoded],
 })
 
-# Split
+# Split train/val/test
 split = dataset.train_test_split(test_size=0.2, seed=42)
 train_dataset = split["train"]
 temp_dataset = split["test"]
@@ -124,7 +140,7 @@ os.makedirs(model_dir, exist_ok=True)
 os.makedirs(results_dir, exist_ok=True)
 with open(os.path.join(results_dir, "test_dataset.json"), "w", encoding="utf-8") as f:
     json.dump(test_dataset.to_dict(), f, ensure_ascii=False, indent=2)
-print(f"✅ Saved raw test split: {results_dir}/test_dataset.json")
+print(f"Saved raw test split: {results_dir}/test_dataset.json")
 
 # ===============================================================
 # Log-likelihood calculator
@@ -158,7 +174,6 @@ def batch_loglikelihood(prompts, targets, model, tokenizer, max_len=512, device=
 optimizer = torch.optim.AdamW(model.parameters(), lr=LR)
 
 steps_per_epoch = math.ceil(len(train_dataset) / (BATCH_SIZE * GRAD_ACCUM))
-total_steps = steps_per_epoch * EPOCHS
 ce_history, con_history, total_history = [], [], []
 
 print(f"=== Training for {EPOCHS} epochs, {steps_per_epoch} steps/epoch ===")
@@ -174,7 +189,7 @@ for epoch in range(EPOCHS):
         batch = train_dataset.shuffle(seed=epoch*100+step).select(range(BATCH_SIZE)).to_dict()
         prompts, refs, labels_prompt = batch["input_text"], batch["output_text"], batch["prompt_label"]
 
-        # Cross-entropy loss
+        # Cross-Entropy loss
         enc = tokenizer(prompts, padding=True, truncation=True, return_tensors="pt", max_length=MAX_LEN).to(DEVICE)
         with tokenizer.as_target_tokenizer():
             labs = tokenizer(refs, padding=True, truncation=True, return_tensors="pt", max_length=MAX_LEN).to(DEVICE)
@@ -209,7 +224,7 @@ for epoch in range(EPOCHS):
             scaler.update()
             optimizer.zero_grad()
 
-    # Log losses
+    # Epoch stats
     ce_epoch_mean = sum(ce_loss_epoch)/len(ce_loss_epoch)
     con_epoch_mean = sum(con_loss_epoch)/len(con_loss_epoch)
     ce_history.append(ce_epoch_mean)
@@ -217,10 +232,10 @@ for epoch in range(EPOCHS):
     total_history.append(ce_epoch_mean + con_epoch_mean)
     print(f"Epoch {epoch+1}: CE={ce_epoch_mean:.4f}, Contrastive={con_epoch_mean:.4f}")
 
-    # Save per epoch
+    # Save checkpoint
     model.save_pretrained(model_dir)
     tokenizer.save_pretrained(model_dir)
-    print(f"✅ Checkpoint saved to {model_dir}")
+    print(f"Checkpoint saved to {model_dir}")
 
 # ===============================================================
 # Plot training curves
@@ -238,4 +253,4 @@ plt.tight_layout()
 plt.savefig(os.path.join(results_dir, "training_loss_curve.png"), dpi=300)
 plt.show()
 
-print("🎯 Training complete.")
+print("Training complete.")

@@ -11,6 +11,7 @@ Model: md-nishat-008/TigerLLM-1B-it
 Dataset: AI-safety Bangla prompt-response pairs
 """
 
+import random
 import os, json, math, warnings
 import torch
 import matplotlib.pyplot as plt
@@ -33,8 +34,8 @@ RESULTS_BASE_DIR = "./FineTuned_Models"
 LOSS_TYPE = "_LoRA_CE"  # for evaluation compatibility
 SAVE_FOLDER_NAME = BASE_MODEL_NAME.split("/")[-1] + LOSS_TYPE
 
-EPOCHS = 3
-BATCH_SIZE = 128
+EPOCHS = 10
+BATCH_SIZE = 16
 GRAD_ACCUM = 8
 LR = 5e-5
 FP16 = True
@@ -42,7 +43,7 @@ MAX_LEN = 512
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-print(f"🚀 Using device: {DEVICE}")
+print(f"Using device: {DEVICE}")
 
 # ===============================================================
 # LOAD MODEL + TOKENIZER
@@ -69,6 +70,7 @@ model = get_peft_model(base_model, lora_config).to(DEVICE)
 dataset_paths = [
     "/home/tahad/ai-safety-bangla/datasets/LLamaGuard_prompt_response_pairs_bangla_translation_categorized.json",
     "/home/tahad/ai-safety-bangla/datasets/ageis_prompt_response_pairs_bangla_translation_facebook_nllb-200-distilled-600M_categorized.json",
+    "/home/tahad/ai-safety-bangla/datasets/Ageis_unsafe_responses_translated.json",
 ]
 
 raw_items = []
@@ -97,6 +99,9 @@ def encode_entry(entry):
     }
 
 encoded = [encode_entry(e) for e in raw_items]
+
+random.shuffle(encoded)
+
 dataset = Dataset.from_dict({
     "input_text": [e["input_text"] for e in encoded],
     "output_text": [e["output_text"] for e in encoded],
@@ -124,7 +129,7 @@ os.makedirs(results_dir, exist_ok=True)
 test_path = os.path.join(results_dir, "test_dataset.json")
 with open(test_path, "w", encoding="utf-8") as f:
     json.dump(test_dataset.to_dict(), f, ensure_ascii=False, indent=2)
-print(f"📁 Saved test dataset to: {test_path}")
+print(f"Saved test dataset to: {test_path}")
 
 # ===============================================================
 # TOKENIZATION
@@ -182,7 +187,7 @@ trainer.train()
 # ===============================================================
 model.save_pretrained(model_dir)
 tokenizer.save_pretrained(model_dir)
-print(f"✅ Model + tokenizer saved to {model_dir}")
+print(f"Model + tokenizer saved to {model_dir}")
 
 # Training curves
 history = trainer.state.log_history
@@ -197,6 +202,6 @@ plt.title("Training vs Validation Loss (LoRA Baseline)")
 plt.legend()
 plt.tight_layout()
 plt.savefig(os.path.join(results_dir, "loss_curve.png"), dpi=300)
-print(f"📊 Loss curve saved to {results_dir}")
+print(f"Loss curve saved to {results_dir}")
 
-print("🎯 LoRA baseline training complete.")
+print("LoRA baseline training complete.")
