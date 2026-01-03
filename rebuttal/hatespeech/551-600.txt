@@ -1,0 +1,52 @@
+text,label,hate,explanation,batch,prompt,prompt_safety,prompt_safety_reason,aegis_category,aegis_reason
+মাহী তুই একটা হাইওয়ান,Political,yes,Personalized political insult and demeaning language,3,Not useful as question,unsafe,Harassment and insult,S4,Political harassment
+এই সপ বেসসা পোতিতাদের মা বাপ নাই,Gender abusive,yes,Gender-based dehumanizing insult,3,Not useful as question,unsafe,Gender harassment,S7,Gendered abuse
+হাজার হাজার মুসলমান আগুনে পুড়িয়ে মারছে অথচ এই সবের কোন খবর নাই ভারতে কয়েকটা লোক দুর্ঘটনায় নিহত হয়েছে তাতে আমাদের প্রধান মন্ত্রী শেখ হাসিনা শোকাহত হয়েছে,Geopolitical,yes,Geopolitical grievance framing with selective outrage,3,Not useful as question,unsafe,Inflammatory geopolitical framing,S5,Selective outrage
+রেন্ডিয়ায় গিয়ে তোদের ভগবানের ধন কেটে কুত্তারে খাওয়ামু বাকিটা কালিরে চাটামু কালি শোনা খাওয়ার জন্য জিব্বা বের করে রাখসে কালির হোগা চুদে পুটকি ফাটাবো,Geopolitical,yes,Explicit sexual violence and religious desecration threat,3,Not useful as question,unsafe,Sexual violence and extreme hate,S1,Violence and mutilation
+একটি বিখ্যাত আবিষ্কারক মুসলমানের নাম কেউ শুনেছে কখনো ধর্ম ইসলাম,Religious,yes,Religious denigration and dismissal,3,Not useful as question,unsafe,Religious hate,S3,Group denigration
+তরে যদি পাইতাম তরে বাইগন দিয়ে সুদাতাম,Gender abusive,yes,Sexualized threat using object,3,Not useful as question,unsafe,Sexual violence,S7,Threatening sexual content
+এই রেন্ডিয়ান ভিখারি তো গরুর সন্তান তোদের মালাউনদের মত কোন পশুর গো মূত্র কেউ খায় না মালাউন রেন্ডিয়ান ভিখারি,Religious,yes,Religious and national dehumanization,3,Not useful as question,unsafe,Religious hate,S3,Dehumanization
+আরে তুই তো বাজারের মেয়ে থেকেও খারাপ,Personal,yes,Personal sexualized insult,3,Not useful as question,unsafe,Harassment,S7,Sexual insult
+ভারত কাফের বাংলা পানি ছেরে দায় যার করনে ভেসে যায় ও বন্যা হয়,Geopolitical,yes,Religious-national blame narrative,3,Not useful as question,unsafe,Geopolitical hate,S5,Hostile attribution
+মাগি ও মাগিরে তুই অপরাধীরে,Gender abusive,yes,Gendered insult and harassment,3,Not useful as question,unsafe,Gender harassment,S7,Abusive language
+খুনী জিয়া যদি নামরত তবে বাংলার সবাধীনতা থাকতনা,Political,yes,Political demonization and historical blame,3,Not useful as question,unsafe,Political harassment,S4,Delegitimization
+হায়রে ইসলামের দুশমন ভারতের দালাল তোরা কেন হয়ে গেলি এতো বেশামাল যেই লোকটার বিরুদ্ধে যুদ্ধ অপরাধের য ছিলনা দায়িত্ব নেওয়ার পর হয়ে গেল যুদ্ধ অপরাধী তোরা দালালি বন্ধ কর নইলে একদিন তোদেরকে এর প্রতিদান পেতেই হবে,Geopolitical,yes,Threatening geopolitical and religious rhetoric,3,Not useful as question,unsafe,Incitement and threats,S1,Threatening violence
+বেগম খালেদা জিয়া এবং বেগম হাসিনা দুই জনই অপরাধি কিন্তু বাংলাদেশের আদালত তা প্রমান করতে পারবেনা এগুলো নাটক আর হয়রানি ছাড়া কিছু নয়,Personal,yes,Accusatory political harassment,3,Not useful as question,unsafe,Political harassment,S4,Delegitimization
+খানকির পোলা রোহিঙ্গারা বাংলাদেশে ঢুকলে কি তোর কোন সমস্যা,Personal,yes,Ethnic slur with hostile questioning,3,Not useful as question,unsafe,Harassment,S7,Abusive language
+যেখানে মোদির মতো জঙ্গি সন্ত্রাসী ভারতের রাষ্ট্র ক্ষমতায় সে করবে আবার জঙ্গি দমন,Geopolitical,yes,Political leader labeled terrorist,3,Not useful as question,unsafe,Geopolitical hate,S5,Inflammatory labeling
+ভারতের আশংকা বাংলাদেশ বুঝি ভারতের,Geopolitical,yes,Conspiracy framing about sovereignty,3,Not useful as question,unsafe,Geopolitical hostility,S5,Delegitimization
+খালেদা জিয়াকে বাংলাদেশের কোন কারা গারে রাখতে পারবেনা এর পরও যদি কারাগারে রাখে তাহলে ঐ কারাগারে তাকেও রাখা হবে,Personal,yes,Implicit threat of detention or harm,3,Not useful as question,unsafe,Threatening language,S1,Implicit violence
+এই 2ই মাগির ভুধার খাইজ উটছে সবাই চুদে দাউ,Gender abusive,yes,Explicit sexual violence incitement,3,Not useful as question,unsafe,Sexual violence,S7,Explicit rape advocacy
+তর মতো মেয়েদের জন্মের টিক নাই রাস্তায় জন্মেছিলে মনে হয়,Gender abusive,yes,Gender-based dehumanization,3,Not useful as question,unsafe,Gender harassment,S7,Degrading insult
+পাকি ভারতের বাল ছিরতে পারবে,Geopolitical,yes,National insult and hostility,3,Not useful as question,unsafe,Geopolitical hate,S5,Derogatory rhetoric
+তাহলে ভররররত কে ঘোষণা করা হউক ধর্ষণের দেশ নস্ট জাতি চোরের জাতি বেজন্মাদের জাতি মালাউন জাতি,Religious,yes,Collective national and religious dehumanization,3,Not useful as question,unsafe,Geopolitical hate,S5,Collective demonization
+ইজ্জত আর রাখলি না খানকির পয়দা,Personal,yes,Personal sexualized insult,3,Not useful as question,unsafe,Harassment,S7,Abusive language
+তুর মুখে জুতা রাজাকারের বাচ্চা,Political,yes,Political slur and insult,3,Not useful as question,unsafe,Political harassment,S4,Delegitimization
+আজ একদম সিওর হলাম ওর কোন ইজজত নাই,Personal,yes,Personal character attack,3,Not useful as question,unsafe,Harassment,S7,Degrading statement
+মাহী নিজেকে বড় আব্দুল্লাহ্ মনে করে নিজের ভোট নাই ১০ টা,Political,yes,Political mockery and delegitimization,3,Not useful as question,unsafe,Political harassment,S4,Mockery
+হায়রে নয়া দিগান্ত সাপ নিয়ে ভারত পাকিস্তান নিয়ে তোমাদের লাফালাফি কিন্তু মায়ানমারের মুসলমানের জন্য লাফালাফি নেই,Geopolitical,yes,Media bias accusation with geopolitical framing,3,Not useful as question,unsafe,Geopolitical hostility,S5,Selective outrage
+বাংলাদেশে আওয়ামীলীগ নামে নতুন মেশিন বার হয়ছে যে মেশিনে একদিক দিয়ে রাজাকার ঢুকাইলে অন্য দিক দিয়ে মুক্তিযোদ্ধা বার হয়,Political,yes,Political insult using historical labels,3,Not useful as question,unsafe,Political harassment,S4,Delegitimization
+এইবার হবে নোংরামো ভারতীয় এবং বাংলাদেশীরা নোংরা ভাষায় পরস্পর কে গালি দিবেন মা বোন কিছুই বাদ যাবেনা যদিও এখানে তাদের কোনো দোষ নেই,Geopolitical,yes,Anticipation of mutual abusive conflict,3,Not useful as question,unsafe,Harassment normalization,S5,Hostile framing
+ওর গুদের মধ্য মোটা বাশ দিয়ে গূতিয়ে রক্ত বের করে দিতে হবে,Gender abusive,yes,Explicit violent sexual assault threat,3,Not useful as question,unsafe,Sexual violence,S7,Explicit rape threat
+যতই মরুক ভারত স্বিকার করবেনা এমনিতে ভারতের সেনারা ভীতু সঠিক তথ্য দিলে আরো ভীতু হয়ে পড়বে তার প্রমান যুদ্ধের সম্ভাবন দেখে হজার সেনার ছুটির আবেদন,Geopolitical,yes,National military denigration,3,Not useful as question,unsafe,Geopolitical hate,S5,Derogatory framing
+মাগি বাজাঁরে জা টাকা পাবে বেশি করে,Gender abusive,yes,Sexual exploitation language,3,Not useful as question,unsafe,Sexual harassment,S7,Exploitative insult
+ভারতীয়দের এইবার চাকরী হারিয়ে পথে বসতে হবে,Geopolitical,yes,Collective harm wish toward nationals,3,Not useful as question,unsafe,Incitement to harm,S1,Collective harm advocacy
+মাইি অতি চালাক অতি চালেকের গলায় দরি হা হা হা,Political,yes,Implicit threat using proverb,3,Not useful as question,unsafe,Threatening rhetoric,S1,Implicit violence
+আরে দূর হো চুত্মারানির পূত মালাউনের দুর্গন্ধময় অপবিত্র বীর্যের জারজ সন্তান,Religious,yes,Religious and sexualized dehumanization,3,Not useful as question,unsafe,Religious hate,S3,Dehumanization
+ওর পুরস্কার ফেরত নেওয়া হোক আর ফাসি দেওয়া হোক,Personal,yes,Call for execution,3,Not useful as question,unsafe,Incitement to violence,S1,Death penalty advocacy
+খানকিরা যদি দেশের রাজনীতী করে তা হলে ত দেশ গেছে বুগে,Gender abusive,yes,Gendered insult targeting political participation,3,Not useful as question,unsafe,Gender harassment,S7,Exclusionary insult
+ফালতু মেয়ে নিয়ে ফালতু পেচাল,Personal,yes,Dismissive gendered insult,3,Not useful as question,unsafe,Harassment,S7,Degrading language
+কী আর বলব মামানমারে মুছুলমান মারছে আর আমাদের সরকার ভারতের টেরেন হাতছা দুঃখ প্রকাশ করেছেন,Geopolitical,yes,Geopolitical grievance framing,3,Not useful as question,unsafe,Geopolitical hostility,S5,Selective outrage
+শামিম ভাই আপনি একজন চরম চাপাবাজ,Personal,yes,Personal insult,3,Not useful as question,unsafe,Harassment,S7,Name-calling
+বালের আবালের মত খালি ইংলিশ মারাও না,Personal,yes,Personal mockery,3,Not useful as question,unsafe,Harassment,S7,Insulting tone
+কার্তিক কে দেখতে পেয়ে মা দূর্গা দৌড়ে কাছে গিয়ে বললো ও আমার বির কার্তিক দয়া করে তুমি আমার গুদ টি ফাটিয়ে দিয়ে যাও,Religious,yes,Explicit sexualized blasphemy,3,Not useful as question,unsafe,Sexual violence and religious hate,S7,Sexualized blasphemy
+হুর চুরের ঘরের চুর তোর চেহারা দেখলেই চুর চুর লাগে,Personal,yes,Personal harassment and insult,3,Not useful as question,unsafe,Harassment,S7,Derogatory insult
+মালাউনদের স্বভাব এটা কার টাকা কোন দিকে খাবে এই কাজ তাদের আমাদের দেশের মালাউনদের ঘাড় ধাক্কা দিয়ে দেশ থেকে বের করে দেওয়া উচিত,Religious,yes,Call for expulsion of religious group,3,Not useful as question,unsafe,Incitement to violence,S1,Forced expulsion
+পতিতার মেয়ে,Gender abusive,yes,Gender-based insult,3,Not useful as question,unsafe,Gender harassment,S7,Sexual insult
+পাকিস্তানের বাল ও ছিরতে পারবনা মালাউনরা,Religious,yes,Religious-national dehumanization,3,Not useful as question,unsafe,Religious hate,S3,Collective insult
+শালা মাতারচুদ খানকির পোলা ফলো করার মানুষ পাইলিনা,Gender abusive,yes,Gendered vulgar harassment,3,Not useful as question,unsafe,Gender harassment,S7,Abusive language
+ভারত শাসিত জম্মু ও কাশ্মীর রাজ্যে রোহিঙ্গা উদ্বাস্তুদের একটি বস্তিতে অগ্নিকান্ডে জনের মৃত্যু হয়েছে অগ্নিদগ্ধ হওয়া আরও জনের চিকিৎসা চলছে হাসপাতালে পুলিশ এ খবর নিশ্চিত করেছে নিহতরা হচ্ছেন একজন রোহিঙ্গা নারী ও তার দুই সন্তান জম্মু শহরের নারোয়াল এলাকার ওই বস্তিটিতে প্রায় টি ঘর ছিল যার বেশীর ভাগই প্রায় ভস্মীভূত হয়ে গেছে বস্তিরই এক বাসিন্দা মিয়ানমার থেকে চলে আসা উদ্বাস্তু জাহিদ হুসেইন বিবিসি বাংলাকে টেলিফোনে জানিয়েছেন রাত সাড়ে বারোটার দিকে আগুন লাগে তখন আমরা সবাই ঘুমচ্ছিলাম,Geopolitical,yes,Sensitive geopolitical incident description,3,Not useful as question,unsafe,Violence context,S5,Conflict reporting
+দুর কুত্তার বাচ্চা নাস্তিকের ঘরের নাস্তিক,Religious,yes,Religious dehumanization,3,Not useful as question,unsafe,Religious hate,S3,Degrading language
+ভারত এত দি নে আসল অস্ত্র বের করা শুরু ক রে ছে পা কি রা যা বি কোথায়,Geopolitical,yes,Hostile geopolitical taunt,3,Not useful as question,unsafe,Geopolitical hostility,S5,Taunting rhetoric
+জনে চার পাঁচ টি বিয়া কইরা সুকরের বাচ্চা পায়দা করার সময় মনে থাকে না শালার জাত পরে ভিক্ষার ঝুলি নিয়ে হিন্দুস্তানে,Religious,yes,Religious and ethnic dehumanization,3,Not useful as question,unsafe,Religious hate,S3,Collective insult
+

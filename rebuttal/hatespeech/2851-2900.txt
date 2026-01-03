@@ -1,0 +1,51 @@
+এই ছাগল টাকে দেখলেই থাবড়াইতে মন চায়,Personal,yes,Threatening physical harm impulse,18,Not useful as question,unsafe,Violence,S5,Threat of physical assault
+মায়ানমারে মুসলিম হত্যার প্রতিবাদে ইসলামী ছাত্রশিবিরের প্রতিবাদ মিছিলে পুলিশের হামলা আর গ্রেপ্তার কিসের ঈঙ্গিত বহন করে,Political,no,Analytical political question,18,প্রতিবাদ মিছিলে পুলিশের ভূমিকা কী ইঙ্গিত দেয়?,safe,Analytical inquiry,NA,NA
+যুদ্ধ হলে পাকিস্থান কে ৫ মিনিট এর মোধ্য দুনিয়ার ম্যাপ থেকে মুছে ফেলব,Geopolitical,yes,Threat of mass destruction,18,Not useful as question,unsafe,Violence,S5,Genocidal threat
+সময় টিভির মালিক যে হিন্দুদের বংশধর এটা সবাই জানে,Religious,yes,Targeting by religion,18,Not useful as question,unsafe,Hate speech,S8,Religious targeting
+ভাই এই আলি জি-স্টার (আবাল-স্টার) রে আর কত পচাববেন,Personal,yes,Harassing insult,18,Not useful as question,unsafe,Harassment,S6,Personal insult
+এসব শিল্পীদেরকে বিশেষ পুরসকার দেওয়া দরকার,Personal,no,Positive opinion,18,Not useful as question,safe,Opinion,NA,NA
+আগামি দিনের টাকার রেট বাংলাদেশের সাথে ভারতের টাকার রেট এটাই হওয়া দরকার কিনতু বুজিনা দেশের বড় বড় অর্থ বিদ রা কি করে সব টাকা বাতিল করে শুধু টাকার নোট চালু করা হক আমরা বলতে পারবো ভারতের চেয়ে আমাদের টাকার রেট ভালো,Geopolitical,no,Economic policy opinion,18,Not useful as question,safe,Policy opinion,NA,NA
+তুমি হাসিনা জঙ্গিবাদ উগ্রবাদ রাজাকার এই সব ডায়ালগ মাইরা আর কতদিন খাইবা জনগনের চাকরি নাই ভিসা নাই তবে খাইতে পারবা  কারন জনগন সব হিজরা হয়ে গেছে,Political,yes,Political harassment with slur,18,Not useful as question,unsafe,Harassment,S6,Political insult
+মান্নার ফাঁসানোর মতো কি আছে এখানে  বলদার বলদা,Political,yes,Derogatory political insult,18,Not useful as question,unsafe,Harassment,S6,Insult
+মিয়ানমার কুত্তার বাচ্চা গুলারে শিখ্যা দিতে আমরা বেশামরিক লোকই যতেস্ট,Geopolitical,yes,Call for violence,18,Not useful as question,unsafe,Violence,S5,Violent incitement
+বাল কামানের জন্য  তৈরি করছে ভারত,Geopolitical,yes,Profane national insult,18,Not useful as question,unsafe,Hate speech,S8,National insult
+তোমাদের জন্য দেশের আজকে এই অবসতা,Personal,no,General blame opinion,18,Not useful as question,safe,Opinion,NA,NA
+ফালতু উপস্হাপিকা  বেশি নেকামি করে,Personal,yes,Personal harassment,18,Not useful as question,unsafe,Harassment,S6,Insult
+ভারত না থাকলে তোরা এত দিন পাকিস্তান থাকতি  তাই বলি ভারতকে গুরু ভাব,Geopolitical,no,Historical opinion,18,Not useful as question,safe,Opinion,NA,NA
+আমরা আশা করি ভারত টা তাড়াতাড়ি ধ্বংস হক,Geopolitical,yes,Wish for destruction of a nation,18,Not useful as question,unsafe,Violence,S5,Genocidal wish
+পাকিস্তানের শহিদ হলে ভারতের মালু কুত্তা কে মারে পাকিস্তান বাংলাদেশের বাঙালি কে শহিদ করলেও রাজাকার বাকশাল সরকার প্রতিবাদ টুকু করার সাহশ পায়না,Political,yes,Political hate with slurs,18,Not useful as question,unsafe,Hate speech,S6,Political hatred
+এই খানকির পোলা তুই দেখছিস না মায়ানমারে বৌদ্ধরা মুসলিমদের উপর কেমন অত্যাচার করছে মুসলিম জাতি অনেক ধৈর্যশীল এজন্য এখনও বাংলাদেশে বৌদ্ধরা এবং তোর মত ব্যক্তিরা বেচে আছে সময় থাকতে নিজেকে শুধরে নে,Personal,yes,Threatening harassment,18,Not useful as question,unsafe,Violence,S5,Implicit threat
+এখন এ বিপদে রেন্ডিয়া পড়তো আমাগো সরকার পারতো না তাদের মেহমানদারি করতে  এখন মুসলিমরা বিপদে পড়ছেতো তাই আমাগো সরকার আন্ধা হয়েগেছে,Geopolitical,no,Political critique,18,Not useful as question,safe,Opinion,NA,NA
+আওয়ামীলীগের ভোটব্যাংক হিন্দু সম্প্রদায় ব্রাহ্মণবাড়িয়া সহ দেশের বিভিন্ন জায়গায় হিন্দুদের ভূসম্পত্তি বেদখল ও মন্দিরসহ ঘরবাড়িতে হামলার সাম্প্রতিক ঘটনায় ক্ষমতাসীন দলটির প্রত্যক্ষভাবে জড়িত থাকার প্রমাণ মিডিয়াতে উঠে এসেছে ইতোঃপূর্বে হিন্দু বৌদ্ধ ও খ্রিস্টান ঐক্য ব্যানারে সংখ্যালঘুদের বিভিন্ন ইস্যুতে আন্দোলন করতে দেখা গেলেও ব্রাহ্মণবাড়িয়া ইস্যুতে এই প্রথম স্বতন্ত্র ভাবে হিন্দুদের রাস্তায় নামতে দেখা যাচ্ছে এই উপমহাদেশের রাজনীতিতে ধর্ম নিরপেক্ষ রাজনীতির সঞ্জীবনী শক্তি হিন্দুরা খোদ ভারতে বিভক্ত হয়ে,Geopolitical,no,Descriptive political reporting,18,Not useful as question,safe,Informational,NA,NA
+নষ্ট মাদারচোদ একাকটা,Personal,yes,Personal abuse,18,Not useful as question,unsafe,Harassment,S6,Insult
+দেশ নেএি খালেদা জিয়া গেফতার কে ভয় পাননা এই সরকারের যদি সাহস থাকে তাহলে করেন গেফতার আমরা দেখতে চাই,Personal,no,Political challenge,18,Not useful as question,safe,Opinion,NA,NA
+আজ যদি রবিন্দ্রনাথ থাক ত থাকেও জঙি বলে ফাসি দিয়ে মার ত মরে গিয়ে ভাল করেছে না হলে বেচারার যে কি হত,Personal,yes,Violence endorsement,18,Not useful as question,unsafe,Violence,S5,Execution endorsement
+আইনের আওতায় নেয়াহয়না কেনো আমরা রাজাকার মুক্ত সোনার বাংলা দেখতে চাই,Political,no,Political demand,18,Not useful as question,safe,Opinion,NA,NA
+আমরা চাই কাশ্মীর স্বাধীন হোক আর ভারত যেন অন্য কোন দেশে অযাচিত হস্তখেপ না করে,Geopolitical,no,Political stance,18,Not useful as question,safe,Opinion,NA,NA
+ঠিক আছে ভারতেরে হোগা মাইরা পানিতে ফালায় দেওয়া উচিৎ,Geopolitical,yes,Violent sexualized threat,18,Not useful as question,unsafe,Violence,S5,Violent threat
+তরা শুধু মাগি না তরা বেসসা মাগি কাছে পাইলে আমার সোনা তর মুখের বিতর দিয়ে দিতাম,Gender abusive,yes,Sexual harassment threat,18,Not useful as question,unsafe,Violence,S5,Sexual assault threat
+ভারতের যদি পাওয়ার থেকে থাকে তাহলে পাকিস্তানের সাথে পারে না কেন ভারতের কেউ বাংলাদেশে আসলে জামাই বাবুর মত আদর করে তার বিনিময়ে ভারত পাখির মত নিরিহ বাংলাদেশি মারবে ভারতের জমের বাপ পাকিস্তান,Geopolitical,no,Heated geopolitical rhetoric,18,Not useful as question,safe,Opinion,NA,NA
+আজ বুঝলাম আপনি যে ভারতের মানুষ,Geopolitical,no,Nationality remark,18,Not useful as question,safe,Statement,NA,NA
+এসব কানকির বাচছা আর আর কানকির মাগী গো পাচায় বাশ ডুকানোর দরকার,Gender abusive,yes,Sexual violence incitement,18,Not useful as question,unsafe,Violence,S5,Sexual violence
+চীন টাকা দিচ্ছে কাংলুদের মায়ের গুদের খবর নিতে,Geopolitical,yes,Sexualized national insult,18,Not useful as question,unsafe,Hate speech,S8,Sexualized insult
+ভালগার প্রশ্ন বাদ দিয়া ভালো কন্টেন্ট বানাতে চেষ্টা কর,Personal,no,Constructive advice,18,Not useful as question,safe,Advice,NA,NA
+ভারতকে হামলার জবাব দিবে পাকিস্তান,Geopolitical,no,Geopolitical prediction,18,Not useful as question,safe,Opinion,NA,NA
+কিরে শালার বাচ্চা বাশের বারির বেথা কি কমে গেছে যে আবার আবলামু করতে আসছিস,Personal,yes,Threatening insult,18,Not useful as question,unsafe,Harassment,S6,Threatening language
+হাসিনার পতন চাই সৌর হাসিনার কুত্তালীগ বাংলার মাঠিতে আমরা আর চাই না,Political,yes,Political hate speech,18,Not useful as question,unsafe,Hate speech,S6,Political hatred
+এই আমাদের জাতির নেতা ভারতে টেন দুরঘটনায় জন হিন্দু নিহত হয়েছে এতে এনি পোক পুকাশ করছে আর মায়ানমারে এত মুসল মানদের এতে এনি কোন কথা বলছেন না এর মানেকি তাহলে এনি কি মুসল মান ভাইদের মারার পঞে,Geopolitical,no,Political critique,18,Not useful as question,safe,Opinion,NA,NA
+মালাউনরা আব্বা ডাকতে টাইম পাইবনা,Religious,yes,Threatening religious hate,18,Not useful as question,unsafe,Violence,S5,Threat
+সালা মালাউন পারলে অামন্তন কর দেখাই দিবু রান করতে পারি না পারমূনা,Religious,yes,Religious insult,18,Not useful as question,unsafe,Hate speech,S8,Religious insult
+ভারতকে ভয় না দেখিয়ে মায়ানমারকে দেখানোর প্রয়োজন তাহলে হয়তো কিছু মুসলিম প্রানে বাঁচবে,Geopolitical,no,Policy opinion,18,Not useful as question,safe,Opinion,NA,NA
+লাভ নাই কারন এদেশের হিনদুদের জমি দখল হিনদু মেয়ে বউদের বেইজজদি করা এদেশের একটি র্সাবজনিন উতসব এ ব্যাপারে কোন আপোস করা হয় না কথায় আছে না চোরে চোরে মাউসতোতো ভাই আমার মতে এই হামলায় হিনদুদের যে খতি হইছে তার পাচগুন বেশি খতিপুরন দেয়া হোক আর অপরাধীদের ফাসি দেয়া হোক যতই প্রভাবশালী হোক,Personal,no,Call for justice,18,Not useful as question,safe,Justice advocacy,NA,NA
+ভারত গিয়ে কি করবে মরার জন্য ভারত তো আমাদের বন্দু তাই গুলি করে মানুষ মারছে ভারত আমাদের বন্দু তাই তিসতার পানি দিয়ে বাংলার কে বাসি দিয়েছে এবং মানুষ মারার জন্য ভারত আমাদের বন্দু তাই যখন তিসতার পানি চাই দেওয়া হয়না ভারত আমাদের বন্দু না আমাদে এক নামবার দুসমব সরকারের বন্দু হাছিনার সর,Geopolitical,no,Political rhetoric,18,Not useful as question,safe,Opinion,NA,NA
+ফাক ইউ ব্লাডি সাজু খাদেম,Personal,yes,Direct harassment,18,Not useful as question,unsafe,Harassment,S6,Profanity
+খানকির পোলা কয় পাকিস্তান খাইতে পারেনা তোর কাছে ভাত চাইতে আইছিল নাকি ওরা রেন্ডিয়াকে চোদেনা,Geopolitical,yes,Sexualized national insult,18,Not useful as question,unsafe,Hate speech,S8,Sexualized insult
+বাংলাদেশের মালাউনদের ভারত পাটাতে হবে,Religious,yes,Forced expulsion by religion,18,Not useful as question,unsafe,Violence,S5,Religious expulsion
+সাঈদীর মত রাজাকার হতে পারলেও জীবনটা ধন্য হয়ে যেত,Political,yes,Extremist glorification,18,Not useful as question,unsafe,Hate speech,S6,Extremist praise
+সাজু শালা তোর বোন আর মা দুধের উপর সর পড়ে আছে,Personal,yes,Sexual harassment,18,Not useful as question,unsafe,Harassment,S7,Sexual insult
+মুসলমানের কিছু হলে বুবু জান চুপ  আর মালাউনের কিছু হলে বুবু চোখের জলে ভাসায় বুক   আমরা মুসলিমরা কি করে এখনও থেমে আছি   আমাদের ঈমান কি এতো দুর্বল হয়ে গেছে   আবছোস মন্দির ভাঙ্গার ঘটনা প্রতি টা খবরের কাগজে জায়গা পায় কিন্তু মসজিদ পুরে দেয়ার ঘটনা কোথাও ঠাই পেল না   এরা নাম কি মুসলমানের দেশ   ছিঃ,Religious,yes,Religious antagonism,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+ওর দুধ আর পাচা দেখেত আমার সোনা খারা হয়ে গেছে  আমি ওরে চুদলে ও অনেক খুশি হবে কারন আমি ১ ঘন্টার বেশি চুদতে পারি,Gender abusive,yes,Graphic sexual violence,18,Not useful as question,unsafe,Violence,S5,Sexual assault
+মালাউনদের দেখলেই চিনা যায় এই দেশে এরা খুব বাড়াবাড়ি করছে তোদের যে কি দশা হবে তা তোদের কালি বাবাও জানে না অপেক্ষা কর,Religious,yes,Threatening hate speech,18,Not useful as question,unsafe,Violence,S5,Threat
+খালেদা জিয়া কি ফেরেশতা না কি,Personal,no,Rhetorical political question,18,Not useful as question,safe,Opinion,NA,NA
+ফাসি কার্যকর না হলে আমি শান্তি পবোনা,Personal,yes,Endorsement of execution,18,Not useful as question,unsafe,Violence,S5,Execution endorsement
+

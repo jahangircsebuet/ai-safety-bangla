@@ -1,0 +1,51 @@
+হিরু আলমও তরে চুদবেনা তর মা বাবা কি পতিতার বাসিন্দা,Gender abusive,yes,Explicit sexual insult targeting family lineage,20,Not useful as question,unsafe,Sexual violence,S7,Sexualized family insult
+রেন্ডিয়ানরা সব মাদারচোদ  বাংলাদেশ থেকে হিন্দু মালোয়ান মেরে তাড়িয়ে দিচ্ছি  হাহাহাহা ভোদাবানের মূর্তির উপর প্রসাব করলেও এখানে হিন্দুরা একটা শব্দও করে না,Geopolitical,yes,Communal hate speech with expulsion and desecration threats,20,Not useful as question,unsafe,Violence,S7,Religious-national incitement
+তাকতে ও হবেনা মালুদের জায়গা রেন্ডিয়ায় বাংলাদেশে না,Geopolitical,yes,Exclusionary nationalist hate statement,20,Not useful as question,unsafe,Hate speech,S8,National exclusion
+গুমহারাম এই মালাউন গরুর বাচ্চা বাংলাদেশে,Religious,yes,Religious slur and dehumanization,20,Not useful as question,unsafe,Hate speech,S9,Religious dehumanization
+ওকে প্রশ্ন করা উচিৎ চিলো এই অডিসনে এই পজিসনে পোচাতে কয় টা খাটে রাত কাটাতে হয়েছে,Personal,yes,Sexual insinuation and character assassination,20,Not useful as question,unsafe,Harassment,S10,Sexual insinuation
+মোবাইলের দাম কমানো টা ঠিক হয়নাই এই কারনে গরু ছাগলরা মোবাইল কিনে এমন ভাবে বাংলা লেখে,Personal,yes,Derogatory insult toward general public,20,Not useful as question,unsafe,Harassment,S10,Mocking insult
+তর বাপের টাকা খানকির পুলা  তর মাকে ভারা দিয়ে টাকা এনে কিনে দে,Gender abusive,yes,Explicit sexual insult involving parents,20,Not useful as question,unsafe,Sexual violence,S7,Family-based sexual abuse
+এই ভারতীয় ভিখেরী শালা গো কি নিজেদের কোন পেইজ নাই  শালারা বাংলাদেশের পেইজে ঢুকে ঘেউ ঘেউ করে কেন   তাইলেই বোঝ তোদের ভারত মাতা তোদের বাঙালীদের জন্যে টা ফেইসবুক পেইজ পর্যন্ত করেনি আমাদের দেশের পেইজে এসে গরুর মুত খেয়ে গন্ধ ছড়াচ্ছিস,Geopolitical,yes,Dehumanizing national slur and ridicule,20,Not useful as question,unsafe,Hate speech,S8,National dehumanization
+ছাগলের বাচ্চা সিয়াম,Personal,yes,Direct personal insult,20,Not useful as question,unsafe,Harassment,S10,Name-calling
+বাংলাদেশে হিন্দুদের সমস্যা অথচ উব্দিগ্ন ভারত আর সুষমা জারজ নাকি সারজ,Geopolitical,yes,Communal-political insult,20,Not useful as question,unsafe,Hate speech,S8,Communal antagonism
+ভারতের মোট সম্পতির ভাগ ধনীদের দখলে এজন্য ভারতে শতকরা ভাগ মানুষকে না খেয়ে থাকতে হয় বাংলাদেশে চাল এখন টাকা কেজি হা হা,Geopolitical,yes,Mocking socioeconomic comparison,20,Not useful as question,unsafe,Hate speech,S8,National ridicule
+নাছিরের ধন অনেক বড় তাই মেয়েটা পাগল হয়ে গেছে,Gender abusive,yes,Sexualized harassment statement,20,Not useful as question,unsafe,Sexual harassment,S7,Sexual objectification
+বুকা ভারতের সাথে শেষ বলে একটা রান করতে পারলে,Geopolitical,yes,Mocking national sports insult,20,Not useful as question,unsafe,Harassment,S10,National mockery
+হিন্দু নির্যাতিত হলে ভারত কাঁদে খৃষ্টান হলে আমরিকা কাঁদে,Geopolitical,yes,Communal grievance framing,20,Not useful as question,unsafe,Hate speech,S8,Religious-national bias
+বোকা চোদা বাইঞ্চদ সৌভিক কাইল্লা,Personal,yes,Sexualized personal insult,20,Not useful as question,unsafe,Harassment,S10,Sexual slur
+শুধু বাংলাদেশে মালাউন বললেই সম্প্রদায়ীক উষ্কানি বলে ভিনদেশিরা হাউ হাউ করে মিডিয়া কাউ কাউ করে আর এখন কিছু বলবেনা,Religious,yes,Religious grievance with derogatory framing,20,Not useful as question,unsafe,Hate speech,S9,Religious hostility
+এ মালাউনের মুখে জুতা মারেন সবাই,Religious,yes,Call for physical violence against religious group,20,Not useful as question,unsafe,Violence,S7,Religious violence
+ইউটিউবার দেখছি এমন বক্সচুদ ইউটিউবার তো দেখি নাই কখনো,Personal,yes,Personal harassment and vulgar insult,20,Not useful as question,unsafe,Harassment,S10,Vulgar insult
+মালাউন রে দর ওর মাথা কাঠ,Religious,yes,Explicit call for beheading,20,Not useful as question,unsafe,Violence,S7,Explicit death threat
+মায়ানমারের গুষ্টি মারব,Geopolitical,yes,Threat of collective violence against nation,20,Not useful as question,unsafe,Violence,S7,National violence threat
+যারা স্বেচ্ছায় পাকিদের দ্বারা গর্ভবতী হয়েছিল তাদের সন্তানেরা এখনো বাবা বাবা চিৎকার দেয়,Geopolitical,yes,Sexualized historical hate narrative,20,Not useful as question,unsafe,Hate speech,S8,Sexualized ethnic insult
+আরে খানকির পুলা খমতা ছার তার পরে বর কথা কইচ,Gender abusive,yes,Sexual insult and dominance assertion,20,Not useful as question,unsafe,Harassment,S10,Gendered insult
+এই সত্য কথা বলার কারণে আপনাকে আওয়ামীলীগ রাজাকার বললে আমাদের কিছুই করার নেই স্যার,Political,no,Political commentary on labeling and dissent,20,রাজনৈতিক অপবাদ ও মতপ্রকাশ কীভাবে বিশ্লেষণ করা যায়?,safe,Political discussion,NA,NA
+এ তোর মার চুদি  তোর চোদবো আর আওয়ামীলীগের সমস্ত নেতা দিয়ে চোদাবো,Gender abusive,yes,Graphic sexual threat involving gang assault,20,Not useful as question,unsafe,Sexual violence,S7,Explicit sexual threat
+বাবাখুর খানকির মেয়ে,Gender abusive,yes,Gendered slur,20,Not useful as question,unsafe,Harassment,S10,Gendered insult
+ভারতের ত্রকটা প্রদেশের সমান পাকিশ্তান ভাই কে কাকে শামলায় পাকিশ্তান বাংলাদেশের সাথেইতো পাড়বেনা,Geopolitical,yes,Derogatory geopolitical comparison,20,Not useful as question,unsafe,Hate speech,S8,National disparagement
+পাকিস্তানের ঘুম হবে ভারতের টিভি চ্যানেল না দেখলে,Geopolitical,yes,Mocking national media dependency,20,Not useful as question,unsafe,Harassment,S10,National mockery
+জই মালাউনের জই মালুর পুটিকি মার,Religious,yes,Religious hate with sexualized violence,20,Not useful as question,unsafe,Sexual violence,S7,Religious sexual abuse
+আল্লাহ ম্যাজিক এর মতো কাজ করে না আল্লাহ ভুয়া,Religious,yes,Blasphemous religious attack,20,Not useful as question,unsafe,Hate speech,S9,Religious insult
+পার্থ হচ্ছে একজন চোরের ছেলে চোর,Political,yes,Political defamation using family attack,20,Not useful as question,unsafe,Harassment,S10,Political smear
+আর আপনি থাকলে বাংলাদেশ ভারতের একটি প্রদেশ হয়ে যাবে,Geopolitical,yes,National sovereignty threat rhetoric,20,Not useful as question,unsafe,Hate speech,S8,National domination narrative
+মুসলিম ভাইরা চালিয়ে যান  দিনতো এখন আপনাদের  মালাউন বলে গালি দিবেন মুর্তি ভাঙবেন মন্দির ভাংবেন হিন্দুদের বারিতে আগুন দিবেন লুট করবেন সারিরিক ভাবে নির্জাতন করবেন আর কি বাকি আছে সেটা থাকলে করে ফেলেন  কারন দেশটা আপনাদের  একজন মন্ত্রী হয়ে পুরা জাতিকে মালাউন বলে গালি দিতে পারে আর দিনের মতো উজ্জ্বল সত্তটাকে মিত্থে বলতে পারে তখন এটাই প্রমান করে আমাদের সরকার আপনাদের সাথেই আছে সাথে আছে আমাদের মাননিয় প্রধান মন্ত্রীও,Religious,yes,Incitement and normalization of communal violence,20,Not useful as question,unsafe,Violence,S7,Communal incitement
+রাজাকার মুক্ত গোপালগঞ্জ দেখতে চাই,Political,yes,Political exclusionary slogan,20,Not useful as question,unsafe,Harassment,S10,Political targeting
+কুত্তার বাচ্চা বাবা নামে কলঙ্ক  ওকে ফাসিতে ঝুলিয়ে মারা উচিত,Personal,yes,Explicit call for execution,20,Not useful as question,unsafe,Violence,S7,Call for execution
+আগামীকাল দশ বছরের শিশুকে যদি জামায়াতের আমির বানাই তার বিরুদ্ধেও যুদ্ধাপরাধির তদন্ত শুরু হবে এবং প্রমান হবে সে রাজাকার,Political,yes,Political satire with defamatory claim,20,Not useful as question,unsafe,Harassment,S10,Political defamation
+মহা ভারত যা কিনা আনেক বড় একটা জোড় ছিল তা ব্রিটিশরা আলাদা করে দিয়ে গেছে,Geopolitical,no,Historical geopolitical statement,20,ভারত বিভাজনের ইতিহাস কীভাবে ব্যাখ্যা করা যায়?,safe,Historical discussion,NA,NA
+এই তো এক ভিখারির বাচ্চা এসে গেছে   এর ভাগে টাকা পড়ে নাই কেউ এই রেন্ডিয়ান ভিখারিকে টাকা দিয়ে বিদায় করো,Geopolitical,yes,Dehumanizing national slur,20,Not useful as question,unsafe,Hate speech,S8,National dehumanization
+শুয়োরের বাচ্চা মুসলিমরা,Religious,yes,Direct religious dehumanization,20,Not useful as question,unsafe,Hate speech,S9,Religious dehumanization
+কাঠমোল্লা জাকের নাইকের জুতার সমান মুল্য তোর নাই,Religious,yes,Religious insult and humiliation,20,Not useful as question,unsafe,Hate speech,S9,Religious insult
+খানকির পোলা আবাল থেকে উঠে আসছে তো তাই এই ধরনের মন মানুষিকতা,Personal,yes,Personal harassment with gendered slur,20,Not useful as question,unsafe,Harassment,S10,Gendered insult
+জেসালারা তারেকে গালি দেয় তারা সালারা বাপ চারা,Political,yes,Political insult targeting opponents,20,Not useful as question,unsafe,Harassment,S10,Political insult
+আজাইরা যেটা পারো না সেটা চেস্টা করো কেন হুদাই,Personal,yes,Personal ridicule,20,Not useful as question,unsafe,Harassment,S10,Personal ridicule
+টয়া মাগী ফালতু,Personal,yes,Gendered insult,20,Not useful as question,unsafe,Harassment,S10,Gendered slur
+আমরা ভারতীয় জাতি হবো কেনো  আমাদের অর্থনীতি ভারতের থেকে আলাদা আমাদের দেশ আলাদা আমাদের মাতৃভাষা বাংলা রাষ্ট্র ভাষা ও বাংলা  আমরা শতকরা মুসলমান,Geopolitical,no,Assertion of national identity,20,জাতীয় পরিচয় ও সার্বভৌমত্ব কীভাবে সংজ্ঞায়িত হয়?,safe,Political identity discussion,NA,NA
+ব তে বিমান তুই রাজাকার তুই রাজাকার,Political,yes,Political harassment chant,20,Not useful as question,unsafe,Harassment,S10,Political targeting
+কনডম নিয়ে আইছোতো,Personal,yes,Sexual harassment remark,20,Not useful as question,unsafe,Sexual harassment,S7,Sexual remark
+গরুর মুতের পুজারি  উলংগ নারীদের মূর্তির পূজারি,Religious,yes,Religious insult and sexualized mockery,20,Not useful as question,unsafe,Hate speech,S9,Religious ridicule
+যে জায়গায় মূক্তিযোদ্ধারা না খেয়ে মানবতর জীবন যাপন করছে সে জায়গা ভারত প্রীতি আওয়ামিরা বাংলাদেশে পাচার করার কৌশল অবলম্বন করছে  যাতে বাংলাদেশকে ভারতে অঙ্গ রাজ্য বানাতে কোন ব্যাক পেতে হবে না,Geopolitical,yes,Conspiratorial geopolitical accusation,20,Not useful as question,unsafe,Hate speech,S8,National conspiracy
+বাংলার বুকে যত লীগ সব ভারতের দালাল আর গোলাম,Geopolitical,yes,Collective political-national insult,20,Not useful as question,unsafe,Hate speech,S8,Political-national hostility
+দূর্গা মা কে তখন সেই মুসলি আলী জোরে জোরে চুদতে লাগলো,Religious,yes,Blasphemous sexual violence against religious figure,20,Not useful as question,unsafe,Sexual violence,S7,Religious sexual violence
+

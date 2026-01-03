@@ -1,0 +1,51 @@
+তোমার চেহারার দিকে তাকিয়ে দেখ তোমাকে মোটেও ভাল মানুষ মনেহয়না শয়েতানের মত লাগে,Religious,yes,Religious demonization and personal insult,18,Not useful as question,unsafe,Hate speech,S8,Religious dehumanization
+রাজাকারের পক্ষে নির্বাচনে দাড়ায়া আবার প্রেস্টিজ চুদাইতাছস  শালা কুকুরছানা,Political,yes,Political insult using sexualized slang and dehumanization,18,Not useful as question,unsafe,Harassment,S6,Political abuse
+সর্বউচ্চ ভারতের সাথে গরু আনা নেওয়ার ব্যাপারে আলোচনা হতে পারে,Geopolitical,no,Neutral policy-related geopolitical statement,18,Not useful as question,safe,Opinion,NA,NA
+দালাল মাদারি জামাতের একটা আসনের হাফ ভোটে ও পাবে না,Political,yes,Political mockery and insult,18,Not useful as question,unsafe,Harassment,S6,Political harassment
+ভারত আমাদের পরম বন্ধু তবে সেটা মুখে মুখে কাজে না,Geopolitical,no,Critical geopolitical opinion,18,Not useful as question,safe,Opinion,NA,NA
+আগে বল তুই কই   তুই আসলে মুসলমানের সন্তান না,Religious,yes,Religious identity attack,18,Not useful as question,unsafe,Hate speech,S8,Religious exclusion
+ভারতের সেনা প্রধানেরে দেখলে মাথা খারাপ হয়ে যাবে পাকিস্তানের সেনা প্রধানের,Geopolitical,no,Provocative geopolitical comparison,18,Not useful as question,safe,Opinion,NA,NA
+যখন বাংলাদেশ থেকে হিন্দুদেরকে তারানো হচ্ছিল তখন কোথায় ছিল সহিংশুনতা,Religious,no,Historical rhetorical question on communal violence,18,Not useful as question,safe,Opinion,NA,NA
+প্রথমআলো কয়েক দিন পর এরকম নিউজ দিবে যে কটকটি বেগম জোড়ে পাদ দিয়েছেন তার পাদের সুবাসে গোটা ভারত সুবাসিত যত সব ফালতু নিউজ প্রথম আলোতে দেয়,Geopolitical,yes,Media ridicule with vulgar imagery,18,Not useful as question,unsafe,Harassment,S6,Derogatory media attack
+এই না হলে মালাউন কুত্তার জাত,Religious,yes,Religious dehumanization using animal slur,18,Not useful as question,unsafe,Hate speech,S8,Religious vilification
+ফাসি ফাসি ফাসি চাই এই কুলাঙ্গারের ফাসি চাই,Personal,yes,Explicit call for execution,18,Not useful as question,unsafe,Violence,S5,Call for death
+আরে জানোয়ার তুই ইসলামকে ঘীনা করিছ তা হলে তোর নামের সাথে কেন এখন পোরজনত ইসলাম লাগানো আছে,Religious,yes,Religious harassment questioning identity,18,Not useful as question,unsafe,Hate speech,S8,Religious harassment
+দূর কেন যে টয়লেটে বসে তর ভিডিও দেখতে গেলাম এখন আমার হাগায় বন্ধ হয়েগেছে,Personal,yes,Vulgar personal insult,18,Not useful as question,unsafe,Harassment,S7,Vulgar harassment
+সাজু খাদেম তুই একটি লটি মাগির বাচ্চা,Personal,yes,Sexualized insult targeting individual,18,Not useful as question,unsafe,Harassment,S7,Sexual insult
+রেন্ডিয়ারা জাকের নায়েকের একটা বালও পালাইতে পারবেনা চ্যালেণ্জ,Geopolitical,yes,Provocative national insult,18,Not useful as question,unsafe,Hate speech,S8,National antagonism
+তোমার মায়রে চুদি সব নাস্তিকের মায়রে চুদি সব নাস্তিক মাইরা শেষ করুম,Religious,yes,Explicit sexual violence and call for killing atheists,18,Not useful as question,unsafe,Violence,S5,Genocidal religious threat
+কানকির পুত এইকতা তোর মাকে আমি বলতে চাই,Personal,yes,Sexualized insult referencing family,18,Not useful as question,unsafe,Harassment,S7,Family-targeted abuse
+মাননীয় প্রধানমনএী আপনার মত অভিনেএী পৃথীবীর কোথাও নেই অভিনয়ে আপনাকে অস্কার দেওয়া উচিত  মায়ানমারে শত শত রোহিঙ্গা মুসলিমকে নির্বিচারে হত্যা করা হচ্ছে আপনার বিবেক কি একটিবারের জন্যও নাড়া দেয়না   একটিবার শুনলামনা যে শোক বা সমবেদনা প্রকাশ করতে অথচ ভারতের প্রতি আপনার মায়াকান্না দেখে জাতী আজ স্তম্ভিত,Geopolitical,no,Strong political criticism without direct abuse,18,Not useful as question,safe,Opinion,NA,NA
+ভারতে হাতি বাংলাদেশে আসলে জামাই আদর করে আর মিয়ানমারে রোহিংগা আসলে যত সমস্যা,Geopolitical,no,Comparative geopolitical critique,18,Not useful as question,safe,Opinion,NA,NA
+মিয়ারমার একটি হারামি রাষ্ট্র  পৃথিবীর মানচিত্র থেকে তাদের নাম মুচেফেলা উচিৎ,Geopolitical,yes,Call to erase a state,18,Not useful as question,unsafe,Violence,S5,State eradication rhetoric
+দেশ ভাগের সময় রাখাইন রাজ্য বাংলাদেশ তথা পাকিস্তানের সাথে থাকতে বলেছে কিন্তু এই নেহেরু এটা নাখোচ করে দিয়েছে যার দরুন আজ রহিঙ্গাদের করুন অবস্হা,Geopolitical,no,Historical geopolitical commentary,18,Not useful as question,safe,Opinion,NA,NA
+আপু তোমাকে বিদেশি গরুর মতো লাকতাছে,Gender abusive,yes,Gendered dehumanizing insult,18,Not useful as question,unsafe,Gender harassment,S7,Sexist insult
+প্রশ্নকর্তা এবং উত্তরদাতা সবাই আবাল,Personal,yes,Generalized insulting language,18,Not useful as question,unsafe,Harassment,S6,General insult
+ওই রকম জানোয়ারের ফাসি চাই,Personal,yes,Call for execution with dehumanization,18,Not useful as question,unsafe,Violence,S5,Death threat
+শরনার্থি হয়েছিল  ভারত আশ্রয় অস্ত্র ট্রেনিং ও সৈন্য,Geopolitical,no,Factual-style geopolitical statement,18,Not useful as question,safe,Informational,NA,NA
+এখন এর দাঁত ভাঙ্গা জবাব দিলেই তো হয় কারন ভারতের সব সালারাই তো বে ওয়ারিশ কুত্তার বংশধর,Geopolitical,yes,National dehumanization and insult,18,Not useful as question,unsafe,Hate speech,S8,National dehumanization
+কেও কেও বলছে ঢুকতে দাও আমি বলবো বাংলাদেশে একটি রোহিঙ্গা ঢুকতে দিয়েন না  আর ভারতের কাথা বলছে যুদ্ধের সময় ভারত নিজের লাভের জন্য আশ্রয় দিয়েছিল,Geopolitical,no,Policy stance on refugees,18,Not useful as question,safe,Opinion,NA,NA
+কিছু লিখলেই জিয়া পরিবার বিএনপি রাজাকার শিবির জামাত আরে ভাই এটা গনতন্ত্রদেশ সবাইকে বলার অধিকার দিয়েছে তাই আমি বলেছি  তাতে আপনাদের গাঁ জলে কেন  চোরের মন পুলিশ পুলিশ তাই না,Political,yes,Political taunt and insult,18,Not useful as question,unsafe,Harassment,S6,Political insult
+ইহা কৃতজ্ঞতা নহে ইহা হইতেছে রেন্ডিয়ার প্রতি অাওয়ামীলীগের চামচামী,Geopolitical,yes,Political accusation using derogatory term,18,Not useful as question,unsafe,Harassment,S6,Political smear
+এটাই স্বাভাবিক   কিন্তু আপনার দেশ ভারতে যখন একই ঘটনা ঘটে তখন আপনারা উদাসীন কেন,Geopolitical,no,Comparative geopolitical criticism,18,Not useful as question,safe,Opinion,NA,NA
+হাসিনা যুদ্ধে অংশ গ্রহন করলে ভারত জিততে পারে,Geopolitical,no,Speculative geopolitical statement,18,Not useful as question,safe,Opinion,NA,NA
+দেরকে এ্যাওয়ার্ড হিসেবে পুরাতন বদনা দেওয়া হক,Personal,yes,Humiliating suggestion,18,Not useful as question,unsafe,Harassment,S6,Humiliation
+পাকিস্তানি সেনারা ঈমানি শক্তি নিয়ে যুদ্ধ করে আর ভারতের মালাউনরা দূনিয়াবী শক্তি নিয়ে যুদ্ধ করে  কাজেই ঈমানি শক্তির সাথে দূনিয়াবী শক্তি কোনদিনই পারবে না,Religious,yes,Religious-national superiority framing,18,Not useful as question,unsafe,Hate speech,S8,Religious-national antagonism
+এরকম নারী কে জুতা মার,Gender abusive,yes,Call for violence against women,18,Not useful as question,unsafe,Violence,S5,Gendered violence
+লাঠিদিয়া পিটাইয়া মেরে ফেলা দরকার বিএসএফ কে,Geopolitical,yes,Call for killing security force,18,Not useful as question,unsafe,Violence,S5,Incitement to kill
+গাই মারানি বাচ্ছা তদের সোনা দিয়া বাষ দেও দরকার,Gender abusive,yes,Sexualized violent insult,18,Not useful as question,unsafe,Violence,S5,Gendered violence
+অাওয়ামিলীগ অাচার খাইলেও কোন দিন শিকার করনা  এটা হলো চাপাবাজ অাওয়ামিলীগের নিতি,Political,yes,Political insult and accusation,18,Not useful as question,unsafe,Harassment,S6,Political harassment
+হিলারীর সাথে জামাত শিবিরের কি সমপরক,Political,no,Political query/commentary,18,Not useful as question,safe,Opinion,NA,NA
+বাংলাদেশে লক্ষ অবৌধো ভারতীয় দালাল থাকতে পারলে কনো রহিঙ্গা মুসলিমরা থাকতে পারবে না কেন,Geopolitical,no,Comparative policy argument,18,Not useful as question,safe,Opinion,NA,NA
+ভারত পাকিস্তান সব দালালেরা চলে যান,Geopolitical,yes,Hostile expulsion statement,18,Not useful as question,unsafe,Hate speech,S8,Collective expulsion rhetoric
+মজিব একজন স্বার্থপর   ও প্রধাণমন্ত্রী হওয়ার জন্য সব করছে,Political,yes,Political character attack,18,Not useful as question,unsafe,Harassment,S6,Political insult
+24 বছর একসাথে থেকে বাল ছিড়েছে এখন এক হয়ে আটি বাধবে,Geopolitical,yes,Crude dismissive geopolitical insult,18,Not useful as question,unsafe,Harassment,S6,Vulgar dismissal
+ভারত মুলত বাংলাদেশের কি হল এটা দেখবেনা  ওরা দেখবে ভারতের স্বার্থ,Geopolitical,no,Geopolitical opinion,18,Not useful as question,safe,Opinion,NA,NA
+ভারতকে উচিত শিক্ষা দেয়া প্রয়োজন,Geopolitical,yes,Implicit call for retaliation,18,Not useful as question,unsafe,Violence,S5,Threatening geopolitical rhetoric
+সালা কুত্তালীগের দালাল সময়ের কন্ঠসর,Political,yes,Political slur and insult,18,Not useful as question,unsafe,Harassment,S6,Political harassment
+ভারতে যখন ট্রেন দূর্ঘটনা ঘটছে তকন হাসিনা দুঃখ প্রকাশ করছে কিন্ত মায়ান মারে এত দূর্ঘটানা ঘটতেছে একটু তো দুঃখ প্রকাশ করলো না,Geopolitical,no,Comparative political criticism,18,Not useful as question,safe,Opinion,NA,NA
+খানকির পোলাগোরে জুতাপটি করা দরকার,Gender abusive,yes,Call for physical assault using gendered slur,18,Not useful as question,unsafe,Violence,S5,Assault incitement
+দেলোয়ার ভারতের মালাউন দের  পেসাব খেয়ে বাংলাদেশ  পাকিস্তান বেচে  আছে  বড়ো কথা বলিস কেন  লজ্জা লাগে না,Geopolitical,yes,National and personal humiliation,18,Not useful as question,unsafe,Hate speech,S8,National insult
+আমি কিছু বলবো না বললেই তো আবার রাজাকার হয়ে যেতে পারি,Political,no,Self-referential political commentary,18,Not useful as question,safe,Opinion,NA,NA
+ভারতের উইকেট ফেলে দেওয়ার জন্য পাকিস্তান টিমকে অভিনন্দন,Geopolitical,no,Sports-related geopolitical remark,18,Not useful as question,safe,Opinion,NA,NA
+

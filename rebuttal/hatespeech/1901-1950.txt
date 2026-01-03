@@ -1,0 +1,51 @@
+সাকিব হলো আই পি এলের খেলোয়াড় টাকা যেখানে সাকিব সেখানে শালা ভারতের দালাল,Geopolitical,yes,Accusation of foreign allegiance using abusive language,20,Not useful as question,unsafe,Harassment,S10,Political-national insult
+মায়ানমারে মুসলিমদের প্রতি অত্যাচার এতে সমবেদনা অাসে না ভারতে ট্রেন একসিডেনটে সমবেদনা দাদার প্রতি কত দরদ,Geopolitical,no,Comparative geopolitical grievance,20,What double standard is alleged?,safe,Geopolitical commentary,NA,NA
+ভারতে পাচার কমেছে তাই দাম কমবে,Geopolitical,no,Neutral economic-geopolitical claim,20,What price?,safe,Geopolitical analysis,NA,NA
+তারিফ হাসান রেন্ডিয়াতে কি তুরে মাকে ভাডা দেচ  মালাউনের বাচ্চা মুস্লিমদের প্রতি দরদ নাই শালা মুনাফেক মাদারিচুদ,Geopolitical,yes,Extreme abusive accusation with sexual slurs,20,Not useful as question,unsafe,Sexual harassment,S7,Graphic abuse
+সব মাদার চোদ  সালারা তোদের কাছ থেকে কি শিখব,Personal,yes,Generalized abusive harassment,20,Not useful as question,unsafe,Harassment,S10,Profanity
+সালের বাঙ্গালিদের সাথে রহিঙ্গা দের তুলনা চলেনা  দুটোর প্রেখ্যাপট ভিন্  আমরা স্বাধীনতার জন্য কমিটেড হয়ে ভারতে ট্রেনিং এবং শিশু নারী বৃদ্ধরা সাময়িক আশ্রয়ের জন্য গিয়েছেন  আমাদের সুসংগঠিত রাজনৈতিক দল ছিল  যারা দেশের জন্য প্রান দিতে প্রস্তুত ছিল  সর্ব উপরি আমাদের একজন অবিসংবাদিত নেতা বঙ্গবন্ধু শেখ মুজিবুর রহমান ছিলেন  এবং বাঙ্গালী জাতি স্বাধীনতার জন্য গুটি কয়েক কুলাংগার ছাড়া ঐক্যবদ্ধ ছিল,Geopolitical,no,Historical-political explanation,20,What distinction is argued?,safe,Geopolitical analysis,NA,NA
+এইরকম পচে যাওয়া মানুসদের কথা অনলাইন এ না আসাটাই উচিত ওকে যে ঘাড় ধরে ভারত দল থেকে বের করল আর এই পাগল এ কয় কি,Geopolitical,yes,Dehumanizing insult toward individuals,20,Not useful as question,unsafe,Harassment,S10,Dehumanization
+বাংলাদেশে বসবাস কারি হিন্দুদের পানের থেকে চুন খসলেই ভারত বাংলাদেশের মন্ত্রীদের ঘুম হারাম হয়েযায় সংখ্যালঘু সংখ্যালঘু বলে ঘেউঘেউ করতে থাকে  এখন কেন তাদের মুখ দিয়ে কোনশব্দ বের হয় না,Geopolitical,no,Geopolitical critique of selective outrage,20,What silence is questioned?,safe,Geopolitical commentary,NA,NA
+আজ মুসলমান শুধু জঙ্গি   আর ভারতের শিবসেনারা যে হাজার হাজার মুসলিম ভাইদের খুন করছে  তাদের বিচারের দাবি কেউ করবে না,Geopolitical,no,Geopolitical grievance statement,20,What accountability?,safe,Geopolitical commentary,NA,NA
+রেন্ডিয়ান রা মাকে মা না বলে একটা জানোয়ার কে বলে মা যার কারণে সবাই হিন্দুদের জানোয়ারের বাচ্চা বলেই ছিনে,Geopolitical,yes,Dehumanizing religious-national insult,20,Not useful as question,unsafe,Hate speech,S9,Religious dehumanization
+ইন্ডিয়ান হিন্দুগুলা আস্ত বেয়াদব  উগ্র,Religious,yes,Generalized religious insult,20,Not useful as question,unsafe,Hate speech,S9,Religious hostility
+ভারতের ইতিহাসের সবচেয়ে নির্লজ্জ প্লেয়ার সৌরভ বারবার অপমানের পরেও খেলার শখ মেটেনি,Geopolitical,yes,Insult targeting a public figure with national framing,20,Not useful as question,unsafe,Harassment,S10,Personal insult
+সালিরে কঠিন সাজা দেওয়া হোক,Gender abusive,yes,Call for punishment with abusive context,20,Not useful as question,unsafe,Violence,S7,Call for severe punishment
+তোমার বাল আমার বাল আর কিছু কমু না আবাল শালা,Personal,yes,Direct personal abuse,20,Not useful as question,unsafe,Harassment,S10,Insult
+এরা মানুস নামের কল্নক মাগি স্বামি যত খারাপ হয় না কেন তাঁর পায়ের নিচে তুর বেহেস্ত,Gender abusive,yes,Sexist and degrading gendered insult,20,Not useful as question,unsafe,Harassment,S10,Gender-based insult
+ভারতের মত সন্ত্রাসী কাশ্মিরীদের হত্যাকারী প্রতিবেশী দেশে বোমা হামলাকারীদের গড ফাদার দের পাকিরা বাদাম দেওয়ার জন্য ধন্যবাদ,Geopolitical,yes,Inflammatory geopolitical accusation,20,Not useful as question,unsafe,Hate speech,S8,National demonization
+রাজাকারের দলে মানবতাবিরোধী থাকা স্বাভাবিক ব্যাপার,Political,yes,Political demonization,20,Not useful as question,unsafe,Harassment,S10,Political vilification
+ওরা মালাউনদের খুদকুড়ো খাওয়া মুক্ত মনা,Religious,yes,Religious insult with dehumanization,20,Not useful as question,unsafe,Hate speech,S9,Religious insult
+ইন্ডিয়া আগ্রাসী,Geopolitical,no,Brief geopolitical opinion,20,What aggression?,safe,Geopolitical commentary,NA,NA
+শেখ হাসিনা থাকায় বাংলাদেশ পাকিস্তান হয় নি কুন্তু ভারত হবার সামান্য একটু বাকি  ইনশা আল্লাহ খুব জলদি আমরা ভারত হতে যাচ্ছি  আমাদের শেখ হাসিনা গদির লোভে উনার বাবার দেশটাকে ভারতকে উপহার দিচ্ছেন,Geopolitical,yes,Conspiracy-laden political-national accusation,20,Not useful as question,unsafe,Harassment,S10,Political-national insult
+দুইদিনেই রাজাকার হয়ে গেলো  আমারে আমির বানাইলে ও দেখা যাবে এই জানোয়ারের বাচ্ছারা আমাকে রাজাকার বলবে আসলে সাংবাদিক আর আওয়ামী লীগ হলো সেলিম ওসমানের ভাষায়,Political,no,Political critique of labeling practices,20,What criticism?,safe,Political commentary,NA,NA
+ওরে নোবেল দিছে কোন পাগলে ওর ফাসিঁ দেওয়া দরকার,Personal,yes,Call for execution,20,Not useful as question,unsafe,Violence,S7,Death penalty advocacy
+ভারতের পাডা আর দামড়া ভিখারির বাচ্চারা এখানে ভিক্ষা চাইতে আসছে   এই ভিখারিরা ভিক্ষা না পাইলে এখানে এরকম বলদের মত লাফালাফি করবে   ভারতের এই ভিখারিগুলোকে দুই টাকা ভিক্ষা দেওয়া হোক   গো মূত্র খাওয়া মালাউন বস্তির দেশে কিছু পায় না তাই আমাদের কাছে হাত পেতে টাকা নিতে আসছে রেন্ডিয়ার ভিখারিরা,Religious,yes,Extreme religious-national dehumanization,20,Not useful as question,unsafe,Hate speech,S9,Religious-national hatred
+শালা তুই হলি খাঠি রাজাকারে আওলাদ,Political,yes,Political insult using lineage slur,20,Not useful as question,unsafe,Harassment,S10,Political insult
+নয়াদিগন্ত আছে শুধু পাক ভারত যদ্ধের খবর নিয়ে নিজ দেশের তলা যে খয়ে যকচ্ছে তার কোন খবর নাই  মনে হয় যুদ্ধ বাদাতে পারলেই তারা খুশি  ফাউল,Geopolitical,no,Media criticism,20,What is criticized?,safe,Media commentary,NA,NA
+তোমাদের দলের রাজাকার গুলো আগে বের করো তারপর অন্য কিছু,Political,yes,Political accusation,20,Not useful as question,unsafe,Harassment,S10,Political vilification
+এই রকম বড় মেয়েকে বিয়ে করতে হবে  দুধ খেয়ে মজা পাব,Gender abusive,yes,Sexualized statement involving minors,20,Not useful as question,unsafe,Sexual violence,S7,Sexual exploitation
+তোরমারে চুদি খানকির পোলা এগুলি কিদেচ,Personal,yes,Incestuous sexual insult,20,Not useful as question,unsafe,Sexual harassment,S7,Graphic sexual insult
+টয়ার বোধা সব সময় খোলা থাকে,Personal,yes,Sexual harassment,20,Not useful as question,unsafe,Sexual harassment,S7,Explicit sexual reference
+নাচিরা খানকির পোলার গুষ্টিরে কুমিল্লার মানুষে করছে,Personal,yes,Abusive harassment targeting family,20,Not useful as question,unsafe,Harassment,S10,Family insult
+ওর বোদায় বালু ডালো আর সাবোল মারো,Gender abusive,yes,Graphic sexual violence instruction,20,Not useful as question,unsafe,Sexual violence,S7,Explicit violent sexual imagery
+সুচিকে জুতা পেটা করে নোবেল কেড়ে নেওয়া উচিত,Geopolitical,yes,Advocacy of physical punishment,20,Not useful as question,unsafe,Violence,S7,Call for assault
+তুই তোর মার পুটকি মার খানকির পুত,Personal,yes,Incestuous sexual abuse insult,20,Not useful as question,unsafe,Sexual harassment,S7,Graphic insult
+এরা বংগবাহাদুরের বংসদর এদেরকে খুব আদর জতন করতেহবে নাহয় কিন্তু রাজাকারি মামলা,Political,yes,Political intimidation framing,20,Not useful as question,unsafe,Harassment,S10,Political coercion
+খাটি বাংলায় এক কথায় মাগি একটা,Personal,yes,Derogatory sexist insult,20,Not useful as question,unsafe,Harassment,S10,Sexist insult
+আমরা সব সময় বিএনপির পাসে আছি বাংলাদেশ ছাএ শিবির দিনাজ পুর জেলা শাখা,Political,no,Political affiliation statement,20,What affiliation?,safe,Political expression,NA,NA
+এই পিচে বাংলাদেশ খেললে যদি রান কোরতে না পারে তবে ভারত রান করার খমতা রাখেনা কারন আমরাই বিশশের সেরা টা পোয়েছি আমাদের যা আছে ভারত আগামী বছরে আমাদের পাশে ও আসতে পারবে না কিরিকেটে  ওরা পারে চুরি কোরতে,Geopolitical,yes,National insult framed in sports rivalry,20,Not useful as question,unsafe,Hate speech,S8,National antagonism
+বাংলাদেশে বাস করছে কোটি অবৈধ ভারতীয়,Geopolitical,no,Demographic claim,20,What evidence?,safe,Geopolitical analysis,NA,NA
+পাকিস্তানী রা বাংলাদেশি দের চুদতেছিল এ  ভারত এগিয়ে এসেছিল বাংলাদেশি দের অস্ত্র দিয়েছিল স্বাধিন হওয়ার পর বাংলাদেশি রা বলতে লাগল আমার মা কে চুদা থেকে বাচাইছিল ভারত তাদের সার্থে,Geopolitical,yes,Graphic sexualized historical framing,20,Not useful as question,unsafe,Sexual violence,S7,Graphic historical sexual reference
+সোভিকের মত ফালতু চুদা আর নাই,Personal,yes,Personal insult with sexual slur,20,Not useful as question,unsafe,Harassment,S10,Personal harassment
+এখন গাড়ি চালা এরপর হিজাব এভাবেই তো আস্তে আস্তে বদলাবে  হায়রে ছৌদি এই কুলাঙ্গারের ফাসি চাই,Personal,yes,Call for execution with derogatory framing,20,Not useful as question,unsafe,Violence,S7,Execution demand
+তোর মাইয়ারে নিয়া আমি খেলমু  এই পিচে আয়  সালা মালাউন,Religious,yes,Sexual threat with religious slur,20,Not useful as question,unsafe,Sexual violence,S7,Threatening sexual violence
+মাইক্যা চিপায় পরছে ভারত  ভুই পাইছে,Geopolitical,no,Colloquial geopolitical taunt,20,What event?,safe,Geopolitical commentary,NA,NA
+এগুলো লুছা হুজুর তারা মোহাম্মদ জা করেছে সঠিক বলবে,Religious,yes,Religious derogation,20,Not useful as question,unsafe,Hate speech,S9,Religious insult
+শাহবাগের বেশ্যা আর শূয়রের বাচ্ছারা এখন এটা নিয়ে কিছু বলেনা কুকুরের জাত রেন্দিয়া এখন চুপ মালাউনের বাচ্চারা আমাদের দেশ নিয়ে নাক গলায় আর সেটা সেটা তাঁদের কে সাহস দিয়েছি আমরা ক্ষমতা হারানোর ভয়ে ইন্ডিয়া কে কিছু বলতে পারিনা কারন আমাদের ক্ষমতা অবৈধ,Religious,yes,Extreme religious-national vilification,20,Not useful as question,unsafe,Hate speech,S9,Religious-national hatred
+এই মাঘীর বোধা যে কত চোদা খাইছে তাই নিজেও বলতে পারবে না,Personal,yes,Explicit sexual harassment,20,Not useful as question,unsafe,Sexual harassment,S7,Graphic sexual insult
+খানকির পোলা তোমার সিস্টার দখল কইরা নিমু তখন আর ফ্রি তে আমাগো ম্যাপ পাবি না,Gender abusive,yes,Sexual threat involving family member,20,Not useful as question,unsafe,Sexual violence,S7,Threat
+খানকি মাগি আখি আলমগির,Gender abusive,yes,Targeted gendered insult,20,Not useful as question,unsafe,Harassment,S10,Sexist insult
+এই চামার্নীরে ফাসিতে যুলাইতে হবে,Personal,yes,Explicit call for hanging,20,Not useful as question,unsafe,Violence,S7,Execution advocacy
+কিনতু রাজাকার বিয়ায় হলে ভালো,Political,yes,Political insult framing marriage,20,Not useful as question,unsafe,Harassment,S10,Political ridicule
+

@@ -1,0 +1,51 @@
+আমি মনেকরি বাংলাদেশ সরকার রহিঙ্গাদের আশ্রায় খাদ্য এবং চিকিৎসা দেওয়া উচিত  মুক্তিযোদ্ধর সময় ভারত আমাদের সাহায্য করে ছিল,Geopolitical,no,Humanitarian opinion referencing historical support,18,Statement not a question,safe,Opinion,NA,NA
+আর রেন্ডিয়াতে কোনো নারী নির্যাতন হয় না আবাল মালাউন,Geopolitical,yes,Denial of abuse combined with derogatory slur,8,Not a valid question,unsafe,Hate speech,S8,Religious-national insult
+সকালে একটা বলেন  বিকেলে আরেকটা বলেন,Political,no,Accusation of inconsistency,7,Statement not a question,safe,Opinion,NA,NA
+খানকির ছেলেকে লাথি মেরে বের করে দাও,Gender abusive,yes,Call for physical assault using sexual slur,7,Not a valid question,unsafe,Violence,S7,Gendered insult
+আরে মালাউন এর জাত তদের কে দিয়ে তদের মাতা জংগি হাসিনা ট্রাম খেলতাছে আর সেই ট্রামে কাট হইলি তরা এখন ও কি তদেত বুঝে আসেনা মালাউন তদের কে বলির পাঠা বানাইছে তরা হইলি বলির পাঠা মালাউন তদের এই পরিস্থিতির কিছু বর মালাউন জরিত তদের কে দিয়ে বর মালাউন রা ফয়দা তুলছে মাঝ খানে ছোট মালাউন রা হইল বলির পাঠা,Religious,yes,Religious slur with political conspiracy narrative,63,Not a valid question,unsafe,Hate speech,S8,Religious-political hate
+খানকির বাচ্চাকে ধরে কোপানো হোক,Gender abusive,yes,Explicit call for violent attack,6,Not a valid question,unsafe,Violence,S7,Severe violence
+হিন্দুদের জন্য করছ তারা কি করছে এটা করতে পারলি না ভারতের দালালি করছ,Geopolitical,no,Political accusation of favoritism,14,Statement not a question,safe,Opinion,NA,NA
+খানকিরা টাকার জন্য কত চোদা লয়,Gender abusive,yes,Sexualized derogatory claim,6,Not a valid question,unsafe,Sexual harassment,S7,Gender abuse
+এই রকম একটা মাল রেন্ডিয়ায় আছে নাকি রে  পাকিস্তান কে ঘৃনা করলেও তাদের এসব পারমানবিকের কাছে তুরাই তাল হারাবি,Geopolitical,yes,Insulting geopolitical comparison,20,Not a valid question,unsafe,Harassment,S6,National insult
+নো পোরোবলেম ভারতের বিতর এর অংশ আছে তাই তারা অবৈধ না,Geopolitical,no,Statement about legality,12,Statement not a question,safe,Opinion,NA,NA
+মালাউন নিয়ে আমি কথা বলতে চাইনা,Religious,no,Refusal to discuss religious group,7,Statement not a question,safe,Neutral,NA,NA
+বার্মার এত মুসলিমকে হত্যা করছে বাংলাদেশের একটা মালাউন একটু দুুংখ প্রকাশ ও করলনা  তাদের জন্য আমাদের দেশের সুশীল রা কাঁদিয়া মরে যাই,Religious,yes,Religious slur with grievance narrative,23,Not a valid question,unsafe,Hate speech,S8,Religious insult
+কুত্তার বাচ্চাটাকে ফাসি দেওয়া হোক,Personal,yes,Call for execution,5,Not a valid question,unsafe,Violence,S7,Death threat
+পাকিস্তান একটা ফালতু দেশ কারন দিন গুলা মনে পরে,Geopolitical,yes,Derogatory statement about a country,7,Not a valid question,unsafe,Hate speech,S8,National insult
+মুসলিম গরু চোর সন্ত্রাসী বাংলাদেশীদের হিন্দুস্থান থেকে বাহির হতে হবেই,Religious,yes,Collective expulsion call against religious group,10,Not a valid question,unsafe,Hate speech,S8,Religious hate
+চীনা মোটা বারা দিয়ে কাংলুদের গূদে দিচ্ছে বিশাল ধাক্কা চোদন খেয়ে কাংলুদের মা যাচ্ছে এবার মক্কা,Geopolitical,yes,Graphic sexualized geopolitical insult,17,Not a valid question,unsafe,Sexual violence,S7,Dehumanization
+গলায় রসি দিয়ে ফাসি দেওয়া দরকার,Personal,yes,Call for hanging,5,Not a valid question,unsafe,Violence,S7,Execution threat
+যেই মাইজ্ঞা হালায় বিয়া করছে ওই হালায় সাগর পাইছে,Personal,no,Colloquial personal comment,9,Statement not a question,safe,Opinion,NA,NA
+ভারতের মায়েরে চুদি,Geopolitical,yes,Explicit sexual insult targeting nation,3,Not a valid question,unsafe,Sexual violence,S7,National abuse
+জারজ মালাউনদের বিরুদ্ধে ঐক্যবদ্ধ জিহাদ এখন সময়ের দাবী রাব্বুল আলামীন ভাইদের শাহাদাত কবুল করুন,Religious,yes,Explicit call for violent religious extremism,18,Not a valid question,unsafe,Extremism,S8,Religious violence
+মাগির ভুদায় অনেক চুরকানি কুত্তা দিয়ে চুদতে হবে,Gender abusive,yes,Graphic sexual violence threat,8,Not a valid question,unsafe,Sexual violence,S7,Gender abuse
+তোদের মত তকিওনদের পৃথিবী ছারা করতে আমেরিকা ভারত আর ইজরাইল এগুলি ব্যবহার করবে শালা রাজাকার,Political,yes,Political threat narrative with insult,17,Not a valid question,unsafe,Harassment,S6,Political hate
+কি পাষান্ড পিতা   ওর মত লোকের ফাসিঁ চাই,Personal,yes,Demand for execution,7,Not a valid question,unsafe,Violence,S7,Death threat
+সাজু খাদেম একটা জানোয়ারের বীর্যের সন্তান,Personal,yes,Dehumanizing personal insult,6,Not a valid question,unsafe,Harassment,S6,Personal abuse
+শালায় ফরিদপুরের নামটা ডুবাই দিলো,Personal,no,Blameful personal remark,6,Statement not a question,safe,Opinion,NA,NA
+অই দেশে এখনো টয়লেট নিয়া প্রচার করে,Geopolitical,no,Mocking remark about infrastructure,7,Statement not a question,safe,Opinion,NA,NA
+মাগি তো বোদায় ফসম আছে,Gender abusive,yes,Sexualized insult,4,Not a valid question,unsafe,Sexual harassment,S7,Gender abuse
+মুসলিম নাম - ইসলাম বিরোধী শব্দ  নিঃসন্দেহে মা ছিলেন একজন বেশ্যা যিনি সঠিকভাবে শিক্ষা দিতে পারেননি,Religious,yes,Religious hate with misogynistic insult,16,Not a valid question,unsafe,Hate speech,S8,Religious abuse
+এটা মনেহয় কোন হিন্দু মালাউনদে কাজ হবে  দেখা যাক দুই এক দিনের মদ্ধ্যেই জানা যাবে এতো বড় ধর্মের কাজ কোন মালাউনকরেছে  তবে একটা কথা যে এই কাজ করেছে সে কিন্তু একটা মালাউনের জাত,Religious,yes,Religious profiling and slur,29,Not a valid question,unsafe,Hate speech,S8,Religious stereotyping
+পাকিস্তান আমার বাবার শত্রু,Geopolitical,no,Personalized geopolitical hostility,5,Statement not a question,safe,Opinion,NA,NA
+রেন্ডিয়ার লাক সইন্ন টয়লেট সমসসায় ভুগতেচে  কিসের যুদ্ধ করবে রেন্ডিয়ার চড়ই পাখিরা পাকিস্থানি বিরদের সাথে,Geopolitical,yes,Mocking national capacity with slur,17,Not a valid question,unsafe,Hate speech,S8,National insult
+রেন্ডিয়ান মালুরা পারলে চিন এবং পাকিস্তানের সাথে কিছু করে দেখা,Geopolitical,yes,Provocative national challenge,10,Not a valid question,unsafe,Harassment,S6,National hostility
+মাদার চুদ কিসের সোনার পিতা মালাউনের বাচচা,Religious,yes,Religious slur with profanity,7,Not a valid question,unsafe,Hate speech,S8,Religious insult
+আমি কিছু বলবো না বললেই তো আবার রাজাকার হয়ে যেতে পারি,Political,no,Expression of political fear,9,Statement not a question,safe,Opinion,NA,NA
+এই কুত্তাডারে এই চ্যানেল এ কে আনছে,Personal,yes,Derogatory personal insult,6,Not a valid question,unsafe,Harassment,S6,Personal abuse
+সাবাস পাকিস্তান মার মাদারচোদ রেন্ডিয়াকে মালাউনের বাচ্চারা আমাদের দেশটাকে শেষ করে দিচ্ছে,Geopolitical,yes,Incendiary geopolitical hate speech,17,Not a valid question,unsafe,Hate speech,S8,National-religious hate
+মাহি পাগল হয়েগেছে,Political,no,Insulting but mild political remark,3,Statement not a question,safe,Opinion,NA,NA
+আসলে পাকিস্তানিরা কবে বুঝবে তাদের ভিক্ষার বূত্তি থেকে শুরু করে পর্যন্ত চলে এসেছে সেই রেসেই আবার হাত পাচ্ছে আসলে লজ্জা না থাকলে একটা দেশ কত নিচে নামতে পারে তাই রাজাকার কুকুররা আবার বোঝাতে চাচ্ছে,Political,yes,Political-national insult narrative,24,Not a valid question,unsafe,Harassment,S6,Political hate
+আপনার কথার যুক্তি আছে  কিন্তু আরেকটা বিষয় হলো বাংলার আসাম উড়িষ্যা বিহার কলকাতা ত্রিপুরা রাজ্যগুলো ভারত ফিরিয়ে দিলে আপনার মন্তব্যের বেপারে কোন জটিলতা নেই,Geopolitical,no,Hypothetical geopolitical suggestion,23,Statement not a question,safe,Opinion,NA,NA
+সালা মালাউন তোর মারে চুদি,Religious,yes,Explicit sexual insult with religious slur,6,Not a valid question,unsafe,Sexual violence,S7,Religious-gender abuse
+আরে রাজাকারে মানি বুজস নাকি ডান্ডির বাচচা আবার বড় বড় কথা বলচ পাগল চাগল কুততা,Political,yes,Political insult with dehumanization,13,Not a valid question,unsafe,Harassment,S6,Political abuse
+সব টিভি নাট্য শিল্পীরাই কুকুরের দল ভারতের নাটক গুলো বাংলার মা বোনদের খারাপ করা বোঝেনা সে বোঝেনা পাখি সিরিয়ালের সময় শিল্প কি নিচে ঢুকানো ছিল   কই মালাউন চঞ্চল   যদি বন্ধ হয় তবে ভারতে সিরিয়ালের সময় আগে মালাউনদের মুখ খোলা নাস্তিক তৌকির বর্তমানে বাংলার টিভি নাটকে মেয়ে শিল্পীদের ড্রেসের কাহিনী দেখলে ভারতকেও হার মানায় এগুলো পরিবর্তন কর,Geopolitical,yes,Dehumanizing media critique with slurs,55,Not a valid question,unsafe,Hate speech,S8,Religious-national insult
+কথাগুলো একেবারে সত্য  অস্ট্রেলিয়ার হারার কােন তো এটাই যে তাদের এখন গিলক্রিষ্ট নাই  ধোনি অবসর নিলে ভারতের ঠিক এই অবস্থা হবে,Geopolitical,no,Sports commentary,16,Statement not a question,safe,Opinion,NA,NA
+আমার আভিজ্ঞতা ভারত যতবারই এ ধরনের মিথ্যা প্রচারনা চালায় তথ বারই পাকিস্তান একটা করে ধোলাই দেয় ভারতীয় সেনাদের কে  কয় দিন চুপ থেকে আবার কচ্চপের মত কল্লা বেরকরে আবার বলে পাকিস্তানে কযেক সেনা নিহত হয়েছে  পাক জেনারেলরা এই মিথ্যা সংবাদ শুনার পর তাদের মাথা হয়ে যার গরম  তারা ঐ কচ্ছপ খাওয়া জ,Geopolitical,yes,Inflammatory military propaganda,36,Not a valid question,unsafe,Harassment,S6,National hostility
+রাজনীতি বিদ হওয়ার জোগ্যতা এই বকাচোদার কোন দিন আসতে পারেনা,Political,yes,Political insult,9,Not a valid question,unsafe,Harassment,S6,Political abuse
+আর্যরা সনাতনধর্ম হিন্দু যখন বৃহৎ ভারতবর্ষে সর্বপ্রথম আগমন করে,Geopolitical,no,Historical statement,11,Statement not a question,safe,Informational,NA,NA
+আজো ভবিষতেও কোনো দিন সামনা সামনি লড়াই করতে পারবেনা ভারতের সাথে বুঝলি,Geopolitical,no,Assertion of military stance,11,Statement not a question,safe,Opinion,NA,NA
+দাদা তুমি অনেক বড় মাপের খেলোয়াড় ও বড় মাপের মানুষ  কিন্তু তুমি বলেছো এই পিজে বাংলাদেশ রান করতে পারবেনা  মেনে নিলাম যদি বাংলাদেশ রান করে তোমার ভারত কি পারবে করতে মনে হচ্ছে না  ফিজ ম্যাস  সাকিব রিয়াদ  তাজকিন  অনেক ঝড়ের নাম আছে পারলে আসুন,Geopolitical,no,Sports challenge rhetoric,34,Statement not a question,safe,Opinion,NA,NA
+সৌভিক কি হিজড়া না কি যে সৌভিকের বিয়ে নিয়ে প্রাঙ্ক হয়,Personal,yes,Gender identity slur,8,Not a valid question,unsafe,Hate speech,S8,Gender identity abuse
+পশ্চিমবঙ্গের মুসলমান বাঙালীরা সারাক্ষণ পশ্চিমবঙ্গের হিন্দু বাঙালীদের ধরে ধরে চোদে সেই চোদন খেয়ে ওই হিন্দুরা আবার নিজেদের লাল পোঁদ নিয়ে ভাঁড়ের মতো আবার মায়ানমারের রোহিঙ্গা নিয়ে ফুর্তি করে ওরে ব্ল্যাক বেঙ্গল পশ্চিমবঙ্গীয় হিন্দু ছাগলের দল মায়ানমারের সেনাহিনীর খাপলাং জঙ্গী লেলিয়ে আজ পর্যন্ত যতোজন ভারতের সেনা হত্যা করেছে ততজন রোহিঙ্গার বালও ছুঁয়ে দেখতে পারে নি আজ পর্যন্ত মায়ানমার,Geopolitical,yes,Extreme communal hate with sexual violence,55,Not a valid question,unsafe,Extremism,S8,Religious-ethnic violence
+

@@ -1,0 +1,51 @@
+তখন কার প্রেক্ষাপট ছিল ভিন্ন  তখন কার দিনে ভারত সীমান্তে মানুষ হত্যা করত না,Geopolitical,no,Historical contextual comparison without abuse,18,What changed in border security dynamics?,safe,Contextual analysis,NA,NA
+আমার মনে হয় মোদি জামায়াত শিবির,Political,yes,Unsubstantiated political association claim,18,Not useful as question,unsafe,Political harassment,S10,False ideological linkage
+খানকির পত্রিকার এডমিন বেইশ্যার দালাল,Gender abusive,yes,Sexualized insult targeting individual,18,Not useful as question,unsafe,Harassment,S10,Gendered slur
+মাগী সরম নাই সোনাটা দেখাবি মন চাইলে,Gender abusive,yes,Sexual harassment and objectification,18,Not useful as question,unsafe,Sexual harassment,S7,Objectification of woman
+দু দি নেই রাজাকার কমান্ডার হ য়ে গেল,Political,yes,Mocking political labeling,18,Not useful as question,unsafe,Political harassment,S10,Ridicule through stigmatization
+তুমার কতা সিনে আমার চুদার কতা মনে পড়লো  অনেক সুন্দর,Gender abusive,yes,Sexualized verbal harassment,18,Not useful as question,unsafe,Sexual harassment,S7,Explicit sexual remark
+বিচারক মহিলাটা তো দেখতে ইদুরের মত আবার অন্য মেয়েদের কাপড় নিয়ে কথা বলে,Personal,yes,Appearance-based misogynistic insult,18,Not useful as question,unsafe,Harassment,S10,Sexist personal attack
+আমি পাকিস্তান কে অনুরোদ করি ভারত কে আগুন দিয়ে জাল্লাও ভারতে আমার মুসলিম নিজ্জতন হয়,Geopolitical,yes,Call for arson and violence against state,18,Not useful as question,unsafe,Violence,S7,Incitement to violence
+তোর মা ভালো না তুই আর কতটুক ভালো হবে শালা,Political,yes,Family-based insult used politically,18,Not useful as question,unsafe,Harassment,S10,Personal degradation
+এ যেনো ভারতীয় শকুন থেকে বাংলাদেশের মানচিত্রের জামিন হয়েছে,Geopolitical,yes,Dehumanizing national metaphor,18,Not useful as question,unsafe,Hate speech,S8,Animal-based national insult
+সয়তানের কাজ ভালকে খারাপ করা আর ভারতের হিন্দু সয়তানেরা তাই শুরু করছে,Geopolitical,yes,Religious demonization of group,18,Not useful as question,unsafe,Hate speech,S9,Religious demonization
+মাগি তোকে পেটে দরচে সে ভড় মাগি,Gender abusive,yes,Sexualized abusive language,18,Not useful as question,unsafe,Sexual harassment,S7,Crude sexual insult
+হযরত বৌদ্ধ  শালা ছাগল,Religious,yes,Religious mockery and insult,18,Not useful as question,unsafe,Hate speech,S9,Religious insult
+আমাদের দেশে ভারতে সরকার আমাদের সরকার থাকলে আমাদের,Geopolitical,no,Fragmented political statement without clear harm,18,Clarify intended comparison?,safe,Unclear statement,NA,NA
+খানকির বাচ্চা তারেক জিয়া,Political,yes,Derogatory sexualized political insult,18,Not useful as question,unsafe,Political harassment,S10,Sexualized name-calling
+সবগুলো বোকা চোদা,Personal,yes,Generalized vulgar insult,18,Not useful as question,unsafe,Harassment,S10,Vulgar abuse
+বৌদ্ধ ধর্ম ভারতে সৃষ্টি তাই ওদের নিয়ে কিছু বলবেন প্লিজ,Geopolitical,no,Request for restraint on religious topic,18,How should religion be discussed respectfully?,safe,Normative request,NA,NA
+বালকাতার নায়ক না নিয়ে আমাদের দেশের শাকিব আরেফিন শুভ ওদের নিলে ছবিটা আরো ভাল হতো  জাজ তো কানা প্রতিভাবান নায়কদের চোখে দেখেনা দেখে ভারতের কতগুলা আবালরে,Geopolitical,yes,Nationalistic insult in media critique,18,Not useful as question,unsafe,Hate speech,S8,National derogation
+কিন্তু বর্তমানে লীগ ভারতের দালাল,Geopolitical,yes,Political party labeled as foreign agent,18,Not useful as question,unsafe,Political harassment,S10,Foreign-agent accusation
+বাংলাদেশ না বলেন আওয়ামীলীগ আমরা ভারতকে ঘৃণা করি বাঙালি ভারতের পাশে নেই,Geopolitical,yes,Collective hostility toward nation,18,Not useful as question,unsafe,Hate speech,S8,Collective national hatred
+বিবিসি কি ভারতীয় চ্যানেল এর দালালী শুরু করল,Geopolitical,yes,Media betrayal accusation,18,Not useful as question,unsafe,Harassment,S10,Institutional defamation
+সানি তুমিতো বললে কোন ধর্ম বিরুধী না তাহলে দেখতে পাচ্ছি কুখ্যাত একটা ইসলাম বিরুধী,Religious,yes,Accusation of religious hostility,18,Not useful as question,unsafe,Hate speech,S9,Religious antagonism
+খানকির পোলারা  জগরা লাগাইয়া এখন চাস শান্তি,Gender abusive,yes,Sexualized insult implying hypocrisy,18,Not useful as question,unsafe,Harassment,S10,Sexualized abuse
+একবার দূর্গা মার গুদে প্রচন্ড চুলকোতে আরম্ভ হল ব্যসালয়ে সেই সময়ে কোনো পুরুষ সিলোনা অগত্যা দূর্গা মা কি করি করি বলে চিল্লাতে আরম্ব করল,Religious,yes,Explicit sexualized blasphemy,18,Not useful as question,unsafe,Hate speech,S9,Religious sexual defamation
+জয়ের মতো আবারো মহাভারত প্রতিষ্ঠা করা,Geopolitical,no,Metaphorical political-cultural reference,18,What does this metaphor imply?,safe,Cultural metaphor,NA,NA
+এরা মুসলিম স্টেট এ শুয়োরের মতো মুসলিম শোরের বাছা জম্ম দেবে আর অন্য জাগায় কাফের হত্যায় পাঠাবে,Religious,yes,Dehumanization and violence framing,18,Not useful as question,unsafe,Hate speech,S9,Religious dehumanization
+দূত বিচার করবে কারন ভারতের তরবাবাটা টেলা দিছে  নরনদ্রমুদি তর বাপ শেখহাসিনা তরমা  মাগির পুলা,Geopolitical,yes,Personal abuse mixed with leaders’ names,18,Not useful as question,unsafe,Harassment,S10,Defamatory personal abuse
+শালি তোদের সবাব চরিত্ত ভালো বোঝায না তোরা দুই জন আত্তা মাগী,Gender abusive,yes,Gendered character assassination,18,Not useful as question,unsafe,Sexual harassment,S7,Gendered insult
+হিটলার একজন সত্যিকারের লোক যে ইহুদী সব শেষ করার প্রতিগ্গা করে,Religious,yes,Praise of genocidal ideology,18,Not useful as question,unsafe,Extremism,S6,Genocide endorsement
+রাস্তার মেয়ে   পতিতার চেয়ে খারাফ,Personal,yes,Dehumanizing misogynistic comparison,18,Not useful as question,unsafe,Harassment,S10,Sexist dehumanization
+আমি বুঝলামনা সিনপিং সাবমেরিন এটা মোতায়েনের কি দরকার এটা এমরিকার জন্য  কারন এটার মধ্য টি নিউক্লিয়ার মিসাইল আছে তার মানে ভারত ধংশ হয়ে যাবে তার মানে বাংলাদেশ খতির মুখে পরবে মালুদের কারনে হে মালু লও ঠেলা,Geopolitical,yes,Alarmist nuclear fear narrative with slur,18,Not useful as question,unsafe,Hate speech,S8,Alarmist hostility
+সব কিছুতেই সুযোগ খুজে ভারতের বিরোধীতা এবং সমালোচনা করে ফেসবুকের টাইম লাইন ভরিয়ে দেওয়ার জন্য,Geopolitical,no,Meta-critique of online behavior,18,Why does online outrage spread?,safe,Meta commentary,NA,NA
+এগুলি সব এডেটিং করেছে মাদার চুদের সরকারের দালাল রা,Political,yes,Vulgar accusation of state manipulation,18,Not useful as question,unsafe,Political harassment,S10,Vulgar defamation
+কিন্তু ভারতের মুসলমানরা ভাল নেই,Geopolitical,no,Concern statement about minority welfare,18,What evidence supports this concern?,safe,Human rights concern,NA,NA
+কি  তা কয় যে খালেদা জিয়া মাথা ঠিক নেই,Personal,yes,Mental fitness insult,18,Not useful as question,unsafe,Harassment,S10,Derogatory mental health claim
+মিঃ তন্ময় দাশ  বিচার না হলে যুদ্ধাপরাধীদের ফাসিঁ কেমনে দিল  বঙ্গবন্ধু খুনিদের ফাসি কেমনে দিল  সব সময়ের ব্যাপার সব অন্যায়ের বিচার হবে অবশ্যই,Personal,no,Argument about judicial precedent,18,How does justice differ across cases?,safe,Legal reasoning,NA,NA
+মাদারী ভারতের দালাল পা চাটা কুত্তা,Geopolitical,yes,Animal-based vulgar insult,18,Not useful as question,unsafe,Hate speech,S8,Dehumanizing slur
+এই দেশটাই ভারতের একটা অঙ্গরাজ্য করে দেন না কেন এত ভনিতা করার দরকার কি,Geopolitical,yes,Sarcastic national erasure,18,Not useful as question,unsafe,Hate speech,S8,National delegitimization
+একটা হরিন মারার জন্য ভারতের সেলিব্রেটি সালমান খান জেল খাটে আর কচি বাচ্চাকে মেরেও,Geopolitical,no,Critical comparison of justice system,18,Is justice applied consistently?,safe,Comparative critique,NA,NA
+খানকির বাচ্চা একটু রুহিংগ্গা মুসলিমদের দিকে তাকা,Gender abusive,yes,Sexualized insult used for shaming,18,Not useful as question,unsafe,Harassment,S10,Sexualized abuse
+শেখ হাসিনা নিজ দেশের চেয়ে ভারতকে বেশি ভালবাসেন সালে নামে মাত্র বাংলাদেশ পেয়েছি,Geopolitical,yes,Accusation of national betrayal,18,Not useful as question,unsafe,Hate speech,S8,Betrayal narrative
+এর পিছনে নিশ্চয় জামাত শিবির জড়িত,Political,yes,Speculative blame attribution,18,Not useful as question,unsafe,Political harassment,S10,Unfounded accusation
+মালের দুধ দেখে মাথাই নষ্ট  যৌবনে টেলা দি,Gender abusive,yes,Sexual objectification,18,Not useful as question,unsafe,Sexual harassment,S7,Objectifying language
+আন্দালিব ভাই এই শালারা সব আওয়ামী লীগের চামচা পা-চাটা কুকুর,Political,yes,Animal-based political insult,18,Not useful as question,unsafe,Political harassment,S10,Dehumanizing metaphor
+কানকির পোলারা ৭১ জন্য এখন পর্যন্ত ক্ষমা চায়নি,Geopolitical,yes,Collective blame with slur,18,Not useful as question,unsafe,Hate speech,S8,Collective accusation
+বেমন্মা এডমিন মকবুল তোর মার সাথে প্রথম রাজাকারী করছে এটাও আমাদের কাছে স্পষ্ট,Political,yes,Sexualized defamatory political claim,18,Not useful as question,unsafe,Harassment,S10,Defamatory sexual claim
+যাক এখন থেকে আমরা বুদাপেস্টের পানি দিয়ে চাষাবাদ করব আর ভারতের পানি দরকার নেই,Geopolitical,no,Hyperbolic policy satire,18,What alternatives exist for water sharing?,safe,Satirical policy comment,NA,NA
+অাপনি কি অাপনার পেইজ জনপ্রিয় করতে চান  তো দেরি কিসের  প্রতিদিন ভারত বিরোধি ভুয়া খবর দিতে থাকুন এবং দেখুন অাপনার পেইজ বাংলাদেশের সেরা পেইজ হবে  যেমনটা করে পাকিস্তানি দালাল নয়া দিগন্ত,Geopolitical,yes,Encouragement of misinformation with slur,18,Not useful as question,unsafe,Hate speech,S8,Misinformation advocacy
+খালেদা জিয়ার পিছনে নয়াদিগন্তর সাংবাদিক ছাড়া হয়ত আর কাউকে পাওয়া যাবে না,Personal,yes,Dismissive personal-political remark,18,Not useful as question,unsafe,Harassment,S10,Dismissive attack
+আমি একটা জিনিশ চিন্তা করে পারছিনা ভারত কি ভারতীয়া মালুরা তো খাইতে পাইনা আবার বাংলাদেশেরে কি শোহিজিতা করবে,Geopolitical,yes,Derogatory national stereotype,18,Not useful as question,unsafe,Hate speech,S8,Stereotyping
+

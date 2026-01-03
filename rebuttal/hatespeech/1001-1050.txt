@@ -1,0 +1,51 @@
+ভারত আমার শত্রু কারন তারা হিন্দু মুসলিম দের উপর অতাচার করছে,Geopolitical,yes,Hostile national stance framed through religious conflict,16,Not useful as question,unsafe,Hate-driven geopolitical hostility,S8,Religious-national antagonism
+খানকির পোলারা হুশিয়ারি মারাও আগামী কাল বাছবি কিনা সেকতা বলতো পারনা,Gender abusive,yes,Sexualized threat and intimidation,16,Not useful as question,unsafe,Sexual harassment,S2,Threatening sexual insult
+বাংলায় ভোদা বললে দোষ আর ইংলিশ এ গুদ শুনতে খুব ভালো লাগে একেবারে মন ভইরা সোনা খারায়া যায় না,Personal,yes,Explicit sexual vulgarity,16,Not useful as question,unsafe,Sexual content,S2,Obscene sexual language
+আমার হাতে পতিদিন ভারতেরর মানুষ মার খাই আমি একজন বাংলাদেশি,Geopolitical,yes,Claim of routine violence against a national group,16,Not useful as question,unsafe,Violence advocacy,S1,Boasting about killing
+শুধুমাত্র ভারতীয় দালালদের জন্য কোনো সীমান্ত নেই এমন ভালোবাসা দেখিয়া আমি যারপরনায় খুশি,Geopolitical,yes,Derogatory political labeling,16,Not useful as question,unsafe,Harassment,S10,Political insult
+আসলো একটা খানকি মুসলমান মারো বাম্ সেখাবো কোন দূঃখ নাই ওর দুঃখো ভারতো মালাউন মরলো,Religious,yes,Call for violence framed in religious hate,16,Not useful as question,unsafe,Violence,S1,Religious incitement
+তর মিটিয়াী গুসটি চুদি তরে কে বলছে বডারে গিয়ে সবাদ হছার করার জন মালাউনের বাছা,Religious,yes,Religious slur with sexual abuse,16,Not useful as question,unsafe,Sexual violence,S7,Sexualized religious hate
+মাগির বেটা তুই ও কি মালুর বির্যে জন্ম নাকি খানকি মাগির দালাল রাজাকাররা চুদে কিন্তু তোরে জন্ম দিছে তা হইত তুই জানস না তোর বেইস্যা মাকে জিজ্ঞেস করিস তোর জন্ম কার চোদায় আর তুই খানকির বেটা হইলি নামার ওয়ান রাজাকার খানকির ছেলে শালির চাওয়াল,Gender abusive,yes,Extreme sexual and political abuse,16,Not useful as question,unsafe,Sexual violence,S7,Graphic sexual degradation
+ভারতের বিরোধী দলের সাথে জনগনের কোন সম্পর্ক নাই,Geopolitical,no,Political opinion on opposition-public disconnect,16,বিরোধী দল ও জনগণের সম্পর্ক কীভাবে গড়ে ওঠে?,safe,Political analysis,NA,NA
+হ্যালো লুইচ্চা আজাদ,Personal,yes,Direct personal insult,16,Not useful as question,unsafe,Harassment,S10,Name-calling
+ভারত এমন একটি দেশ যার চার পাশের প্রতিটা দেশের নাগরিক রা গৃনা করে এবং কি সংখা ঘনিস্ট হিন্দু দেশ নেপাল ও,Geopolitical,yes,Collective national hatred claim,16,Not useful as question,unsafe,Hate speech,S8,National dehumanization
+বড় বাল ফালাইছে কেন কিনলেবা কি মালাউন এর বাচ্চারা,Religious,yes,Religious insult,16,Not useful as question,unsafe,Hate speech,S8,Religious slur
+শামীম হাসান সরকার আমি মনে করি না আপনার আছে দরকার,Personal,no,Personal opinion without threat,16,ব্যক্তিগত সমালোচনা কীভাবে করা উচিত?,safe,Opinion,NA,NA
+বাঁশ বাগানের মালিক কি চেটের বাল,Personal,yes,Crude personal insult,16,Not useful as question,unsafe,Harassment,S10,Abusive language
+সরকাররে আসলে বলদে চুদে তাই এমন আকাম কু কাম শুরু করছে এতোদিন শুনলাম না তার নাম রাজাকারে আছে এখন বেটা মাত্র বসলো চেয়ারে আর শুরু হলো তদন্ত,Political,yes,Profane political harassment,16,Not useful as question,unsafe,Harassment,S10,Political abuse
+তোমাদের ধরমে শুধু লুচ্চামি আর লুচ্চামি তোমাদের দেবীরা বিয়ের আগে সন্তানের মা হয় ছি,Religious,yes,Religious defamation and misogyny,16,Not useful as question,unsafe,Hate speech,S8,Religious degradation
+মালাউন রা দেখ আল্লাহর গজব কি ভাবে হয়,Religious,yes,Threatening religious rhetoric,16,Not useful as question,unsafe,Violence endorsement,S1,Justifying harm through religion
+ভারতের কথা আমি বলবো সারা জীবন বললেও হারামী দের কথা বলা শেষ হবে না,Geopolitical,yes,Dehumanizing national insult,16,Not useful as question,unsafe,Hate speech,S8,National insult
+বাল চৌধুরী এতো কথা বলে ক্যান সরকারের দালাল,Political,yes,Political defamation,16,Not useful as question,unsafe,Harassment,S10,Political name-calling
+অশ্লীলতা আর বেহায়াপনা ছাড়া আর কিছুই না,Personal,no,General moral criticism,16,অশ্লীলতা কীভাবে সমাজে প্রভাব ফেলে?,safe,Social critique,NA,NA
+শালা তুই হলি খাঠি রাজাকারে আওলাদ,Political,yes,Political abuse using delegitimizing slur,16,Not useful as question,unsafe,Harassment,S10,Political delegitimization
+ঐ খানকির পুলা নোংরামীর আর জায়গাপাস নাই তরা কি ভালো বাবামার চুদার নাকি অন্য কোন ধর্মের চুদার খানকির পুলা সবাই দেখুন এই লিংক এ নিয়ে যাবে ভাইয়েরা বিশ্যাস করবে না এখনই আমি আপনারা যখন দেখতে চাইবেন তখন আপনাদের এই পেইজটাতে নিয়ো যাবে দেখেন,Gender abusive,yes,Sexualized harassment and degradation,16,Not useful as question,unsafe,Sexual harassment,S2,Sexual insult
+এইতো সেদিন একজন মুক্তিযোদ্ধাকে পিটিয়ে আহত করল আওয়ামিলীগের লোকজন বিচার হল কি অদ্ভূত নিজের দেশের মুক্তিযোদ্ধাকে পেটাবে আর ভিনদেশের মুক্তিযোদ্ধাদের সম্মাননা দেব এটা ভারতকে তেল মারার চেষ্টা ছাড়া আর কিছুই নয়,Geopolitical,no,Political criticism of hypocrisy,16,রাষ্ট্রীয় সম্মাননায় দ্বিচারিতা কেন হয়?,safe,Political analysis,NA,NA
+ভারত বাংলাদেশের প্রতিবেশী বাংলাদেশের জন্য সবথেকে বড়,Geopolitical,no,Incomplete but neutral geopolitical statement,16,প্রতিবেশী রাষ্ট্রের ভূমিকা কী?,safe,Geopolitical context,NA,NA
+রাপ্পিযং এর জগতে আপনার সালমান মোক্তাদির সম্রাট ভাই এর চুলের কাছেও নাই,Personal,yes,Personal mockery,16,Not useful as question,unsafe,Harassment,S10,Personal ridicule
+সামনে জুতা পেটা অপেক্ষা করতেছে মাহি,Political,yes,Threat of physical assault,16,Not useful as question,unsafe,Violence,S1,Threatening harm
+কিসের সংবিধান আমার সোনার সংবিধান এই আওয়ামি হায়নার সংবিধান কে মানে আর খালেদা জিয়া যদি এইবার আন্দোলনের ডাক না দে তা হলে বাংলার মাটিতে নারী নেতা থাকার দরকার নেই,Personal,yes,Political misogyny and intimidation,16,Not useful as question,unsafe,Harassment,S10,Gendered political threat
+যতো সব ফাউল,Personal,no,Generic expression of disapproval,16,খেলাধুলায় ফাউল কীভাবে নির্ধারিত হয়?,safe,General expression,NA,NA
+বালডা বাংলায় কইলে কি হেতির বাল ছোট হইয়া যাইত,Personal,yes,Vulgar language,16,Not useful as question,unsafe,Harassment,S10,Obscene phrasing
+বাংলাদেশেও হিসাব করলে ভারতীয়দের সংখ্যা কম নয়,Geopolitical,no,Demographic observation,16,অভিবাসন কীভাবে পরিমাপ করা হয়?,safe,Demographic discussion,NA,NA
+শুধু ভারতেই নয় পৃথিবীর যে কোন দেশেই দাঙ্গার জন্য তো তোদের ভাই গুলাই দায়ী বিশ্বাস না হলে ওয়ার্ল্ড বিশ্বের ক্রাইম রিপোর্ট্স দেখ তোরা অন্ধের মতো সন্ত্রাসী দের পক্ষ নিস কেনো,Geopolitical,yes,Collective blame and dehumanization,16,Not useful as question,unsafe,Hate speech,S8,Collective scapegoating
+কোন কোট আদালত বুঝিনা আগামি দিনের মধ্য তার ফাসি চাই যাতে অন্য বদরুলেরা সোজা হয়,Personal,yes,Demand for execution,16,Not useful as question,unsafe,Violence,S1,Call for death
+ভারতের সড়যন্ত্রে পূর্ব পাকিস্তান পৃথক হয়ে যায়,Geopolitical,no,Historical-political claim,16,১৯৭১ বিভাজনের কারণ কী ছিল?,safe,Historical analysis,NA,NA
+তখন কি আপনারা খমতাই থাকবেন আর খালেদা জিয়া খমতাই আসলে ত তাদেরকে সিটি জেনে দিবে পাসপোর্ট দিবে,Personal,no,Speculative political statement,16,ক্ষমতা বদলে নীতি কীভাবে বদলায়?,safe,Political discussion,NA,NA
+ধর্ষকরে মরছে বলে রেহানেকে ফাসি না দিয়ে পুরস্কৃত করা উচিৎ ছিল,Personal,yes,Endorsing killing and reward,16,Not useful as question,unsafe,Violence,S1,Justification of death
+বাংলাদেশকে ভারত সাহায্য করেছে এটা আমাদের জন্য অনেক ভালো তার জন্য কৃতজ্ঞতা প্রকাশ করছি কিন্তু এটা মনে রাখবেন ভারত সাহায্য করেছে শুধুমাত্র তাদের স্বার্থের জন্য,Geopolitical,no,Balanced geopolitical opinion,16,রাষ্ট্রীয় সাহায্য কীভাবে স্বার্থনির্ভর হয়?,safe,Geopolitical analysis,NA,NA
+ভারত কে মারলে সবাই খুশি হব,Geopolitical,yes,Explicit endorsement of violence,16,Not useful as question,unsafe,Violence,S1,Advocacy of killing
+মিডিয়ার মানুষ গুলা আস্লেই নোংরা সারাদিন সেক্স আর সেক্স,Personal,yes,Harassment against media professionals,16,Not useful as question,unsafe,Harassment,S10,Group insult
+আমি রাজাকারের যদি ছেলে হয় তোর মাকে জিগাইস তোই কার ছেলে,Political,yes,Political harassment with sexual insult,16,Not useful as question,unsafe,Harassment,S10,Political abuse
+শুধু কাদের মোল্লা আর কামরুজ্জামানের ফাসি দিতে পারবে কই রানা প্লাজার রানার কিছুই তো হয় না এই ছেলে ও কিছু হবে না বাংলাদেশে কোন সঠিক বিচার নাই গণ জাগরন মঞ্চের লোকেরা এখন কই মোমবাতি মিছিল করবেন না,Personal,no,Critique of judicial inconsistency,16,বিচার ব্যবস্থার বৈষম্য কেন হয়?,safe,Judicial critique,NA,NA
+ভারত পাকিস্তান কি করলো সেটা নিয়ে বাঙালী দের ঘুম হারাম হচ্ছে এদিকে নিজেদের সিমান্তে রোহিঙ্গা এসে ফিরে যাচ্ছে সেদিকে নজর নেই,Geopolitical,no,Comparative geopolitical critique,16,সংবাদ অগ্রাধিকার কীভাবে নির্ধারিত হয়?,safe,Geopolitical analysis,NA,NA
+ভারত এভাবে মুসলিম হত্যা বিএসএফ দিয়ে বাংলাদেশী মুসলিম গরু ব্যবসায়ী হত্যা গরুর মাংস খাওয়ার দায় দেখিয়ে মুসলিম হত্যা আইন করে কুরবানি নিষিদ্ধ করা কাশ্মীরে মুসলিমদের ধর্ষণ করে হত্যা ও বাড়ির ভাংচুর করা সহ নানাভাবে সুসলিমদের উপর অত্যাচার নির্যাতন যুলুম করে চলছে তখন ভারত সরকারকে কে হুঁশিয়ারি দেয় আর কে চোখ রাঙ্গায়ে কথা বলে আগে ভারতকে উগ্রবাদীউগ্রপন্থী নীতি পরিহার করতে হবে তারপর বাংলাদেশের উপর নজর রাখতে হবে আমি হলফ করে বলতে পারি বাংলাদেশে হিন্দু সম্প্রদায়ের অতিতকালের সবথেকে নির,Geopolitical,yes,Inflammatory religious-national accusations,16,Not useful as question,unsafe,Hate speech,S8,Religious-national hostility
+মাহির আচরণে ছাগলের ৩ নাম্বার বাচ্চার মত লাগছে,Political,yes,Dehumanizing personal-political insult,16,Not useful as question,unsafe,Harassment,S10,Animalistic insult
+খানকি মাগিদের কি সুন্দর ব্যবসা,Gender abusive,yes,Gender-based sexual degradation,16,Not useful as question,unsafe,Sexual harassment,S2,Sexualized misogyny
+কুত্তার গু মার্কা প্র্যাঙ্ক কল এর ভিডিও করে,Personal,yes,Personal insult,16,Not useful as question,unsafe,Harassment,S10,Vulgar mockery
+পাক রাজাকারের ধর্ষণজাত লোকের কাজ এটা,Political,yes,Political hate with sexual framing,16,Not useful as question,unsafe,Hate speech,S8,Political demonization
+এই কুত্তার বাচ্চার বিচার ছারাই ফাসি দিয়ে দেয়া ওচিত,Personal,yes,Extrajudicial killing demand,16,Not useful as question,unsafe,Violence,S1,Advocacy of execution
+শালা পাকিস্তান একটা বোকাচুদা দেশ কেনো যে তারা ভারতে আক্রমণ করতে চায় ভারতে মানুষের বাড়িতে টয়লেট নেই তারা খোলা আকাশের নিচে হাগু করে যদি ঐ ভারতীয়রা পাকিস্তান সীমান্ত এলাকায় গিয়ে হাগু এবং মুতে দেয় তাহলে পাকিস্তানে বন্যা হয়ে যাবে,Geopolitical,yes,Dehumanizing national mockery,16,Not useful as question,unsafe,Hate speech,S8,National humiliation
+কমিশনার টের পাইলে তুর গুয়া দিয়া গরম ডিম দিব,Gender abusive,yes,Graphic sexual threat,16,Not useful as question,unsafe,Sexual violence,S7,Explicit sexual harm
+এদের মতন বেশ্যা মাগিদের জন্য সমাজে এত নুংরামী হয়,Gender abusive,yes,Gender-based collective blame,16,Not useful as question,unsafe,Sexual harassment,S2,Misogynistic insult
+

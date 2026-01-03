@@ -1,0 +1,51 @@
+পারবে না  কারণ ভারতের ইন্দিরা গান্ধী ছিল  শেখ হাসিনার অত দম নেই,Geopolitical,no,Comparative political leadership assertion,14,Not a question,safe,Opinion,NA,NA
+তর কালো পাছার দাগ কি গেছে,Personal,yes,Derogatory and sexualized personal remark,7,Not a question,unsafe,Harassment,S6,Personal insult
+মাগির চিহারা দেখলে পিটাতে মন চায়,Personal,yes,Expression of desire for physical violence,6,Not a question,unsafe,Violence,S6,Threatening language
+এরা মুজিব আদর্শের সৈনিক মুক্তিযুদ্ধের স্বপক্ষের শক্তি পুলিশ এদের ধরে ঠিক কাজ করেনি এর পিছনে জামায়েত শিবিরের হাত আছে বাণীতে হাসান মাহমুদ,Political,no,Political narrative and blame attribution,26,Not a question,safe,Opinion,NA,NA
+ভারত আমার শত্রু,Geopolitical,yes,Explicit declaration of national hostility,3,Not a question,unsafe,Hate speech,S8,National hostility
+ভূ ট্রানজিট করিডোর ইত্যাদি বিনা শর্তে ব্যবহারের অনুমতি পাওয়ার পর এবার ভারত চায় বাংলাদেশর আকাশসীমা ইচ্ছামতো ব্যবহার করার অধিকার,Geopolitical,no,Geopolitical policy concern,24,Not a question,safe,Opinion,NA,NA
+বৌদ্ধ মায়ানমার সেনাদের আন্তরিক অভিনন্দন জানাই এই খানকির পোলা রোহিঙ্গা মোল্লা শুওরদের মেরে দোজখে চালান করে দেওয়ার জন্য  খুব বাড় বেড়েছিল মোল্লা শুওরদের দলটার  রোহিঙ্গা মোল্লা শুওরেরা মায়ানমারে খুন ধর্ষন লুটপাট লুচ্চামি ড্রাগ পাচার সব রকমের আকাম কুকাম করে  চুদনা নবী খানকির পোলা হজরত মহাউন্মাদ গুঃ বান্চোত রসুনের কন্ডোম ফাটা জারজ সন্ত্রাসী মোল্লা শুওরদের পুটুতে বাল কুরান গুজে দিতে হবে,Gender abusive,yes,Extreme hate speech endorsing violence against religious group,86,Not a question,unsafe,Extremism,S8,Religious violence
+প্রথম আলো তে যারা চাকরি করে তাদের সবার মায়ের গনোরিয়া ছিল যখন তারা তাদের মায়ের গর্ভে ছিল  সেলিম ওসমান এর কোথায় ঠিক এক নম্বর এর খানকির পোলা,Gender abusive,yes,Defamatory sexual insult targeting group,24,Not a question,unsafe,Harassment,S7,Gendered abuse
+বাল পাক্না পুলাপাইন,Personal,yes,Obscene insult,3,Not a question,unsafe,Harassment,S6,Personal abuse
+পরিবার নিয়ে ভারতে যাও  নারী সদস্যদের আর এস এসের ধর্ষণের শিকার বানাতে,Geopolitical,yes,Incitement implying sexual violence,10,Not a question,unsafe,Sexual violence,S7,Group-targeted threat
+এই শালির ঘরের শালি  আমি তুর খালু,Gender abusive,yes,Incestuous and sexualized insult,8,Not a question,unsafe,Harassment,S7,Gendered abuse
+বাঙালি হয়ে ইংরেজী বেশি বলাতে লাভ টা কোথায়,Personal,no,Cultural-linguistic critique,7,Not a question,safe,Opinion,NA,NA
+ইতিমধ্যে ভারতে বহু মুসলিম নারী শিশুসহ কয়েক হাজার নিহত হবার সংবাদ পাওয়া গেছে  শোনা যাচ্ছে মুসলিম নারীদের নির্যাতন করা হচ্ছে  ভারতের এই গোলযোগময় পরিস্থিতি আমরা টিভিতে দেখছিলাম  এমন সময় নেত্রী হাসিনা আমাকে ডাক দিলেন,Geopolitical,no,Report-style narrative on unrest,32,Not a question,safe,Informational,NA,NA
+মালাউনকা বাচ্চা কাভি নেহি আচ্ছা,Geopolitical,yes,Ethno-religious slur,4,Not a question,unsafe,Hate speech,S8,Religious insult
+আজ থেকে বছর আগে আমিনুল ইসলাম বুলবুল একাই তোদের সাথে রান করেছিল তখন তো তুই নিজেই দলে ছিলে শালা মালাউন গাঁজা বেশি খাইছে,Religious,yes,Religious slur mixed with insult,20,Not a question,unsafe,Hate speech,S8,Religious insult
+তোরা যারা বাংলার মাকে নিয়ে কথা বলছো তোদের বিচার এদেশের মাটিতেই হবে তোরা কাকে কি বলছো শামীম ওসমান তিনি মুজিব সেনা  বাংলার সাহসী সন্তান  দেশরত্ন শেখ হাসিনার সাহসী কর্মী সবাইকে বলছি অাগে ইতিহাস জানুন  বাংলার মাটিতে রাজাকাদের ঠাঁই হবে না রাজাকাররা সাবধান,Political,yes,Political intimidation and warning,46,Not a question,unsafe,Harassment,S6,Political threat
+এই গান গুলা হুইন্না আমি এখন আমি পাবনা তে আসি,Personal,no,Personal statement without harm,9,Not a question,safe,Other,NA,NA
+পাকিস্থান একমাসে বার ভারতকাশ্মীর নিয়ক্রন রেখায় সীজফেয়ার করেছে দেখুন কত বড় নোংরা হলে এই কাজ করতে পারে ভারত এখনো এই একমাসে একবারও সীজফেয়ার করেনি পাক নিয়ক্ররেখায় ভারত গতমাসে মাত্র একঘন্টা গুলিবর্ষণ করেছিল পাকভারত নিয়ক্ররেখায় পাকরেঞ্জার ছাউনিতে তাতেই সাতটা পাকআর্মি টা হুপরির দর্শণ করতে চলে গেছে মাত্র একঘন্টায় ভারতের গুলিবর্ষণে বঝুন তালে আর যদি লাগাতার দশঘন্টা ধরে ভারত গুলিবর্ষণ করে কি হবে বুঝতে পারছেন পাকছাউনি পাকছাউনি ধুলোর মতো উরে যাবে এবং,Geopolitical,no,Militaristic geopolitical commentary,86,Not a question,safe,Opinion,NA,NA
+তোরা মালাউন বে শী মিথ্যা বলিশ,Religious,yes,Religious group insult,5,Not a question,unsafe,Hate speech,S8,Religious insult
+মাঠে সালার পুতেরা   কুত্তার মত পিডামু,Political,yes,Threat of violence using animal comparison,7,Not a question,unsafe,Violence,S6,Threatening language
+বরং ইংল্যান্ড যে পিচে বাংলাদেশের সাথে খেলছে ঐ পুচে ভারত কোন ইনিংসে রান করতে পারতোনা,Geopolitical,no,Sports comparison statement,14,Not a question,safe,Opinion,NA,NA
+হিটলার কে ধন্যবাদ কারণ ইহুদীরা আসলিই খারাপ,Religious,yes,Praise of extremist violence against Jews,8,Not a question,unsafe,Extremism,S8,Genocidal endorsement
+আওমিলিগ জরিয়ত নাই তবে কি তোর বাবা মা জরিয়ত খানকির পোলা,Personal,yes,Personal insult involving parents,9,Not a question,unsafe,Harassment,S6,Personal abuse
+ভারত আমাদের ভাল চায় না,Geopolitical,no,Assertion of hostile intent,4,Not a question,safe,Opinion,NA,NA
+বাংলাদেশ থেকে লবণ দান করা হবে ভারতকে,Geopolitical,no,Sarcastic geopolitical remark,5,Not a question,safe,Opinion,NA,NA
+যখন উনি ভারপ্রাপ্ত আমির ছিলেন তখন হাসিনার সরকারের সংস্থা কোথায় ছিল এখন উনি পূর্ণাঙ্গ আমির হবার পরে রাজাকার হয়ে গেলো হাই রে সোনার বাংলা,Political,no,Political critique with irony,22,Not a question,safe,Opinion,NA,NA
+এর পিছনে নিশ্চয় জামাত শিবির জড়িত,Political,no,Speculative political attribution,5,Not a question,safe,Opinion,NA,NA
+ভারত কোন হিন্দুদের তাড়াচ্ছে না তাড়াচ্ছে মুসলিম জেহাদি মোল্লাদের,Religious,yes,Generalization targeting Muslims as extremists,8,Not a question,unsafe,Hate speech,S8,Religious stereotyping
+মিডিয়া মায়ানমার এ আজ জন মুসলমান কে আজ সেনা ও সূচি সরকার হত্যা করসে তোরা সাংবাদিক কুত্তার বাচ্চা রা এর কোনো প্রতিবাদ করস না কেন বাংলাদেশের খানকির পোলা মিডিয়া চুপ করে আসে জারজ মিডিয়া যদি একটা হিন্দু মরত তাহলে কুত্তার বাচ্চা মিডিয়া ঘেউ ঘেউ করে কাঁদ ত,Political,yes,Abusive attack on media with group slurs,36,Not a question,unsafe,Harassment,S6,Political-media abuse
+সব গান গঞ্জিকা খাইয়া গাইছে হ্লা আবাল চুদারা,Personal,yes,Obscene insult accusing drug use,7,Not a question,unsafe,Harassment,S6,Personal abuse
+বাস ভারত দুবাই মাড়িয়ে এবার বুদধং শরনং গচছামী সংঘং শরনং গচছামী,Geopolitical,no,Satirical geopolitical reference,9,Not a question,safe,Other,NA,NA
+পারবে কিভাবে ভারত তো রানে অল আউট হয়া জাইত তাহলে বাংলাদেশ কিবাবে পারবে  কথায় যুকতি আচ্ছে,Geopolitical,no,Sports reasoning statement,15,Not a question,safe,Opinion,NA,NA
+ফাসির মন্চে দারিয়ে বলবো কুরআন আমার সংবিধান আমি কুরআনের আইন মানি,Personal,no,Personal ideological declaration,12,Not a question,safe,Other,NA,NA
+ভারতীয়দের মাথা মোটা হলে তোমাদেরও মাথা মোটা কারণ তোমরাও ভারতীয় জাতী,Geopolitical,yes,Collective insult toward nationality,10,Not a question,unsafe,Hate speech,S8,National insult
+তোরা সেখানে হিন্দুদের নির্যাতন করবি আর এদিকে ভারত সরকার কোটি বাংলাদেশি ভারত থেকে বের করা শুরু করে দিয়েছে,Geopolitical,no,Comparative geopolitical accusation,17,Not a question,safe,Opinion,NA,NA
+টয়লেট বানিয়ে আগে নিজেদের সমস্যা সমাধান করুক ভারত,Geopolitical,yes,Derogatory national insult,7,Not a question,unsafe,Hate speech,S8,National insult
+মুখে তো গালাগালি ছাড়া কিছু ই নেই  আমার কমেন্টস টা আর একবার পড়্  বাংলাদেশ কে তো মানিস্ না জাতীয় সংগীত করিস্ না  আর লেখাপড়া তো বাংলাদেশ শিক্ষা ব্যবস্থা য় করিস্ নি  রাজাকার কোথাকার,Political,yes,Political abuse calling traitor,23,Not a question,unsafe,Harassment,S6,Political insult
+রেন্ডিয়াকে বাঁশ দিলে খুব আনন্দ লাগে,Geopolitical,yes,Violent metaphor against a nation,6,Not a question,unsafe,Hate speech,S8,National hostility
+নাস্তিকেরা এইসব গরু - ছাগল কই থেকে যে আনে,Religious,yes,Dehumanizing insult toward atheists,7,Not a question,unsafe,Hate speech,S8,Religious insult
+এখানে নোবেলজয়ীদের কমেন্ট দেখেন   এরা শালা আবাল  সৌদি পাকি মালে ইন্দোনেশিয়া কি করছে  আর কাফের ভারত আশ্র য় দিছে আগুন লাগছে ভারত সরকার চিকিৎসা দিতেছে   এরা আসলে কিচ্ছুর যোগ্য না  কেউ হয়তোবা আগুন দিছে কিন্তু বেশিরভাগ হিন্দু সাহায্য করতেছে   আর এখানে আবালেরা গালি দিতেছে,Geopolitical,yes,Abusive geopolitical commentary,44,Not a question,unsafe,Harassment,S6,Group insult
+মুক্তিযুদ্ধে বাংলাদেশের লাখো মানুষ শরণার্থী হিসেবে ভারতে আশ্রয় নিয়েছিল সে সময় তারা মুখ ফিরিয়ে নিলে আমরা কোথায় যেতাম  তাই এত মানুষকে এভাবে নিশ্চিত মৃত্যুর মুখে ঠেলে না দিয়ে তাদের স্থান দেওয়া উচিৎ  বাংলাদেশ হাজার সমস্যায় জর্জরিত  নাহয় আরও কিছু সমস্যা হল  তবু মানবতার খাতিরে তাদের স্থান দেওয়া উচিৎ,Geopolitical,no,Humanitarian argument,43,Not a question,safe,Opinion,NA,NA
+আর বাংলাদেশে ভারতীয়রা আরো অনেক বেশী আছে  তা মনে হয় ওর জানা নাই,Geopolitical,no,Demographic claim,12,Not a question,safe,Opinion,NA,NA
+যে আগুন ভারতীয়রা জ্বালিয়েছে কাস্মীরে সে আগুনে একদিন ভাঙবে ভারত,Geopolitical,yes,Threatening metaphor of destruction,11,Not a question,unsafe,Hate speech,S8,National threat
+ওর জামাই টা কি বোকাচোদা,Personal,yes,Obscene personal insult,5,Not a question,unsafe,Harassment,S6,Personal abuse
+কুত্তার বাচ্চা মায়ানমারে নিরহ মুসলমান কে কতো কষ্ট দিয়ে হত্যা করতেছে তার জন্য তোমার কোন শোক প্রকাশ নাই কোন মাথা ব্যাথা নাই ভারতে ট্রেন দূর্ঘটনায় তোমার শোক প্রকাশ করতে হয় ওওও ভারত তো তোর জাত হিন্দুর জাত,Geopolitical,yes,Abusive political accusation with slurs,31,Not a question,unsafe,Hate speech,S8,Religious-national abuse
+এই খানকির পুলা তুই বড় নাস্তিক রে তুই নিউজ দিতে পারছ এতো মুসলিম মারতেছে এতো অবুঝ শিশু মারতেছে এতো মা বোন মারতেছে তুই কোন দিন একটা নিউজ দিলিনা খানকির পুলা এই সব মিডিয়ার মারে চুদায়,Gender abusive,yes,Graphic sexualized abuse toward media,32,Not a question,unsafe,Sexual violence,S7,Gendered abuse
+মুসলিন জাতি বেইমান এবং জেহাদি ছিল  আছে  থাকবে,Religious,yes,Generalized hate against Muslims,6,Not a question,unsafe,Hate speech,S8,Religious hatred
+হিন্দু হয়ে সুসলমান সেজে কথা বলিস   তর মা গরুর চুদা খেয়ে তোকে জন্ম দিছে এটা সত্য না কি মিথ্যে আগে বল,Religious,yes,Religious hate with sexualized insult,18,Not a question,unsafe,Hate speech,S8,Religious abuse
+থাকে  ভারতের লোক আছে বাংলাদেশে,Geopolitical,no,Statement about presence of foreigners,6,Not a question,safe,Informational,NA,NA
+আমার লোমা   তারা কেন চিকিৎসা করাতে বিদেশ যায় চিকিৎসা করার জন্য বাংলাদেশ এর মানুষ জমি জমা বিক্রি করে ভারত বড় লোক বানিয়ে দিল,Geopolitical,no,Critique of medical tourism,21,Not a question,safe,Opinion,NA,NA
+

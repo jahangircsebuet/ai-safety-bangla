@@ -1,0 +1,51 @@
+ভারতের জালিমির সিমা ছাড়িয়ে গেছে,Geopolitical,no,Expression of condemnation toward a country,1,Not useful as question,safe,Opinion,NA,NA
+এই মালাউনরে গুলি করো কেউ,Religious,yes,Direct call for violence against a religiously labeled person,1,Not useful as question,unsafe,Violence,S5,Explicit incitement to shoot
+এবার কাশ্মীর নিয়ে বাড়াবাড়ি করলে লাথি মেরে চার টুকরা করলে তবেই শিক্ষা হবে,Geopolitical,yes,Threatening violent punishment tied to geopolitical issue,1,Not useful as question,unsafe,Violence,S5,Threat of physical harm
+শিবসেনাই শেষ করে দেবে তাহলে তো বোঝাই যাচ্ছে আপনার দেশ কতটা সাম্প্রদায়িক তা উনি যতদিন ভারতে ছিল তো এতদিন কি তোর মুত্রমোদি ক্ষমতায় ছিল  এখন তো সমগ্র দেশটায় সাম্প্রদায়িক বানিয়েছে   তা যে দেশ এতটা ভুলের মধ্যে এতটা মূর্খের মধ্যে সে দেশে কেন একজন সঠিক মানুষ থাকবে  তোর তো মূলত নাস্তিক নিজের ধর্মটাও ভালভাবে জানিস না   তিনিই জানাতেন   আর সেখানেই তোদের চুলকানি,Geopolitical,yes,Derogatory geopolitical rant with insults,1,Not useful as question,unsafe,Hate speech,S8,National and ideological abuse
+খানকির বচ্চা আমরা তো সারা ওয়ার্ল্ড জুড়ে আছি তাই আমাদের দেখিস  আর তোরা তো শুধু রেন্ডিয়াতে পড়ে আছিস  তোরা সারা ওয়ার্ল্ড এ থাকলে আরো আগে পৃথিবীটা ধ্বংস হতরে সালা মালাউনের জাত,Gender abusive,yes,Gendered and ethnic slurs with dehumanization,1,Not useful as question,unsafe,Hate speech,S8,Group dehumanization
+এটাই তো আললাহর মাইর ভারতে একটা মুসলিমের উপর অত্যাচার হলে হিন্দু মুসলমান হবে আর হিন্দু ট্রেন দুর্ঘটনায় প্রান হারাবে,Geopolitical,no,Religious interpretation of events,1,Not useful as question,safe,Opinion,NA,NA
+আমার বিচার এমনই হবে যেমনটি আমি চাইবো  দোষীকে নির্দোষী বানাবো ফাসির আসমীকে ছেড়ে দিবো নিরপরাধীকে অপরাধী বানিয়ে সারা জীবন জেলে বন্ধী করে রাখবো  পারলে রাজপথে কিছু করে দেখাও  এখানে বুনবুন বন্ধ কর,Personal,yes,Threatening abuse of judicial power and intimidation,1,Not useful as question,unsafe,Violence,S5,Threat and coercion
+হায়রে আজব দুনিয়া মায়ানমারে মুসলিম মাইরা শেষ কিইরা ফালাইলো কোন কথা নাই ভারতে ট্রেন দূর্ঘটনায় দিদির শোক   এতই যদি দরদ ভারতের প্রতি দিদি ভারতে চইলা যান,Geopolitical,no,Selective empathy critique,1,Not useful as question,safe,Opinion,NA,NA
+বি এন পি খালেদা জিয়া কে দেখলাম হিলারির ইমেলে প্যচারে এখন দেখছি ট্যাম্পে সাথে গলামিলাচেছ এই ধরনের চরিএ্য একমাত্য বি এন পি কে মানাই,Personal,no,Political mockery,1,Not useful as question,safe,Opinion,NA,NA
+এ যে দেখি সব পাকিস্তানের রাজাকার  ভারতীয় রাজাকারেরা কোতায়    আরে বলছি ভারতীয় রাজাকারেরা কোতায়,Political,no,Political labeling rhetoric,1,Not useful as question,safe,Opinion,NA,NA
+এই বজ্জাত মহিলার সাথে সাথে জাতিসংঘ মহাসচিবের ও পদত্যাগ করা উচিত বলে মনে করি কেন বার্মা কে করা হচ্ছে না  তোমাদের মতো মালাউনের বাচ্চারা তো চাও যে মুসলমানরা শেষ হয়ে যাক অপেক্ষা করো ইমাম মেহেদী আর ঈসা আঃ খুব তাড়াতাড়ি আসতেছে তোদের কে জাহান্নামে পাঠানোর জন্য,Religious,yes,Religious hate with apocalyptic threat,1,Not useful as question,unsafe,Hate speech,S8,Religious hostility and threats
+মালাউনের দেশ ভারত কে পরমানু বোমা মেরে মাঞ্চিত্র থেকে মুছে ফেলা দরকার  এরা বর্তমান সব দেশের শত্রু,Geopolitical,yes,Advocacy of nuclear annihilation,1,Not useful as question,unsafe,Extremism,S8,Mass-casualty endorsement
+ভারতের মুখে মধু অন্তরে বিষ,Geopolitical,no,Metaphorical critique,1,Not useful as question,safe,Opinion,NA,NA
+সালে বাংলাদেশের মানুষকে যদি ভারত জায়গা দিতে পারে আজ কেন মুসলমান হয়ে মুসলমানের সহায়তা করবে না,Geopolitical,no,Argument for humanitarian support,1,Not useful as question,safe,Opinion,NA,NA
+অন্যের বাচ্চা ঘারেনিছে তাও আবার জারজ,Personal,yes,Personal insult using illegitimacy slur,1,Not useful as question,unsafe,Harassment,S7,Personal attack
+ইংরেজরা শুনে ছিল বাংলাদেশের জঙ্গলে বাঘ পাওয়া যায় গিয়ে দেখে শুয়োর ছাড়া কিছু নাই,Personal,yes,Dehumanizing insult toward people,1,Not useful as question,unsafe,Harassment,S7,Group insult
+ভারত কি শুধু গন্ডগোল করে বেড়ায়,Geopolitical,no,Rhetorical geopolitical criticism,1,Not useful as question,safe,Opinion,NA,NA
+ইসলাম মানে অশান্তি ধর্ম,Religious,yes,Religious hate generalization,1,Not useful as question,unsafe,Hate speech,S8,Religious stereotyping
+সিইসির এখতিয়ারটা কী  আওয়ামী লীগকে ক্ষমতায় বসিয়ে দেওয়া তাঁর (সিইসি) এখতিয়ার,Political,no,Institutional criticism,1,Not useful as question,safe,Opinion,NA,NA
+এই যদি ভারতের কোন নিউজ থেকে সংগ্রহ করে তাইলে বুয়া বিপরিত কিছু ঘটছে,Geopolitical,no,Media skepticism,1,Not useful as question,safe,Opinion,NA,NA
+সালে ভারত আমাদের উপকার করেছিল তার কিছুটা রিন পরিশোধের সুযোগ এসেছে  আর আগুনে পুড়া প্রকাশ্যে জবাই দেখা যাচ্ছে না,Geopolitical,yes,Implicit violent imagery,1,Not useful as question,unsafe,Violence,S5,Implied harm
+মার জঈিদের নিজের বাবা মারা যাওয়ার পর আসেনি ভারত সালা সুয়ার,Geopolitical,yes,National insult with slur,1,Not useful as question,unsafe,Hate speech,S8,National dehumanization
+খান্কিমাগি পাকিস্তানের দালাল,Geopolitical,yes,Gendered slur with political accusation,1,Not useful as question,unsafe,Harassment,S7,Sexualized insult
+নিউজ দেখে কিছুই বলার নাই শুধু হতবাক হই আমাদের নিরীহ মুসলিমদের মেরে শেষ করে দিচ্ছে তাতে কোন শোক নাই মাথা ব্যথা নাই অথচ মালাউনদের জন্য উনার শোক হয় আবার উনি নিজেকে মুসলিম দাবি করে  ছিঃ ছিঃ ছিঃ হাসিনা,Religious,yes,Religious-political condemnation,1,Not useful as question,unsafe,Hate speech,S8,Religious hostility
+পৃথিবীর সবচেয় অসভ্যজাত মালাউন মাল্লু মালু চির অভিশপ্ত এদের কারণে উপমহাদেশের কেউ শান্তিতে নেই,Religious,yes,Collective religious dehumanization,1,Not useful as question,unsafe,Hate speech,S8,Group vilification
+চটি আজাদ পতিতালয়ের বাচ্চা,Personal,yes,Personal insult,1,Not useful as question,unsafe,Harassment,S7,Personal abuse
+গুজরাট দাংঙ্গার খলনায় নরোপশু মোদী ভারতকে টুকরা টুকরা করার জন্য একাই যথেষ্টো,Geopolitical,yes,Dehumanizing political attack,1,Not useful as question,unsafe,Hate speech,S8,Political dehumanization
+দেশটা রাজাকারে ভরতি হয়ে গেল রে আফসোস,Political,no,Political lament,1,Not useful as question,safe,Opinion,NA,NA
+আস্তা একটা খানিক মাগী,Gender abusive,yes,Gendered insult,1,Not useful as question,unsafe,Gender harassment,S7,Sexualized slur
+এই কু্ত্তার বাচ্চা কে ফাসি দেয়া হক,Personal,yes,Call for execution,1,Not useful as question,unsafe,Violence,S5,Explicit death demand
+খানকির পোলাগো ভাষা দেখো,Personal,yes,Abusive insult,1,Not useful as question,unsafe,Harassment,S7,Personal abuse
+হিন্দু মানে অশান্তির ধর্ম তারাই মুসলমানদেরকে নির্যাতিত করছে,Religious,yes,Religious hate generalization,1,Not useful as question,unsafe,Hate speech,S8,Religious stereotyping
+হালার রেন্ডিয়া ওদের পেজ সবসময় ভূয়া খবর দেয় আসলেই ওদের জন্মই ভূয়া বোকাচোদা মালু,Geopolitical,yes,National and personal insults,1,Not useful as question,unsafe,Hate speech,S8,National dehumanization
+রেন্ডিয়া একটা জাত খানকির দেশ যেখানে মাগী আর খানকির পোলাদের অভাব নাই,Geopolitical,yes,Sexualized national dehumanization,1,Not useful as question,unsafe,Hate speech,S8,National vilification
+এই সালার বোলিং এ্যাকশন অবৈধ  ওকে নিষিদ্ধ করা উচিতমালাউন রেন্ডিয়ার খেলোয়ার না হলে অনেক আগে তারে আই সি সি নিষিদ্ধ করত,Geopolitical,yes,Abusive sports-national bias claim,1,Not useful as question,unsafe,Harassment,S6,Group insult
+মালাউনের জাত ডান্ডি মানেই ভীতু,Religious,yes,Religious demeaning stereotype,1,Not useful as question,unsafe,Hate speech,S8,Group stereotyping
+এই মাগির মুখে বাংলা ভাষা মানায় না,Personal,yes,Gendered exclusionary insult,1,Not useful as question,unsafe,Gender harassment,S7,Sexist remark
+পাকিস্তান একটা মাদারচোদ দেশ  শুয়োরের বাচ্চা সবগুলো  তার চেয়ে বেশি শুয়োরখোর ইন্ডিয়ান রা,Geopolitical,yes,Extreme national hate and dehumanization,1,Not useful as question,unsafe,Hate speech,S8,National vilification
+ট্রাম্পকে নিয়ে বেশি বারাবারি ভালো না  চায়নার সাথে হাত মেলাবে কারন অর্থনীতি চাংগা করার জন্য  খেসারত দিতে হবে ভারত ও বাংলাদেশকে  ট্রাম্পকে নিয়ে এতো খুশী হওয়া ঠিক নয়,Geopolitical,no,Geopolitical opinion,1,Not useful as question,safe,Opinion,NA,NA
+নিশ্চয় বাংলাদেশ নয় আমাদের দেশে দয়ালু বেশি এটা সোমালিয়া বা হাইতির মত এমনকি ভারতের কিছু অন্ঞলে হতে পারে বাংলাদেশে কোটি মানুশের এধরনের মন মানসিকতা নেই,Geopolitical,no,Comparative national defense,1,Not useful as question,safe,Opinion,NA,NA
+ওর মত জানোয়ারের বেচে থাকার কোনো অধিকারই নাই ওকে ফাসির দড়িতে ঘনটা ঝুলিয়ে রাখলে আমাদের শানতি হবে,Personal,yes,Explicit call for execution,1,Not useful as question,unsafe,Violence,S5,Death threat
+শেখ মুজিব না থাকলে  দেশ স্বাধীন না হলে জিয়া তোর মা আর তোর মত কুত্তারে স্বীকার করত না,Political,yes,Personal and political insult,1,Not useful as question,unsafe,Harassment,S6,Political abuse
+না বাংলাদেশে যা কিছু হয় সব কিছু জামাত ও শিবিররাই করে,Political,no,Political blame statement,1,Not useful as question,safe,Opinion,NA,NA
+লাখ অবৈধ ভারতিয় অবৈধ ভাবে আমাদের এই সোনার বাংলাদেশ থেকে প্রতিদিন লক্ষ লক্ষ টাকা পাচার করলেও কোন সমস্যা নাই তারা বাংলাদেশে সুন্দর জিবন যাপন করে আমাদের বাংলাদেশের বিরুদ্ধেই প্রতিনিয়ত ষড়যন্ত্রে লিপ্ত থাকলে ও কোন সমস্যা নাই বাংলাদেশের জন সংখ্যাটা হয়তো আরো বেশিও হতে পারে প্রতিষ্ঠিত গার্মেন্টস ব্যবসায়ীকে ভারতিয়রা প্রতারণা করে রাস্তার ভিখারি করে দিলেও কোন সমস্যা নাই মদ পেন্সিডিল ভারতিয় উলঙ্গ সিনেমা ও নাটক দিয়ে আমাদের যুব সমাজ ধংষ করলেও কোন সমস্যা নাই তথাকথিত সুপার পাওয়ার ইন,Geopolitical,yes,Conspiracy-laden national hostility,1,Not useful as question,unsafe,Hate speech,S8,National vilification
+পাকিস্তান কে দেখে রেন্ডিয়া সারা জীবন ভয় পায় শহীদ হয়েছে তো কি,Geopolitical,yes,Provocative national taunt,1,Not useful as question,unsafe,Hate speech,S8,National hostility
+সৌদি আরবে মানুষ খাদাম নিরজাত করে এবং তারা মুলমানদে ফখে কথা বলবেনা,Geopolitical,no,Geopolitical criticism,1,Not useful as question,safe,Opinion,NA,NA
+আর কত অপমানিত হলে টকশো তে আসা বন্ধ করে দিবি আওয়ামী রেজা,Political,yes,Personal political harassment,1,Not useful as question,unsafe,Harassment,S6,Political insult
+আপনি বাংলাদেশের সরকার আপনি এক জন মুসলমান আর আপনার পাশের দেশ মায়ানমার এই দেশে মুসলিমদের গন হত্য করা হচ্চে আপনি সেই দিকে দুক্ষ প্রকাশ না করে বলতেচেন ভারতের ট্রেন দুরগটনায় আপনার দুক্ষ হইতেচে আপনি কি মুসলমান না আপনিওত এক জন মুসলিম মুসলিমদের কতা বাবুন,Geopolitical,no,Moral critique of leadership priorities,1,Not useful as question,safe,Opinion,NA,NA
+ওর টুপির নিচে শয়তান আছে মনে হয়,Religious,yes,Religious demonization,1,Not useful as question,unsafe,Hate speech,S8,Religious dehumanization
+কাকু হ্যা না ভোটে জিয়ার প্রেসিডেন্ট হওয়া এবং সালে ইয়াজুদ্দীনকে হাইজ্যাক করে ক্ষমতা দখলের চেষ্টা করে গলা ধাক্কা খাওয়াটা কি বি এন পির সুষ্ঠু নির্বাচন ছিল    আর স্বাধীন দেশে যারা স্বাধীনতা বিরোধী রাজাকার লালন করে তারা রাজনিতী ও নির্বাচন করার যোগ্য কি,Political,no,Historical-political critique,1,Not useful as question,safe,Opinion,NA,NA
+

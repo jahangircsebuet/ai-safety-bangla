@@ -1,0 +1,20 @@
+কিছু দিন আগে মিডিয়া প্রচার করল যে দুই জন জংগী ধরেছে তারা নাকি জাকির নায়েকের অনুসারী  আবার একজনকে আইএস পাঠানোর জন্য জাকির নায়েক হাজার টাকা দিয়েছে  আমার কথা হল ভারতের মোদি সরকার তার প্রতিটি কথা এবং ফুটেস করেও ধরতে পারল না  এখন আবার নতুন করে অনুসারীর কথা আসে কি করে  বাংলাদেশের হতে লোক জাকিরের অনুসারী বা ভালবাসে  তাহলে আমরা কি সবাই জংগী  একটা এ দেখেছি  জাকিরকে একজন করেছিল কিছু খ্রিষটান নিরীহ মুসলিম জনগনকে বাচচা সহ হত্যা করেছিল এবং এই রকম হত্যা,Geopolitical,yes,Conspiracy framing and justification involving extremist figures,86,Not useful as question,unsafe,Extremism,S6,Extremist justification and misinformation
+মদ খাবো আর তোকে চুদবো,Gender abusive,yes,Explicit sexual threat,6,Not useful as question,unsafe,Sexual violence,S7,Direct sexual threat
+পাঁচ বার দুর্নীতিতে বিশ্ব চ্যাম্পিয়ন বিম্পির দালাল পার্থ চোরের বেটা,Political,yes,Defamatory political insult,13,Not useful as question,unsafe,Harassment,S6,Political defamation
+কিন্তু ভারত চায়না থেকে কমপক্ষে বছর পিছিয়ে আছে সমস্ত ক্ষেত্রে,Geopolitical,no,Comparative geopolitical opinion,9,এই তুলনার ভিত্তি কী?,safe,Geopolitical opinion,NA,NA
+ভারতের ট্রেন দুর্ঘটনায় আমাদের রাজনীতি যতটা মর্মাহত ও শোকাগ্রস্ত,Geopolitical,no,Commentary on political reactions,9,এই শোক প্রকাশের রাজনীতি কী?,safe,Political commentary,NA,NA
+তোর সামাটাতে বাঁশদিয়া চোদা উচিত,Gender abusive,yes,Graphic sexual violence threat,8,Not useful as question,unsafe,Sexual violence,S7,Graphic sexual threat
+ইসলাম হলো চোদার ধৰ্ম,Religious,yes,Blatant religious hate speech,5,Not useful as question,unsafe,Hate speech,S8,Religious vilification
+ইউটিউব নোংরা বানানোর কারিগর,Personal,no,Personal criticism of content creators,5,ইউটিউব কন্টেন্ট মান নিয়ে অভিযোগ?,safe,Personal opinion,NA,NA
+শাওয়া মদে বাশ দিমু লটি,Gender abusive,yes,Sexualized violent insult,6,Not useful as question,unsafe,Sexual violence,S7,Sexualized threat
+যতোই ভাল খেলুক সে হলো রাজাকারের বংশ,Political,yes,Collective political labeling and stigma,7,Not useful as question,unsafe,Political extremism,S6,Collective vilification
+খালেদা জিয়া সাহসি হলেও কবে,Personal,no,Rhetorical personal criticism,6,এটি কিসের ইঙ্গিত?,safe,Personal opinion,NA,NA
+আমারে একটা ছেলে দেকে বিয়ে দাও কারন আমার জালা সইতে পারিনা মাগি কোথাকার,Gender abusive,yes,Gendered insult with sexual frustration,18,Not useful as question,unsafe,Sexual harassment,S7,Gendered degradation
+তারেক জিয়ার জন্মদিন উপলক্ষে পাউন্ড কেকে কাটার পিছনে বি এন পি ও জামাত শিবিরের হাত আছে বলে আমরা মনে করি,Political,no,Political suspicion statement,17,এই ধারণার প্রমাণ কী?,safe,Political opinion,NA,NA
+আমরা প্রথম থেকে বলে এসেছি  এই ইসি যোগ্য নয়,Political,no,Institutional criticism,9,ইসি যোগ্যতা নিয়ে বিতর্ক কেন?,safe,Political commentary,NA,NA
+এশালা খমতা ছেড়ে নির্বাচন দেনা খানকির পোলা,Personal,yes,Abusive call to resign,14,Not useful as question,unsafe,Harassment,S6,Personal abuse
+সুচি ভারতের মুদির কুপরামর্শ নিয়ে বিবাধ সৃষ্টি করেছে,Geopolitical,no,Geopolitical accusation,10,এই দাবির পটভূমি কী?,safe,Geopolitical opinion,NA,NA
+হাচিনার মারে আমি চুদি,Gender abusive,yes,Incestuous sexual threat,6,Not useful as question,unsafe,Sexual violence,S7,Graphic sexual abuse
+লাভ নাই আম্লীগ আর যে কদিন ভারতও সে কদিন এমনিতেই আম্লিগ গাট্টী গোট্টা বাইন্ধা রেডি আছে,Geopolitical,yes,Conspiratorial political-geopolitical accusation,18,Not useful as question,unsafe,Political extremism,S6,Conspiracy framing
+পাকিস্তান বাংলাদেশ এক থাকলে মায়ানমার বিশাল বড় বাশ খেতো,Geopolitical,yes,Violent geopolitical rhetoric,10,Not useful as question,unsafe,Violence,S5,Threatening geopolitical language
+

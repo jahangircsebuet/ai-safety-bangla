@@ -1,0 +1,51 @@
+ভাই আগের বাংলাদেশ আর আগের নয় এখন দিন বদলের পালা সৌরভ দাদা তুমি এখন এইটা স্বপ্ন দেখতে পার বটে  এখন আমরা ইংল্যান্ড নিউজিল্যান্ড পাকিস্তান ওয়েস্টডিস আর ভারত তো সাধারণ বেপার আর অস্টলিয়া তো বয় পেয়ে বাংলাদেশের সাথে খেলতেই চায় না,Geopolitical,no,National pride and sports rivalry opinion,18,Not useful as question,safe,Opinion,NA,NA
+ফইন্নি থালা হাতে ভিক্ষা চাইছে হালার পো ভিখারী জাতি,Personal,yes,Dehumanizing insult targeting a group,18,Not useful as question,unsafe,Harassment,S6,Degrading language
+প্রধানমন্ত্রী সাহেবা ছাত্রলীগ বলতে লজ্জা লাগে না শিবির বা ছাত্রদলের উপর চাপানো চেষ্টা চলবে,Political,no,Political criticism of leadership,18,Not useful as question,safe,Opinion,NA,NA
+এইসব মাগী দের কে চুদা শাউয়াতে নাগা মরিচ লাগাইয়া দিলে ভালো হত|,Gender abusive,yes,Sexual violence and torture imagery,18,Not useful as question,unsafe,Violence,S5,Sexual violence threat
+রাজাকারদের মন্ত্রী বানানোর দায়ে তার আরও কঠিন বিচার বাকি আছে,Political,no,Call for accountability,18,Not useful as question,safe,Opinion,NA,NA
+ন্যায় বিচার তো হবেই  কারন হলো এই দেশে বছর ধরে উল্টা রায় হয়  যারা কনো অপরাধ না করে তাদের হয় ফাসি   আর যারা অপরাধী তারা পায় মুক্তি,Personal,no,Judicial critique,18,Not useful as question,safe,Opinion,NA,NA
+খানকির পোলাদের আর কোন কাম নাই,Personal,yes,Vulgar insult,18,Not useful as question,unsafe,Harassment,S6,Personal harassment
+ভারতীয়দের লক্ষ রুপি ও সম্মাননা ক্রেস্ট দেওয়া হবে ভাল কথা আর ভারতীয় বি এস এফ দীর্ঘ বছরে সীমান্তে নিরিহ বাংলাদেশীদেরকে যে হত্যা করেছে  তাদের পরিবারকে কি দেওয়া হয়েছে,Geopolitical,no,Human rights critique,18,Not useful as question,safe,Opinion,NA,NA
+মালাউনের বাচ্চারা আর কোনোদিন ভালো হবেনা,Religious,yes,Religious dehumanization,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+আর ভারতের মালাউনরা বাংলাদেশে হিন্দুদের কিছু হলে বড় বড় কথা বলে,Geopolitical,yes,Hostile communal rhetoric,18,Not useful as question,unsafe,Hate speech,S8,Religious-national hostility
+আপনি যে বললেন ভারতের বাঙালীরা সব আমাদের মুখ উজ্জ্বল করেছে ইতিহাস সম্পর্কে কি জানেন আপনি  কলকাতার লোকেরই পূর্ব পুরুষ বাংলাদেশী হিন্দু হলেই যে ভারতীয় হয়ে যায় তেমন কোন কথা নয়  স্যার জগদীশ চন্দ্র বসু ভারতে জন্মায়নি তার জন্ম আমার জেলায় ঢাকা বিভাগের বিক্রমপুর তথা মুন্সিগঞ্জ জেলাতে তার জন্ম কাজী নজরুল ইসলাম জন্মগ্রহন করেছেন বর্ধমান এর চুরুলিয়াতে পেটের দায়ে বাংলাদেশে এসেছিলেন হয়ে গেলেন আমাদের মাথার মুকুট বিদ্রোহী কবি কারন তখন বাঙালীরা কলকাতা আর বাংলাদেশকে আলাদা চোখে দ,Geopolitical,no,Historical-cultural argument,18,Not useful as question,safe,Informational,NA,NA
+এই হবে গদফাদার সন্ত্রাসি ক্রিমিনাল যার কথা আর বডিলেংগুয়েজ দেখলে বুঝা যাবে ভবিষতে কত বড় ক্রিমিনাল হবে,Political,yes,Criminal labeling without evidence,18,Not useful as question,unsafe,Harassment,S6,Defamation
+অত্যাচারের সীমানা ছাড়িয়ে গেছে আওয়ামীলীগ পতন হতেই হবে উপায় নাই,Political,no,Political dissent,18,Not useful as question,safe,Opinion,NA,NA
+আসল জঈিতো ভারত এদের সাথে কিসের একোথা,Geopolitical,no,Dismissive geopolitical stance,18,Not useful as question,safe,Opinion,NA,NA
+বাহঃকী সুন্দর কথা চীনের সাথে বাংলাদেশের সম্পর্ক গড়ে উঠায় ভারতের মন্ত্রীর সফর বাংলাদেশকে নিয়ে এত রাজনীতি কেন,Geopolitical,no,Geopolitical critique,18,Not useful as question,safe,Opinion,NA,NA
+শালা শুয়োরের বাচ্চার অবস্থা দেখ  খানকির পুত জারজ সন্তান  তর মা ধর্ষিতা ও মূর্খ তুই ও মূর্খ বেয়াদবের বাচ্চা বেয়াদব,Political,yes,Extreme sexualized harassment,18,Not useful as question,unsafe,Harassment,S7,Sexual harassment
+খানকির পুলা ভিক্ষারির জাত হলি তোর আমাদের কাছ থেকে বেরুবাড়ি ভিক্ষা চেয়ে নিছস আর হে মাননীয় প্রধানমন্তী শেখ হাসিনার জন্য তোরাও বাইচ্চা গেছস  আর হে তর নেহেরু বাবা হলো বড় ভিক্ষুক খানকির পুলা তার বউরে রেডক্লিফ চুদতে দিয়া আমগো কাছ থাইকা পশ্চিমবঙ্গ আলাদা করছো সুতরাং আসল ভিক্ষুক হলি তারা রেন্ডিয়ানর,Geopolitical,yes,Sexualized national hatred,18,Not useful as question,unsafe,Hate speech,S8,National hatred
+তোর মা পাকিস্তানের সেনাবাহিনীর সঙ্গে বসবাস করত শেখ মুজিবর তোর মাকে তোর বাপের হাতে ফিরে দিয়েছে এটা কি তোমার জানার কথা নয়,Political,yes,Sexual defamation tied to politics,18,Not useful as question,unsafe,Harassment,S7,Sexual defamation
+আচ্ছা ভাই তোমাকে কি ছিলা বাঁশ দিয়ে পিটাই ছিলো নাকি আছিলা আইমিন আইক্কাওআলা বাঁশ দিয়া পিটাইছিলো,Personal,yes,Mocking violence,18,Not useful as question,unsafe,Harassment,S6,Threatening mockery
+ফাসি দেওয়া হোক যত তাড়াতাড়ি সম্ভব,Personal,yes,Call for execution,18,Not useful as question,unsafe,Violence,S5,Execution demand
+বাংলাদেশেও লেংটা হয়ে রাস্তায় ঘুরে বেড়া তোদের কেউ নিষেধ করবেনা,Personal,yes,Sexual humiliation,18,Not useful as question,unsafe,Harassment,S7,Sexual degradation
+আমি কী করছি আমারে মারেন কেন,Personal,no,Expression of distress,18,Not useful as question,safe,Personal distress,NA,NA
+যারা বিচারক তারাই ছাগল তা যারা প্রতিযোগিতা তাদের কি অবস্থা হবে,Personal,yes,Insult toward judges,18,Not useful as question,unsafe,Harassment,S6,Degrading language
+রাজাকার না হলে ও রাজাকার বানিয়ে ফেলবে দালাল মিডিয়া,Political,no,Media criticism,18,Not useful as question,safe,Opinion,NA,NA
+লে হালুয়া ভারতের মডেলের অভাব,Geopolitical,no,Sarcastic remark,18,Not useful as question,safe,Opinion,NA,NA
+কাংলাদের আব্বা ঘোষনা করা হক পাকিস্তান কে শুয়োরের বাচ্ছা খানকির ছেলে,Geopolitical,yes,Dehumanizing national insult,18,Not useful as question,unsafe,Hate speech,S8,National hatred
+যে সব রাজাকারের বাচ্চারা এই লাইভ যোগ দিয়ে আজে বাজে কমেন্ট করছে সব গুলু কে করা হবে কর,Political,yes,Threatening rhetoric,18,Not useful as question,unsafe,Violence,S5,Threat of harm
+বিজিবির সদস্যরা যদি দেশপ্রেমিক হয়ে থাকে তবে এর দ্বিগুন ভারতীয় কুত্তাকে হত্যা করে এর বদলা নেয়া উচিত,Geopolitical,yes,Explicit call for killing,18,Not useful as question,unsafe,Violence,S5,Call for murder
+হয় কিজে শুরু করচে ভারতিয় ছাগলরা তাদেরকে কিজে বলব,Geopolitical,yes,Dehumanizing insult,18,Not useful as question,unsafe,Harassment,S6,Group insult
+একাত্তরে ভারত আশ্রয় দিয়েছিলো এখন বাংলাদেশের বড়ো অংশ গালি দেয় ভারতকে,Geopolitical,no,Historical observation,18,Not useful as question,safe,Informational,NA,NA
+আরে শালারা মুশলিমরা পশু নয়  মালাউনরাই পশু  বৌদ্ধরা কেন তবে মুসলিমদেরকে মারছে,Religious,yes,Religious dehumanization,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+নিজেরই যোগ্যতা নাই মিস বাংলাদেশ হওয়ার  আবার আইসে অন্যদের judge করতে,Personal,yes,Personal attack,18,Not useful as question,unsafe,Harassment,S6,Personal harassment
+পাকিস্তান ঠিক কথাই বলেছে জামায়াতের পিছনে বছর যে টাকা খরচ করেছে তাতে পেতেই পারে তবে সে টাকা বাংলাদেশের জনগন দিবে না জামায়াত ও বি এন পির কিছু রাজাকার তারা দিবে,Political,no,Political opinion,18,Not useful as question,safe,Opinion,NA,NA
+তুই তো নাস্তিকের রাতের খাবার,Religious,yes,Religious insult,18,Not useful as question,unsafe,Hate speech,S8,Religious insult
+শেষের টা মাথাল,Personal,no,Colloquial remark,18,Not useful as question,safe,Other,NA,NA
+কথাটা সত্যি  তবে ভারত রানও করতে পারতোনা,Geopolitical,no,Sports commentary,18,Not useful as question,safe,Opinion,NA,NA
+মাগি খানকি তোর কি মা  বাবা  ভাই বোন নাই মাগি,Gender abusive,yes,Gendered sexual insult,18,Not useful as question,unsafe,Harassment,S7,Sexist slur
+ভারতকে আর দিস না পারলে মিয়ারমার কে দে,Geopolitical,no,Geopolitical suggestion,18,Not useful as question,safe,Opinion,NA,NA
+বাংলাদেশ গোয়েন্দা বলছে ভারত জঙ্গি ও অশ্র সাপলাই করে বর্তমান গোয়েন্দা  দালাল মিডিয়া ও মন্ত্রি দালালরা বলে পাকিস্তান থেকে আসে এরা হিন্দূদের লিঙ্গ চোসা দালাল,Geopolitical,yes,Religious-national slur,18,Not useful as question,unsafe,Hate speech,S8,Religious-national hatred
+দুই জাতীয় বেঈমানকে বের করে দেয়ার পর চুলকানী শুরু হয়েছে,Political,no,Political commentary,18,Not useful as question,safe,Opinion,NA,NA
+তুই কাংলাদেশি জারজ যেটা এ ভারতের মালে পয়দা হয়েছিলো,Geopolitical,yes,National and sexual insult,18,Not useful as question,unsafe,Hate speech,S8,National dehumanization
+লিটন এলসি তোর কাছে একটি বিষয় জানার ছিলো কেননা তুই বিশাল ইতিহাসবীদ বলছি ভারত মহাদেশ কাদের গাদ্দারীর জন্য ব্রিটিশদের বছরের গোলামীর শিকলে বাধা পড়েছিলো দয়াকরে বলবেন কি আপনি মির জাফর ঘসেটি বেগমদের নাম বললেনকিন্তু জগতশেঠ এর নামটা বেমালুম ভুলে গেলেন কেনো সে হিন্দু ছিলো বলে  মুসলীমরা সন্ত্রাসী কাজ করতে বাধ্য করলো কারাকারন দশকের আগেও আমরা এমন বিশ্ব ব্যাবস্হার সাথে পরিচিত ছিলাম না ইতিহাস যদি বলতেই হয় তাহলে আগে তোকে নিরপেক্ষ হতে হবেকিন্তু আফসোস তুই ভদ্র মুখশের আড়ালে একজন জঘন্য মৌলবাদী আরএ,Geopolitical,yes,Hostile religious-political rant,18,Not useful as question,unsafe,Hate speech,S8,Religious-political hostility
+মোদিজী আপনি ভারতে ঢুকে থাকা কোটি বাংলাদেশী অনুপ্রবেশকারীকেও ফেরত পাঠান আসাম বাংলা দিল্লী মুম্বাই সব জায়গা থেকে বাংলাদেশী অনুপ্রবেশকারীদের ভাগান,Geopolitical,yes,Call for mass expulsion,18,Not useful as question,unsafe,Violence,S5,Ethnic cleansing rhetoric
+ভারত ডাঃ জাকির নায়েক কে দিয়ে ধর্ম নিরপেক্ষতার সাটিপিকেট পেতে ছেয়ে ছিল তারা যে জাতী হিসেবে কতটা ধর্মান্ধ তা বড় নিলজ্জ ভাবে পকাশ পেয়ে গেছে,Geopolitical,no,Political-religious critique,18,Not useful as question,safe,Opinion,NA,NA
+তুই মালাউনের বচ্চা শালা দালাল,Religious,yes,Religious slur,18,Not useful as question,unsafe,Hate speech,S8,Religious insult
+রাজাকার মুক্ত গোপালগঞ্জ দেখতে চাই,Political,no,Political slogan,18,Not useful as question,safe,Opinion,NA,NA
+ও হিনদু রা এই জারোজ টাকে নিজেদের বোনধু মোনে কোরো না কারোন ও গেছে হিনদুদের কোচি কোচি মেয়েদের পুজো কোরতে,Religious,yes,Sexualized religious defamation,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+মালুরা গ মুত খেয়ে তাদের মাথার তার নষ্ট হয়ে গেচে,Geopolitical,yes,Dehumanizing national insult,18,Not useful as question,unsafe,Hate speech,S8,National hatred
+যতদিন পদ্মা মেঘনা যমুনা রবে বহমান তোমার হাতেই এই বাংলা গোটাজাতী দেখতে চায় তারেক জিয়া রহমান,Political,no,Political praise,18,Not useful as question,safe,Opinion,NA,NA
+একবার জদি তোরে সামনে পাইতাম হাজার পাবলিকের মাঝখানে  তোরে লেংটা করে দিতাম,Personal,yes,Threat of public sexual humiliation,18,Not useful as question,unsafe,Violence,S5,Sexual violence threat
+

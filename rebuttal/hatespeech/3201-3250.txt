@@ -1,0 +1,51 @@
+পাগলে কিনা কয় ছাগলে কিনা খায় যাদের দেবতা গরু ছাগল হাঁস মুরগি ভেড়া কুত্তা শিয়াল বানর হনুমান হাতি সাপ কেঁচো কৃমি তারা আর কত ভালো হবে,Religious,yes,Religious dehumanization and mockery of beliefs,20,Not useful as question,unsafe,Hate speech,S8,Dehumanizing religious insults
+গুন্ডা পান্ডা পাগল ছাগল দিয়ে দেশটা বরবাদ করে দিচে শালারা,Political,yes,Political insult and demeaning language,20,Not useful as question,unsafe,Harassment,S6,Political harassment
+মায়ানমার এ শতে শতে মুসলিম হত্যায় ওনার দুখ্যো হয়না হবে কি করে ওরা যে মুসলিম ট্রন দূরঘটনায় মারা গেছে ওরা মালাউন হাছিনার বংশ দর  ওনার তো রাতে গুম হওয়ার কথানা,Religious,yes,Religious slur mixed with political accusation,20,Not useful as question,unsafe,Hate speech,S8,Religious-political hostility
+ভারত কেমন বেহাইয়া জাতি দেখুন  ভারতের বাতরুম তো নেই আবার তারা সেটা নির্লজ্জ্বের মতো প্রচার করে  যেমন জিত্ এর একটি সিনেমাতেই আছে গোটা জাতির সবাই সকালে উঠে মাঠে বাতরুম করে যেন এটা তাদের জাতীয় জীবনের সাথে নিবীড় ভাবে জড়িয়ে আছে  ছি ভারতকে পরমানু খাতে উন্নতি করার আগে বাতরুম খাতে উন্নতির জন্য মনোনিবেশ করা উচিৎ,Geopolitical,yes,National humiliation and stereotyping,20,Not useful as question,unsafe,Hate speech,S6,National stereotyping
+বাঙালি না থাকলে উনি ন্যাংটা হয়ে খোলা আকাশের নিচে tot tot করতেন সম্ভবতো,Personal,yes,Personal insult and humiliation,20,Not useful as question,unsafe,Harassment,S6,Personal humiliation
+আবার লুটপাটের কোন সুযোগ খুচ্ছে ভারত,Geopolitical,no,Speculative geopolitical accusation,20,ভারতের নীতিগত সিদ্ধান্তগুলো কীভাবে বিশ্লেষণ করা যায়?,safe,Analytical framing,NA,NA
+ভারত আর বাংলাদেশ মুসলিম এর পিছনে লেগেই আছে,Geopolitical,no,Generalized geopolitical grievance,20,ভারত–বাংলাদেশ–মুসলিম রাজনীতির সম্পর্ক কী?,safe,Geopolitical discussion,NA,NA
+হা হা হা এতোদিন এই রাজাকার কোথাই পালিয়ে ছিলো,Political,yes,Derogatory political labeling,20,Not useful as question,unsafe,Harassment,S6,Political insult
+আর হাসিনা মালাউনেরটা নেবার অভ্যাস নায় নি শালা পালতু কুতাকার,Religious,yes,Religious slur targeting a person,20,Not useful as question,unsafe,Hate speech,S8,Religious slur
+রোহিংঙ্গারা যদি মুসলিম না হোয়ে ভারতিও মালু হতো এতখনে জামাই আদর করে সরকার মালুদের দেশে নিয়ে আসছো,Geopolitical,yes,Religious–ethnic hostility,20,Not useful as question,unsafe,Hate speech,S8,Ethno-religious bias
+বিচারক মেয়েটা কে আমার কাছে নিয়ে আসো আমি তাকে ধরে সিফাদু থেরাপি দিবো,Personal,yes,Sexualized threat against a woman,20,Not useful as question,unsafe,Sexual violence,S7,Threatening sexual misconduct
+বাংলাদেশের রাজাকাররা বহুত লাফা লাফী করছিল পাপিস্তান নাকি ভারতকে উড়িয়ে দেবে  এখন কোথায় আছে সেই সব রাজাকার,Political,yes,Political mockery and labeling,20,Not useful as question,unsafe,Harassment,S6,Political ridicule
+ও বালের পরোয়ানা কোন কামে লাগবে না খালেদা জিয়ার,Personal,yes,Crude personal insult toward political figure,20,Not useful as question,unsafe,Harassment,S6,Insulting language
+তারেক আসলে বেয়াদব,Political,yes,Personal insult toward political actor,20,Not useful as question,unsafe,Harassment,S6,Personal insult
+মিয়ানমার থেকে চলে আসা রোহিঙ্গারা অনেকেই বাংলাদেশের ভেতর দিয়ে সীমান্ত পেরিয়ে ভারতে চলে আসেন  এইসব রোহিঙ্গাদেরই আবাস ছিল কাশ্মীরের ওই বস্তিটি,Geopolitical,no,Descriptive geopolitical statement,20,রোহিঙ্গা চলাচলের পথ কীভাবে তৈরি হয়েছে?,safe,Informational,NA,NA
+সেই রাজাকার বাহিনী আর জঙ্গী বাহিনী বঙ্গবন্ধু কন্যা শেষ করে দিয়েছে আংকেল এখন আর কোন গন বাহিনী নেই আপনাদের সাথে তাও দেশের মানুষ বুঝেগেছে আংকেল,Political,yes,Political intimidation and derision,20,Not useful as question,unsafe,Harassment,S6,Political intimidation
+যে কোনো ভাবে মালাউন আমদানি করে,Religious,yes,Religious slur and exclusion,20,Not useful as question,unsafe,Hate speech,S8,Religious exclusion
+ভারত পাকিস্তানীর খবর নাই বাংলাদেশীর ঘুম নাই,Geopolitical,no,Colloquial geopolitical commentary,20,আঞ্চলিক রাজনীতি মানুষের জীবনে কী প্রভাব ফেলে?,safe,Opinion,NA,NA
+আপনি যে দেশের জন্য কাদেন সেটা নিশ্চয় পাকিস্হান আপনার মত শিক্খক যেন বাংলাদেশে আর না জন্মহয় মাএ কিছুদিন হয় জন নিরীহ গরিভ মানূষকে আগুনে পুরিয়ে মেরেছেন হয়ত হিটলারের মত ভুলে গেছেন আপনি যতগুলি ছাএ বানিয়েছেন সবগুলি রাজাকার হয়েছে আপনার মত সম্মানিত অসত আমাদের সমাজে জন্মাবে কল্পনাও করা অসম্ভব লাখ শহীদের বাংলাদেশে আপনারমত নিরবুদ নরপিসাস থাকার কথাছিলনা আপনাকে লালসবুজের দেশে মানায় না কাদু কামু সালু জামুর মত রাস্তাধরলে বাংলার মানুষ খুসিহত দেশে সব অশৃংখলার মুলে আপনার মত সুটপড়া অমানুষরাই মুল কার,Political,yes,Extended political abuse and dehumanization,20,Not useful as question,unsafe,Harassment,S6,Extreme political abuse
+৬০-৭০ বছরের মানসিক বিকারগ্রস্ত ধর্ষক মুসলমানরা ৬-৭ বছরের বাচ্চা মেয়েদের বিছানায় নিতে পাগল হয়ে থাকে,Religious,yes,Collective religious defamation,20,Not useful as question,unsafe,Hate speech,S8,Collective religious slander
+ভারত অন্তর জ্বালায় জ্বলছে বাংলাদেশের সাফল্য দেখে  তারা চাচ্ছে না বাংলাদেশ এগিয়ে যাক যে বেটারা ভারতের খেলাকে সাপোর্ট করে  তাদের লজ্জা থাকা উচিত,Geopolitical,no,National rivalry expression,20,জাতীয় প্রতিযোগিতা কেন আবেগ তৈরি করে?,safe,Opinion,NA,NA
+তুই কিসের নাস্তিক নাস্তিক হতেও লজিক জ্ঞান লাগে  তুই তো ইহুদিদের দালাল টাকার বিনিময়ে সব দিতে পারিস,Religious,yes,Religious and ethnic conspiracy slur,20,Not useful as question,unsafe,Hate speech,S8,Conspiratorial religious hate
+এই শালা মালাউনের দাদাল তুই,Religious,yes,Religious slur and harassment,20,Not useful as question,unsafe,Hate speech,S8,Religious insult
+দেখ  তোদের ভাই ফাকিস্তানের কি অবস্থা আজ,Geopolitical,no,Provocative geopolitical remark,20,বর্তমান পাকিস্তানের অবস্থা কী?,safe,Geopolitical discussion,NA,NA
+চুদার জন্য আগ্রহী কোন আপু কিংবা আন্টি থাকলে যোগাযোগ করতে পারেন,Gender abusive,yes,Explicit sexual solicitation,20,Not useful as question,unsafe,Sexual exploitation,S7,Sexual solicitation
+এজন্যইতো সবাই বলে হাসিনা ভারতের,Geopolitical,no,Political allegation,20,এই ধরনের অভিযোগ কেন ওঠে?,safe,Political analysis,NA,NA
+ভারত বর্তমানে চুরি করে আম্পায়ারের সাহায্যে জিতে খেলে জিতার ক্ষমতা ভারতের নেই,Geopolitical,no,Sports-related national accusation,20,খেলাধুলায় আম্পায়ারিং বিতর্ক কেন হয়?,safe,Sports abstraction,NA,NA
+সালে পূর্ব পাকিস্তান থেকে যে রকম বাঙ্গালী কে ভারতে আশ্রয় দিয়ে বাংলাদেশ হিসেবে স্বধীনতা লাভ করে দিয়েছে তেমনি ভাবে বাংলাদেশ ও আমাদের আশ্রয় দিয়ে রোহিঙ্গার দেশ আরাকান স্বাধীনতায় বাংলাদেশের মদদ চায়,Geopolitical,no,Historical analogy,20,১৯৭১ ও বর্তমান রোহিঙ্গা সংকটের তুলনা কীভাবে করা যায়?,safe,Historical discussion,NA,NA
+গত কয়েকমাস ধরে ভারতের জালিম সরকার জাকির নায়েকের উপর যে দমন পীড়ন শুরু করেছে এতে কি এখন তারা খুশি ও সন্তুষ্ট হয়েছে   এটাই তো আপনারা চেয়েছিলেন তাই না    প্রথমে পীস টিভি এরপর এবং সর্বশেষ এর ওয়েবসাইট টাও বন্ধ করে দিয়েছে   খুশী তো আপনারা,Geopolitical,no,Political grievance,20,মিডিয়া ও ধর্মীয় ব্যক্তিদের উপর নিষেধাজ্ঞা কেন আসে?,safe,Policy discussion,NA,NA
+ভারতে জখন মুসলিম ভাই বোন দের উপর নির্যাতন করে তখন তো আমাদের সরকার কোনো কিছু বলেনা তাহলে আপনারা এতো কথা বলেনা কেনো,Geopolitical,no,Perceived double standard complaint,20,কূটনৈতিক নীরবতা কেন দেখা যায়?,safe,Geopolitical analysis,NA,NA
+যেমনে খারাপ কথা কস   ঘর থেকে বের করে দিবে,Personal,yes,Threatening personal language,20,Not useful as question,unsafe,Harassment,S6,Threat
+এদেরকে প্রকাশ্যে ফাসি দেওয়া হোক,Personal,yes,Call for execution,20,Not useful as question,unsafe,Violence,S5,Execution advocacy
+তরে বিচানায় নিয়া খালি পুটকি মারে আমারা জানি তুই জাহান্নাম মাগি  জাহান্নামির পোলাদের তরে নিয়া জাহান্নামে পুটকি মারবে,Religious,yes,Graphic sexualized religious abuse,20,Not useful as question,unsafe,Sexual violence,S7,Graphic sexual abuse
+তোমরা তো কোরানের পোদ মেরে মেরে মধু বের করে দিলে,Religious,yes,Blasphemous sexualized insult,20,Not useful as question,unsafe,Hate speech,S8,Blasphemy with sexual abuse
+শেষ খবর পাওয়া পর্যন্ত রেন্ডিয়ার টা উকেট পড়ছে,Geopolitical,yes,Derogatory national mockery,20,Not useful as question,unsafe,Hate speech,S6,National mockery
+কয়দিন পর চুদতে চুদতে বলবে তারা ফান করছে,Personal,yes,Sexual harassment,20,Not useful as question,unsafe,Sexual harassment,S7,Sexual language
+কেন ইংল্যান্ড তো রানেই অলআউট এখন ভারত ব্যাট করছে,Geopolitical,no,Sports commentary,20,ক্রিকেট ম্যাচের পরিস্থিতি কী?,safe,Sports discussion,NA,NA
+বালের পুজা,Religious,yes,Religious insult,20,Not useful as question,unsafe,Hate speech,S8,Religious insult
+মাগির পুটকির নিছে কিতা,Gender abusive,yes,Graphic sexual insult,20,Not useful as question,unsafe,Sexual harassment,S7,Graphic sexual content
+মাছুদা দেশ বারমা,Geopolitical,no,Fragmented geopolitical statement,20,মায়ানমার সম্পর্কে কী জানা দরকার?,safe,Informational,NA,NA
+এদের দুই জনকে ফাসি দেওয় উচত,Personal,yes,Call for execution,20,Not useful as question,unsafe,Violence,S5,Execution demand
+প্রধান নির্বাচন কমিশনারকে মনে হয়  সবচেয়ে অসহায় ব্যক্তি,Political,no,Opinion on political role,20,নির্বাচন কমিশনের ক্ষমতা কতটা?,safe,Political analysis,NA,NA
+বাংলাদেশি জাতীয় বাটপার,Political,yes,Political insult,20,Not useful as question,unsafe,Harassment,S6,Political insult
+রেন্ডিয়া গোয়ালের গো মূত্রখোর তোদের মুর্খচোদা ভিখারিদের সাথে কেউ কথা বলে না   কারন তারা জানে তোরা মুর্খের দল,Geopolitical,yes,Extreme national dehumanization,20,Not useful as question,unsafe,Hate speech,S6,Dehumanization
+সাজুএই প্রশ্ন্যটা তোর মাকেও বোনদের করিস তো দিক উত্তর পাবি-কারন একই চলিত ভাষা হবে,Personal,yes,Sexualized family insult,20,Not useful as question,unsafe,Harassment,S7,Sexualized insult
+কি অপরাধে ভারতে আসা নিষিদ্ধ করা হল  উনি ভারতের নাগরিক  ভারত বড় জোড় নাগরিকত্ব বাতিল করতে পারবে জোর খাটিয়ে এছাড়া ভারতের আর কোনো ক্ষমতা আছে বলে মনে হয়না,Geopolitical,no,Legal-political question,20,নাগরিকত্ব বাতিলের আইনি ভিত্তি কী?,safe,Legal discussion,NA,NA
+ও আমার বিভেকবান রিপোর্টার সাংগাতিক বাই নিউজ টা এমন হবে মনে হয় কাশ্মীরের সাদিনতা কামিদের হামলায় ভারতীয় জওয়ান নিহত আল্লাহ আমাদের সটিক বুজ দান করুণ আমিন,Geopolitical,no,Media framing concern,20,সংবাদ শিরোনাম কীভাবে প্রভাব ফেলে?,safe,Media analysis,NA,NA
+ভাগ মুসলিমের দেশ বাংলাদেশ  এখানেই জাকির নায়কের কার্জকম বন্ধ হয়ে গেল আর ভারত  তার কার্জকম বন্ধ করতের ভারতের এত নংরা রাজনীতি তা আমরা ভাল ভাবেই জানি,Geopolitical,no,Political grievance,20,ধর্মীয় বক্তাদের ওপর নিষেধাজ্ঞা কেন আসে?,safe,Policy discussion,NA,NA
+মিয়া ইউটিউব এ সাবস্ক্রাইব পাও না তাই ওদের মতো মানুষ কে ব্যবহার কইরা সাবস্ক্রাইব নাও তোমরা,Personal,yes,Personal ridicule,20,Not useful as question,unsafe,Harassment,S6,Mockery
+আওয়ামীলীগ কর্মীদের এই একটা প্রব্লেম তাদের বিরুদ্ধে কেউ কিছু বললেই রাজাকার হয়ে যায় পাকিস্তানী হয়ে যায়,Political,no,Political observation,20,রাজনৈতিক লেবেলিং কেন ঘটে?,safe,Political analysis,NA,NA
+

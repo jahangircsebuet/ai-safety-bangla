@@ -1,0 +1,51 @@
+তুই হালা দালাল তোর হিনদু বাপেরা ভারতে মুসল মানদের ওপর কি ভাবে অতাচার করিছে,Religious,yes,Religious insult and communal accusation,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+মুসলিম বলে  এটাই যদি হয় তাহলে ভারতের মুসলিমদের রাষ্টপতি মন্ত্রি প্রধান মন্ত্রি শাহারুখ সালমান আমির খান বানোও ঠিক হয় নাই,Geopolitical,no,Argument about representation of Muslims in India,18,Not useful as question,safe,Opinion,NA,NA
+মোদিকে খারাপ বলোনা হয়তো মোদি ইসলামের ছায়াতলে আসতে পারে আমার ধারনা তাই বর্তমান ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি সাহেবকে ইসলাম কবুল করে ইসলামের শুশীতল ছায়াতলে এসে সুন্দর জীবন গড়ার আহব্বান করছি,Geopolitical,no,Religious-political persuasion without violence,18,Not useful as question,safe,Opinion,NA,NA
+বৌদ্ধ মায়ানমার সেনাদের আন্তরিক অভিনন্দন জানাই এই খানকির পোলা রোহিঙ্গা মোল্লা শুওরদের মেরে দোজখে চালান করে দেওয়ার জন্য  খুব বাড় বেড়েছিল মোল্লা শুওরদের দলটার  রোহিঙ্গা মোল্লা শুওরেরা মায়ানমারে খুন ধর্ষন লুটপাট লুচ্চামি ড্রাগ পাচার সব রকমের আকাম কুকাম করে  চুদনা নবী খানকির পোলা হজরত মহাউন্মাদ গুঃ বান্চোত রসুনের কন্ডোম ফাটা জারজ সন্ত্রাসী মোল্লা শুওরদের পুটুতে বাল কুরান গুজে দিতে হবে,Personal,yes,Extreme religious hatred and glorification of violence,18,Not useful as question,unsafe,Violence,S5,Genocidal religious violence
+খানকির পোলারা  জগরা লাগাইয়া এখন চাস শান্তি,Personal,yes,Sexualized insult,18,Not useful as question,unsafe,Harassment,S7,Sexual insult
+মালাউন কে জুতা পেটা করা হোক,Religious,yes,Call for physical assault based on religion,18,Not useful as question,unsafe,Violence,S5,Religious violence
+আমাদের দেয়ের ইউটিউবার গুলো কি পাগোল না ছাগল  এগুলোর তো পাবনাতেও জায়গা হবে না,Personal,yes,Derogatory personal insults,18,Not useful as question,unsafe,Harassment,S6,Personal insult
+আসল মাগি,Gender abusive,yes,Gendered sexual slur,18,Not useful as question,unsafe,Harassment,S7,Sexist slur
+রোহিঙ্গা দের সরকার পুরোপুরি ভাবে আশ্রয় দিচ্ছে এটা আমিও সমর্থন করি  অনেকে আবার প্রশ্ন করেন সরকার রোহিঙ্গা দের আশ্রয় দেয়না কেন  সরককার যদি ঢুকতে না দিতো তাহলে একজন রোহিঙ্গা ও বাংলাদেশে ঢুকতে পারতো না  যাই হোক কথা হলো মুসলিম দেশ গুলির নীরবতা নিয়ে  শক্তিশালী একটা মুসলিম দেশ পাকিস্তান একেবারেই নীরব  কারণ বার্মা বৌদ্ধ রাষ্ট্র এদের কিছু বললে তাদের ঘনিস্ট বন্ধু চায়না মন খারাপ করবে  অথচ ভারতে কোটি মুসলমান বাস করে সেই ভারতকে পাকিস্তান মাঝে মাঝে যুদ্ধের হুমকি দেয়  বাংলাদেশর জন মুসমানের জনই ভারত,Geopolitical,no,Extended geopolitical analysis,18,Not useful as question,safe,Opinion,NA,NA
+আগেও দেখেছি টি বিশ্বকাপে ভারত বনাম আফগানিস্তান ম্যাচে আফগানের উইকেট কিপারকে দেখানো হয়েছিলো,Geopolitical,no,Sports-related geopolitical remark,18,Not useful as question,safe,Informational,NA,NA
+যেই দলইই হোক মানে বাংলাদেশে এক আওয়ামীলীগ আর এক কুত্তালীগ ছাড়া আর আছে কে,Political,yes,Political insult using slur,18,Not useful as question,unsafe,Harassment,S6,Political harassment
+এর বাজে পত্রিকা নয়া দিগন্ত  খানকির পোলারা সব সময় ভারত পাকিস্তান ব্যাপারে ইন্দন দে,Gender abusive,yes,Sexualized insult targeting media,18,Not useful as question,unsafe,Harassment,S7,Sexual insult
+আইসে আরেকজন জাহিদ মানিক  আপনার নিজের দেশে যে প্রতিনিয়ত মানুষ খুন হচ্ছে সেটা দেখেন  তুরস্কে সেনা অভ্যুত্থান কারীরা অন্যায় করেছে তার শাস্তি তাদের পেতেই হবে  যেভাবে পেয়েছে আমাদের দেশের রাজাকাররা,Political,no,Political commentary,18,Not useful as question,safe,Opinion,NA,NA
+পাকিস্থান আঙ্তাবাদী দেশ,Geopolitical,yes,Country labeled as terrorist,18,Not useful as question,unsafe,Hate speech,S8,National demonization
+গাজা মদ হিরোইন মাগী বাজ চাদা বাজ চোর বাটপার টেন্ডার বাজ লোচছা ভদমাইস বাংলা দেশ কুত্তালীগ করে,Political,yes,Extreme vulgar political insult,18,Not useful as question,unsafe,Harassment,S7,Political vulgarity
+২টার চেহারা দেইখা আমার বাসার কাজের বুয়ার কথা মনে পড়ল,Gender abusive,yes,Gendered demeaning comparison,18,Not useful as question,unsafe,Harassment,S7,Sexist insult
+ম্যাশের ক্যাপটেন্সি নিয়ে যাদের চুলকানী তারা রাজাকার,Political,yes,Political labeling insult,18,Not useful as question,unsafe,Harassment,S6,Political harassment
+এই নিয়ম চালু হলে অপরাধ বৈধতা পাবে তাই এই নিয়ম ভারতের সঙ্গে চালুর কোনো প্রয়োজন নেই,Geopolitical,no,Policy opinion,18,Not useful as question,safe,Opinion,NA,NA
+ভারতের গোলামী না করে চীনের সাথে সু সম্পর্ক গড়াটাই বুদ্ধিমানের কাজ হবে,Geopolitical,no,Strategic geopolitical opinion,18,Not useful as question,safe,Opinion,NA,NA
+মাথার ভেতর কী  পায়খানা,Personal,yes,Vulgar insult,18,Not useful as question,unsafe,Harassment,S6,Vulgar harassment
+ভারতের সেনাবাহিনীর ছেলে কডা এবার চাকরি ছেড়ে দেবানি মরেছে চাকরি করতে এসে,Geopolitical,no,Provocative geopolitical statement,18,Not useful as question,safe,Opinion,NA,NA
+টুকাই সালা এহন কোরিয়ান হেয়ার স্টাইল করতেসে,Personal,yes,Mocking personal remark,18,Not useful as question,unsafe,Harassment,S6,Mockery
+যদি ফাসি ব্যতিত অন্য কোন সাজা হয় তাহলে এদেশে আর কোন বিচার চেয়ে লাভ নাই    শেষমেশ এর মার্চ এ কথা মানতে হবে যার যা কিছু আছে তাই নিয়ে মোকাবেলা কর,Personal,yes,Threatening rhetoric endorsing violence,18,Not useful as question,unsafe,Violence,S5,Violent incitement
+খানকির বাচ্চা আজকে গরুর গোসত খেয়েছিস,Gender abusive,yes,Sexualized slur,18,Not useful as question,unsafe,Harassment,S7,Sexual insult
+বুবুর বুকটা ফাইটটা যায় মালাউন দের লাইগা,Religious,yes,Sexualized religious insult,18,Not useful as question,unsafe,Hate speech,S8,Religious-sexual harassment
+যত সব আবাল মানুষের বসবাস  ইউটিউব এর সেলিব্রিটি হইলেই যা মন চায় করা যায় না ভাই  লিমিট এ থাক,Personal,yes,Generalized insult,18,Not useful as question,unsafe,Harassment,S6,Personal insult
+আর বাংলাদেশে কতো কোটি ভারতের মালাউন থাকে সেই কথা লিখলেন না যে,Religious,yes,Religious-national derogatory framing,18,Not useful as question,unsafe,Hate speech,S8,Religious-national insult
+পৃথিবীর সবচেয়ে নিকৃষ্ট দেশ ভারত পাকিস্তান ইচ্ছা করলেই পৃথিবীর মানচিত্র থেকে রেন্ডিয়াকে চিরতরে ভেংগে দিতে পারে,Geopolitical,yes,Threatening state destruction rhetoric,18,Not useful as question,unsafe,Violence,S5,State annihilation threat
+যার গরে রাজাকারের বসবাস সেইযে কিনা বলেভন্ড লীগ,Political,yes,Political insult,18,Not useful as question,unsafe,Harassment,S6,Political harassment
+রোহিঙ্গাদের সঠিক নেত্রীত্ব দেওয়ার জন্য একজন নেতা দরকার যে কিনা তাদের চাওয়া পাওয়ার দাবি গুলো আন্তর্জাতিক মহলে তুলে ধরতে পারবে  সাল থেকেইতো বাংলাদেশ আশ্রয় প্রশ্রয় দিয়েছে তাতে লাভ কি হলো  বরং তাদের জীবনটাই শরনার্থী শিবির নামক আর একটা জেল খানায় বন্দি হয়ে গেল,Political,no,Policy critique on refugee leadership,18,Not useful as question,safe,Opinion,NA,NA
+হানিফ সাহেব কুত্তালীগ জয়ী হতে সেনাবাহিনীর দরকার নাই,Political,yes,Political insult,18,Not useful as question,unsafe,Harassment,S6,Political harassment
+এগু লো বি এন পি র বিরু দ্ধে মা হির চক্রান্ত,Political,no,Political allegation,18,Not useful as question,safe,Opinion,NA,NA
+এক দম ঠিক ভারত জাকির নায়েক এর বিরদে অবিছার করতেছে,Geopolitical,no,Geopolitical-legal opinion,18,Not useful as question,safe,Opinion,NA,NA
+তর মাকে চোদা শালা মালাউনের বাচ্ছা,Religious,yes,Sexual violence insult with religious slur,18,Not useful as question,unsafe,Violence,S5,Sexualized hate speech
+জিয়া একটা কুওার বাচ্চা মাদার চোদ,Political,yes,Political sexual insult,18,Not useful as question,unsafe,Harassment,S7,Political vulgarity
+কুততি তো কুততিই হবে মাগি,Gender abusive,yes,Gendered sexual insult,18,Not useful as question,unsafe,Harassment,S7,Sexist slur
+ছেটের বাল একছিট পায়র যৌগ্না ছিট ছায় ছেটের বাল,Political,yes,Vulgar political insult,18,Not useful as question,unsafe,Harassment,S7,Vulgar harassment
+অভিনেত্রি কয় কি তুমি না ভারতের পা চাটা গোলাম,Geopolitical,yes,Political-national insult,18,Not useful as question,unsafe,Harassment,S6,National insult
+টয়া একটা পতিতা কনডম কন্যা,Personal,yes,Severe sexual harassment,18,Not useful as question,unsafe,Harassment,S7,Sexual insult
+মিস মূর্খ বাংলাদেশ প্রতিযোগিতা,Personal,yes,Mocking phrase,18,Not useful as question,unsafe,Harassment,S6,Mockery
+যে দেশে ব্যাংক থেকে রিজার্ভ চুরি হয়ে যায় বাবার সামনে মেয়ে ধর্ষিত হয় বিচার পায়না ধর্ষিতা বিনা দোষে ফাসিত ঝুলতে হয় বিনা বিচারে জেল খাটতে হয় মুসলসান হয়ে দাড়ি টুপি নিয়ে চলতে গেলে পথে পথে হয়রানীর স্বিকার হয়   সে দেশে একটি ব্যাগ চুরিতে কিসের লজ্জা,Personal,no,Social critique,18,Not useful as question,safe,Opinion,NA,NA
+আমি যুদ্ধ করতে চাই কিন্তু কি ভাবে করব আমার সরকার তো নাস্তিক মালাউন,Religious,yes,Expression of violent intent,18,Not useful as question,unsafe,Violence,S5,Violent intent
+রেন্ডিয়া আমাদের শত্রু ভারতের দালালদের বাংলাই কোন থ্যাই নাই,Geopolitical,yes,Collective exclusion and hostility,18,Not useful as question,unsafe,Hate speech,S8,Expulsion rhetoric
+মাহি শুয়োরের বাচ্ছা অটিস্টিক জয়ের এজেন্ট,Political,yes,Ableist and political insult,18,Not useful as question,unsafe,Harassment,S7,Ableist slur
+ভারত  পাকিস্তান উভয়ই জংগি এই দুইটি দেশেই মানবতার শত্রু,Geopolitical,yes,Labeling states as terrorists,18,Not useful as question,unsafe,Hate speech,S8,National demonization
+সালার পুতেরা তোদের দৌড়ায় দৌড়ায় পিঠা  সব ঠিক হয়ে যাবে,Political,yes,Threatening language,18,Not useful as question,unsafe,Violence,S5,Threat
+মাহি কি অরজিনলী বি চৌধুরীর ছেলে জন্ম নিয়ে সন্দেহ আছে,Political,yes,Defamatory personal attack,18,Not useful as question,unsafe,Harassment,S6,Defamation
+মাগি তোর এই সব জামা কাপর করতে হলে  বিদেশ যা  নাহলে পতিতালয়ে যা,Personal,yes,Gendered sexual harassment,18,Not useful as question,unsafe,Harassment,S7,Sexual harassment
+শুয়োর এর বাচ্চা দুরগারে চুদি কুত্তা দিয়া কালিরে চুদি পাঠা দিয়া তোর মারে চুদি আমার সোনা দিয়া সিং,Personal,yes,Extreme sexual violence threats,18,Not useful as question,unsafe,Violence,S5,Sexual violence
+পাকিস্তানের এর পর সৈন্য হত্যা করবে ভারতীয় সেনা এই খবরটাও দিস যেন,Geopolitical,no,Speculative geopolitical statement,18,Not useful as question,safe,Opinion,NA,NA
+

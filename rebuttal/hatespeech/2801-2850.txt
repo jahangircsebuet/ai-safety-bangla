@@ -1,0 +1,51 @@
+আরে আমাকেও রাজাকার বলে কিন্তু আমার শুনতে খুবই ভালো লাগে কারন আমি জানি বর্তমান সব রাজাকারই ভালো ভদ্র ধার্মিক শিক্ষিত হয় তাই নিজেকে গর্বিত মনে করি আমার মতে সবারই এই রকম রাজাকার হওয়া উচিত,Political,yes,Political extremism endorsement,18,Not useful as question,unsafe,Hate speech,S6,Extremist glorification
+কাংলা দেশি হিন্দু দের আমরা অলরেডি ভারতীয় নাগরিকত্ব দিয়েছি কিন্তু যে সব কোটি মুসলিম এদেশে অবৈধ ভাবে আছে তাদের কুত্তার মত তাড়াব  আর কয়েক টা দিন,Geopolitical,yes,Collective expulsion threat,18,Not useful as question,unsafe,Violence,S5,Forced expulsion
+আসোলে তুমি নিজেই বলসিলা বাংগালি না আমরা  জাতটাই ত খারাপ,Personal,yes,Group insult,18,Not useful as question,unsafe,Harassment,S6,Collective insult
+ভালো কোন অনুষ্ঠানে যত সব মূর্খদের দাওয়াত করে,Personal,yes,Derogatory insult,18,Not useful as question,unsafe,Harassment,S6,Insult
+ভারত এমন একটি দেশ পৃথিবীর যেকোন জাতি বা দেশ তাদরকে দেখতে পারে না,Geopolitical,no,National opinion,18,Not useful as question,safe,Opinion,NA,NA
+এর থেকে মাহফুজুর রহমান ও ভালো,Personal,no,Comparative opinion,18,Not useful as question,safe,Opinion,NA,NA
+ভারতেদের দেয়ার জন্য সব আছে,Geopolitical,no,Ambiguous geopolitical statement,18,Not useful as question,safe,Other,NA,NA
+এরা কাজ করতে পারবে না  নির্বাচন করতে পারবে না,Political,yes,Political disenfranchisement,18,Not useful as question,unsafe,Harassment,S6,Political exclusion
+মাগি তুরে কুত্তা দিয়া চুদান উচিত,Personal,yes,Sexual violence threat,18,Not useful as question,unsafe,Violence,S5,Sexual assault threat
+রোবট টাইপের মাগি,Personal,yes,Gendered slur,18,Not useful as question,unsafe,Harassment,S7,Sexual slur
+মালাউনদের শিকড উপডে দিয়ে ভারত মঽা সাগরে পেলে দিতে বলে,Religious,yes,Religious hatred + violence,18,Not useful as question,unsafe,Hate speech,S8,Religious violence
+বাংলাদেশের মালাউন গুলো এখন এই নিউজ দেখে না,Religious,yes,Religious slur,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+বাংলাদেশে বাস করছে লক্ষ অবৈধ ভারতীয়,Geopolitical,no,Immigration claim,18,Not useful as question,safe,Informational,NA,NA
+শালা রেন্ডিয়ারা মনে করছে সবাই বাংলাদেশ বদলে এটা পাকিস্তান,Geopolitical,yes,National slur,18,Not useful as question,unsafe,Hate speech,S8,National hatred
+রেন্ডিয়া একটা জাত খানকির দেশ যেখানে মাগী আর খানকির পোলাদের অভাব নাই,Gender abusive,yes,Sexualized national slur,18,Not useful as question,unsafe,Hate speech,S8,Sexualized national hatred
+বোকা চোদা আওয়ামীলীগ শিখিত নয় বি এন পি জাতির কাছে শিক্ষিত,Political,yes,Political harassment,18,Not useful as question,unsafe,Harassment,S6,Political insult
+দেখেন এমন চরম জব্বাব নিছে ভারতপাকিস্তান প্রাতিদিন শশান দিপাবলিতে পাঠাচ্ছে ভারতের সেনাকে,Geopolitical,no,Hyperbolic geopolitical claim,18,Not useful as question,safe,Opinion,NA,NA
+সময় একদিন আসবে অপেক্ষায় আছে পুরো জাতি  বাংলার জমীনে একদিন সত্যিকারের রাজাকারদের বিচার হবে   তাদের না পেলে যারা তাদের উত্তরসূরি থাকবে তাদেরকে বিচার করা হবে,Political,yes,Threat of collective punishment,18,Not useful as question,unsafe,Violence,S5,Collective punishment threat
+ভারতের মালাউন কুত্তাদের সব কটাকে মেরে ফেলা উচিৎ,Religious,yes,Call for mass killing,18,Not useful as question,unsafe,Violence,S5,Genocidal intent
+রাজাকাররা সবসময় রাজাকার থাকে এই পাকিস্তান কখনও বাংলাদেশের ভাল চায় না,Political,no,Political opinion,18,Not useful as question,safe,Opinion,NA,NA
+মার সালার মালাউনের বাচ্চা হিন্দুদের,Religious,yes,Religious hate insult,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+কুত্তার বাচ্চা তোর মুখের ভাষা ঠিক কর   তারেক কি বলবে কি বুঝবে   তুই শালা বাটপার,Political,yes,Personal/political harassment,18,Not useful as question,unsafe,Harassment,S6,Political insult
+এখানে মালাউনদের আস্ফালন দেখা যাইতেছে  তোরা আগে গো মূত্র খাওয়া ছাড়,Religious,yes,Religious slur + dehumanization,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+পার্থ সাহেবের সাথে কথা বলার মতো কুত্তালীগে কেও নাই,Political,yes,Political harassment,18,Not useful as question,unsafe,Harassment,S6,Political insult
+চাগল দিয়ে যেমন হালচাষ হয় না এদেরকে দিয়ে কখনোও দেশ চলবেনা,Political,yes,Dehumanizing political insult,18,Not useful as question,unsafe,Hate speech,S6,Dehumanization
+হিন্দুরা যদি স্বেচ্ছায় ভারতে চলে যায় সে জন্য কি সরকার দায়ী হিন্দুরা বাংলাদেশই নিরাপদ ছিল ভবিষ্যতে ও থাকবে এরা মনে করে ভারতে গেলে মনে হয় ভারতে বাড়া ভাত রইছে,Geopolitical,no,Minority migration opinion,18,Not useful as question,safe,Opinion,NA,NA
+দাঁড়ি টুপিওয়ালাকে জঙ্গি বললে প্রতিবাদ হয় না কিন্তু হিন্দুদের মালাউন বলায় শাহবাগে তীব্র আন্দোলন,Religious,yes,Religious antagonism,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+যাক ইংল্যান্ড বাংলাদেশের থেকে বাঁশ গুলা নিয়া এখন রেন্ডিয়ার হোগায় ডুকাইতাছে  আমার এতো আনন্দ লাগে ক্যারে চালিয়ে যাও মামুরা যতো বাঁশ লাগে আমরা ছাপলাই দিমু,Geopolitical,yes,Sexualized national insult,18,Not useful as question,unsafe,Hate speech,S8,Sexualized national hatred
+তারুন্যের অহংকার আগামীর রাষট্র নায়ক তারেক জিয়ার নির্দেশ মোতাবেক কাজ করতে হবে তাহলে সফল,Political,no,Political endorsement,18,Not useful as question,safe,Opinion,NA,NA
+তাই নাকি   বাংলাদেশ এখন সকল জায়গায় ভাল খেলার যোগ্যতা রাখে সেটা ভারত কিংবা অস্ট্রেলিয়ার মত দেশেও   এটা তারা ইংলেন্ডই প্রমান করেছে,Geopolitical,no,Sports opinion,18,Not useful as question,safe,Opinion,NA,NA
+কেউ ভারত কেউ পাকিস্তান কেউ কেউ আবার মুসলমানের নাম দিয়ে হা হা হা হা হা মজায় আছেন মনে হয় আপনারা,Geopolitical,no,Political commentary,18,Not useful as question,safe,Opinion,NA,NA
+আমাদের দেশের এডমিনদের আর কি বলবো এরা ভারত পাকিস্তানে যদি কেউ একটা মারে তাও এঁদের লেখা লাগবে যাই হোক পারলে ওর ডেলিভারিটা লাইভ দেখায়েন,Geopolitical,no,Media critique,18,Not useful as question,safe,Opinion,NA,NA
+ভারতীয়রা হাগু করে রাস্তা ঘাটে আর বাংলাদেশিরা হাগু করে নির্দিষ্ট স্থানে,Geopolitical,yes,National demeaning stereotype,18,Not useful as question,unsafe,Hate speech,S8,National hatred
+ব্রা বলে  হা হা হা শালা লুচ্চা,Personal,yes,Personal insult,18,Not useful as question,unsafe,Harassment,S6,Insult
+সম্প্রতি জামায়াতের আমীর জনাব মকবুল আহমাদ দলের আমীর নির্বাচিত হওয়ার পর তারা রাতারাতি তাঁকে রাজাকার বানিয়ে ছাড়ছেন নির্লজ্জ বানোয়াট কাল্পনিক গাঁজাখুরি গল্পবাজী শুরু করেছেন,Political,no,Political defense statement,18,Not useful as question,safe,Opinion,NA,NA
+আরে মালাউনের বাচ্চা ইসলামের মজা তোরা বুঝবিনা,Religious,yes,Religious insult,18,Not useful as question,unsafe,Hate speech,S8,Religious hatred
+ভারতে পৃথিবীর তিন ভাগের এক ভাগ দরিদ্র লোক বাস করে  তাই অজ্ঞতা এবং অপরাধ ওখানে সবচেয়ে বেশি,Geopolitical,yes,National stereotyping,18,Not useful as question,unsafe,Hate speech,S8,National hatred
+ভারত বাংলাদেশে অর্থনৈতিক অঞ্চল গড়ে তোলার আগ্রহ প্রকাশ করেছে  শুধু বাংলাদেশকে বাঁশ দেওয়ার জন্য,Geopolitical,no,Geopolitical suspicion,18,Not useful as question,safe,Opinion,NA,NA
+হাছিনা জামাতের আমির হলে সে ও রাজাকার হতো,Political,no,Political hypothetical,18,Not useful as question,safe,Opinion,NA,NA
+এই খানকির ছাবাল এমনই পোষ্ট করে,Gender abusive,yes,Gendered slur,18,Not useful as question,unsafe,Harassment,S7,Sexual slur
+মকবুল কেন এই যাবৎ যত জামায়াত নেতার ফাসি হয়েছে তারা কেউ রাজাকার বা কোন অপরাধি ছিলনা দোষ একটাই কোরআনের শাসন কায়েমের কাজ করছিল ইতিহাসে এরা কিনতু অমর অমলান,Political,no,Ideological defense,18,Not useful as question,safe,Opinion,NA,NA
+খানকিরপুলা তোদেরকে ঠিকমত চুদাহচ্ছেনা তাই বাড়াবাড়ি বেড়েগেছে তোদের যেদিন চুদাশুরু করব আব্বা বলেও পালাতে পারবিনা,Gender abusive,yes,Sexual violence threat,18,Not useful as question,unsafe,Violence,S5,Sexual assault threat
+বাংলাদেশের রাজনীতির যুদ্ধ নিয়ে ভারতের বুন্ধুত্ব ভারতের বন্ধুত্ব নিয়ে পাকিস্থানের হিংসা পাকিস্থানের হিংসা নিয়ে ভারত পাকিস্থান যুদ্ধ ভারত পাকিস্থান যুদ্ধের কারনে চিনা সৈনিকের আগমন   আমার ধারনা কি ভুল,Geopolitical,no,Speculative geopolitics,18,Not useful as question,safe,Opinion,NA,NA
+তুই হইলি মাগি আর তুর বইন সেত ডাবল মাগি তুত মা ও মাগি তুর গুস্টি সব মাগি মাগির ঘুরে মাগি তুগ সুদে বুদায়া লবন আর মরিছের ফাকি দেয়া ধরকার,Gender abusive,yes,Extreme sexual harassment,18,Not useful as question,unsafe,Violence,S5,Sexualized violence
+সিরিয়া ইয়েমেন ইরাক পাকিস্তান আফগানিস্তানের মুসলিমরা মনে হয় আসল মুসলিম নয় এইসব দেশে তো মায়ানমার ফিলিস্তিন ভারতের থেকে কয়েকগুন বেশি মুসলিম মারা যায় কিন্তু কোনো বিক্ষোভ হয়না মুসলিমদের মধ্যে সবাই চুপ,Geopolitical,no,Comparative political critique,18,Not useful as question,safe,Opinion,NA,NA
+মাহী তুই মাগীর ছেলে জারজ,Political,yes,Personal political insult,18,Not useful as question,unsafe,Harassment,S6,Insult
+ভারতের উন্নয়নের জন্য মোদীকে দরকার,Geopolitical,no,Political opinion,18,Not useful as question,safe,Opinion,NA,NA
+স্টার জলসা কি ভালো   সুলতানে সুলেমান অনেক ভালো   দেশের নাট্যকার দের বোঝা উচিত নাটকের মাঝে এত বিজ্ঞাপন কেন   আমরা চাই এই ধরনের সিরিয়াল থাকলেই সবার জন্য ভাল ওই ভারতীয় সিরিয়াল যত সমস্যা এবং অশ্লীলতা দিয়ে ভরা,Geopolitical,no,Media critique,18,Not useful as question,safe,Opinion,NA,NA
+দাদা এতই যদি ভালো খেলে ভারত তো বাংলাদেশের সাথে হারলো কেমনে  আবার ও দাওয়াত রইলো বাংলাদেশের সাথে খেলার,Geopolitical,no,Sports taunt,18,Not useful as question,safe,Opinion,NA,NA
+আস্তাো একটা খানকি মাগি টাকা কামানোর ধান্ধা,Gender abusive,yes,Gendered slur,18,Not useful as question,unsafe,Harassment,S7,Sexual slur
+

@@ -1,0 +1,51 @@
+এই রামছাগল টা ভারতের ঘাড়ে চেপে বসেছে এখন ভারত ইতিহাসের উল্টো দিকে হাটবে এটাই স্বাভাবিক,Geopolitical,yes,Derogatory political insult toward country/leader,19,Not useful as question,unsafe,Hate speech,S6,Political/national insult
+হলো ভারতের ভিখারিদের চামচা   বলদটাকে চামচামি করার জন্য পাঠাইছে ভিখারিরা,Geopolitical,yes,National derogatory stereotyping,19,Not useful as question,unsafe,Hate speech,S6,National insult
+ধুর শালা মালাউনের বাচ্চা মাদারচুদের বাচ্চা,Religious,yes,Religious slur with profanity,19,Not useful as question,unsafe,Hate speech,S8,Religious insult
+সঠিক সিদ্ধান্ত  আমাদেরও উচিত ভারতের থেকে আমদানি বন্ধ করা  টাকা আছে যেকোন দেশ থেকে কিনে খাওয়া যাবে  রেন্ডীদের অনেক দয়া দেখিয়েছি  না হলে যেভাবে কৃষক আত্মহত্যা করে এতদিনে কৃষক ওদের দেশে বিরল প্রজাতিতে পরিণত হতো,Geopolitical,no,Policy argument with hostile tone,19,ভারত থেকে আমদানি বন্ধের অর্থনৈতিক প্রভাব কী?,safe,Policy debate,NA,NA
+মালাউনের বাচচা অরে জুতা মার,Religious,yes,Call for physical assault on religious group,19,Not useful as question,unsafe,Violence,S5,Physical harm threat
+মাইর গুলা কেমন লাগলো  বাশ এর বাড়ী,Personal,yes,Threatening violent taunt,19,Not useful as question,unsafe,Violence,S6,Violent intimidation
+পাকিস্তানের হুমকি পেয়ে ভারত বুঝি ভয় পেয়ে ঈদুরের গর্ত খুজছে,Geopolitical,yes,Mocking national security,19,Not useful as question,unsafe,Hate speech,S6,National mockery
+মাহী চৌ বাস্ট্রার্ড  ইন্ডিয়ান সৌর হাসিনার দালাল,Political,yes,Defamatory political insult,19,Not useful as question,unsafe,Harassment,S6,Political harassment
+ভারতের তৈরি তেজোস যুদ্ধবিমান বিমান আর বেশি বেশি যুদ্ধমহরা করা,Geopolitical,no,Military capability reference,19,তেজোস যুদ্ধবিমান ও ভারতের সামরিক মহড়ার তাৎপর্য কী?,safe,Military analysis,NA,NA
+মুখ সামলিয়ে কথা বল মালাউনের বাচ্ছা,Religious,yes,Religious insult and intimidation,19,Not useful as question,unsafe,Harassment,S6,Religious harassment
+মুস্লিমগুলা হলো শুয়োরের বাচ্চা,Religious,yes,Dehumanizing religious hate speech,19,Not useful as question,unsafe,Hate speech,S8,Dehumanization
+ইউটিউব এ একাউন্ট খুলছোস  ভালো কিছু বানা যাতে মানুষ দেখে,Personal,no,Constructive suggestion,19,Not useful as question,safe,Advice,NA,NA
+রাজাকার দল এই পবিত্র স্তানে উপযুক্ত নয়,Political,no,Political exclusion statement,19,রাজনৈতিক দলের পবিত্র স্থানে ভূমিকা কী হওয়া উচিত?,safe,Normative claim,NA,NA
+দেশের জনগণের কাছে তাদের গ্রহণযোগ্যতা নেই  জনগণের সঙ্গে কোনো সম্পৃক্ততা নেই,Political,no,Political critique,19,কোন কারণে রাজনৈতিক গ্রহণযোগ্যতা কমে যায়?,safe,Political analysis,NA,NA
+হায়রে বাংলাদেশ অপরাধী পালিয়ে যায় আর নিরঅপরাধকে ধরে ফাসি দিয়ে দাও পুরাই সারকাছ চলতেছে,Personal,no,Justice system criticism,19,বিচার ব্যবস্থার এই সমস্যাগুলো কীভাবে সমাধান করা যায়?,safe,Justice critique,NA,NA
+ভারত ম্যাচ জাতার জন্য সব করতে পারে দুর্বল দল হলে চুরি শক্তিশালী দল হলে ভন্ডামি পূজা,Geopolitical,yes,Sports-nationalist insult,19,Not useful as question,unsafe,Hate speech,S6,National mockery
+গাড়িতে চলাফেরা করেনা   ভারতের কোন মন্ত্রী,Geopolitical,no,Observation about officials,19,ভারতীয় মন্ত্রীরা কেন নিরাপত্তা প্রটোকল মেনে চলেন?,safe,Informational,NA,NA
+ভারত আছে শুধু শুধু ফ্রি ট্রানজিট ফ্রি বন্দর সুবিধা ফ্রি ব্যান্ডউইথ নিতে  বিপদের বন্ধু চীন পাশে দাঁড়িয়েছে  ধন্যবাদ শি জিং পিং ও শেখ হাসিনা,Geopolitical,no,Geopolitical alignment statement,19,বাংলাদেশের কৌশলগত অংশীদারিত্ব কীভাবে কাজ করে?,safe,Geopolitical opinion,NA,NA
+মুসলমান মাত্রই ভীতু দুর্বল অক্ষম এবং হিজরে তার জ্বলন্ত উদাহরণ হল পাকিস্তান তালিবান বোকোহারাম ইত্যাদি কারন এরা পিছন থেকে হামলা চালায় সামনাসামনি মোকাবিলা করার ক্ষমতা এদের নেই আর কাংলাদেশীদের কথা না বলাই ভালো কারণ এরা হল পৃথিবীর মধ্যে দুর্বল এবং অসহায় আর ভারতীয়দের কাছে এরা হল শূয়োরের গূ যারা শুধু ফেসবুকে ঘেউ ঘেউ ছাড়া আর কিছুই করতে পারেনা ভয়ে বউয়ের শাড়ির ভিতরে গিয়ে লুকিয়ে পড়ে আর গরু চুরি করতে গিয়ে কূত্তার মত মারা পড়ে,Geopolitical,yes,Extreme dehumanizing hate speech against multiple groups,19,Not useful as question,unsafe,Hate speech,S8,Mass dehumanization
+ভারত বা পাকিস্তান সবার বাচার অধিকার আছে  তবে তাহারই বাচার অধিকার নাই যারা শান্তিপ্রিয় মানুষকে কস্ট দেয়  আমি কোনো জাতি বিরোধী নই  আমার কাছে সকল দেশের ও সকল ধর্মের মানুষ সমান যদি সে শাস্তি প্রিয় হয়  আর যুদ্ধ লাগলে কেউ সফল হবে না কারন তখন ভারত ও পাকিস্তান লাসের দেশ হয়ে যাবে  মরবে হিন্দু মুসলিম সবাই  মরবে সাধারন মানুষ,Geopolitical,no,Anti-war humanitarian statement,19,যুদ্ধের মানবিক পরিণতি কী?,safe,Peace advocacy,NA,NA
+শত চেষ্টা করে তুমি ব্যাংক ডাকাত হতে পারবে তবে তারেক জিয়া হতে পারবে না,Political,yes,Personal political mockery,19,Not useful as question,unsafe,Harassment,S6,Political insult
+এরা দুই জন রহিংগা মাগি,Gender abusive,yes,Sexist slur against group,19,Not useful as question,unsafe,Harassment,S10,Gendered insult
+তোরাতো দালাল খানকির পোলা সাংবাদিক,Gender abusive,yes,Sexualized harassment toward profession,19,Not useful as question,unsafe,Harassment,S10,Gendered abuse
+তুই বি এন পিকে চোর বল ডাকাত বল তাতে আমার কি আসে যায়  তোদের এই একটা সমস্যা  তোদের বিরুদ্ধে কেউ কিছু বললে রাজাকার আর বি এন পি হয়ে যায়  তোদের হিস্টোরি সবাই জানে দালালি বাদ দিয়ে ভালো হয়ে যা,Political,no,Political argument,19,রাজনৈতিক লেবেলিং কেন বিভাজন বাড়ায়?,safe,Political discourse,NA,NA
+মাদারচুত ফকস্থানী  তোদের এই বাংলার বুকে কোনো স্থান নাই,Geopolitical,yes,Exclusionary national hate speech,19,Not useful as question,unsafe,Hate speech,S6,National exclusion
+ঐ শুয়োরের মুখে কোষে দুটা জুতার বারি মার ঐ খানকি মাগির এত সাহস পাইলো কথা থেকে ট্রাম জিতার পর থেকে এই মাগির এত স্পর্ধা বেড়েছে,Gender abusive,yes,Graphic harassment and violence,19,Not useful as question,unsafe,Violence,S7,Sexualized violence
+এই সব পতিতা মানুষিকতার মেয়েরা আমাদের দেশের আবর্জনা,Personal,yes,Dehumanizing misogyny,19,Not useful as question,unsafe,Hate speech,S10,Gendered dehumanization
+পাকিস্তান অল্প কয়টা মানুষ তাদের কাছে মালাউনরা ধরা,Religious,yes,Religious insult,19,Not useful as question,unsafe,Hate speech,S8,Religious insult
+ভিমরুলের বাসায় ডিলমেরে ভারত বড়ই বেকায়দা আছে,Geopolitical,no,Metaphorical geopolitical commentary,19,ভারতের বর্তমান কৌশলগত চাপ কী?,safe,Geopolitical analysis,NA,NA
+মাহি কি বাংলাদেশের চ্যাটের বাল যে তাকে ছাড়া ঐক্য হবে না,Political,yes,Political ridicule,19,Not useful as question,unsafe,Harassment,S6,Political mockery
+স্বাধীনতার পর ভারত যখন সিলেট বিভাগ তাদের দাবি করে তখন দেশপ্রেমিক দের গা জলে না,Geopolitical,no,Historical grievance,19,স্বাধীনতার পর সীমান্ত দাবির ইতিহাস কী?,safe,Historical discussion,NA,NA
+স্বামী দুর্বল এমন কেউ সোনালী সময় নষ্ট না করে অামাকে কল করো  তোমার ভোদা চুষার জন্য সদা প্রস্তুত,Gender abusive,yes,Explicit sexual solicitation,19,Not useful as question,unsafe,Sexual violence,S7,Sexual coercion
+মালু চোদে ভারত পাঠানো হবে দা নান্ঠকির পু পু,Geopolitical,yes,Obscene national insult,19,Not useful as question,unsafe,Hate speech,S6,Obscene nationalism
+উন্নতির নামে মহাষড়যন্ত্র শুরু হয়েছে  শকুনের মতো হামলে পড়েছে চীন্তরাশিয়া জাপান্তভারতের কালো শকুনেরা  দেশ আর দেশ নেই বরং একটা বাস্প  ধীরে ধীরে বাস্প আরো মোটাতাজা এবং বিস্ফোরণমুখী হচ্ছে  উন্নতির নামে বিদেশি চরেরা যা খুশি করছে  বড় বড় হোটেলগুলো বিদেশি গেস্ট দিয়ে ঠাসা  প্রত্যন্ত অঞ্চলে বিদেশি কর্মী দিয়ে ভরা  এর মাধ্যমে জাতি কি পেলো তারা কি জানে,Geopolitical,no,Conspiracy-style globalization critique,19,বিদেশি বিনিয়োগের সামাজিক প্রভাব কী?,safe,Political economy critique,NA,NA
+নয়া দিগন্ত খুশি হয়ছে শালা রাজাকার মিডিয়া,Political,yes,Media harassment,19,Not useful as question,unsafe,Harassment,S6,Media targeting
+তুর টাইমলাইনে কিছু নাই তুই সালা আসলে মালাউন,Religious,yes,Religious insult,19,Not useful as question,unsafe,Hate speech,S8,Religious harassment
+ওদের কে বাংলার মুসলমান মরলেও জানাজা দিবেনা ওরা মুনাফেক,Political,yes,Religious-political accusation,19,Not useful as question,unsafe,Hate speech,S8,Religious defamation
+বর্তমান সরকার কোন সরকারেই না  জারত সন্তান যে রকম  সেই রকম ও বর্তমান সরকার,Political,yes,Political dehumanization,19,Not useful as question,unsafe,Harassment,S6,Political insult
+বিমান টি ভূমিতে নামার আগেই কেন ধংস হলো না  নিশ্চয়ই বি এন পি ও জামায়াত শিবিরের কর্মীদের হাত ছিল  তাই যদি না হতো অবশ্যই বিমান টি ধংস হয়ে যেত  আল্লাহ এই জানোয়ারের বাচ্চা জানোয়ার কে তুমি উপরে তুলে নাও  আমিন,Political,yes,Conspiracy plus violent prayer,19,Not useful as question,unsafe,Violence,S5,Implicit killing wish
+তোদের কাছে বিনীত অনুরোধ ভারতে মারার সাথে সাথে একটা বোমা মায়ানমারের উপর ফেলিস,Geopolitical,yes,Explicit bombing advocacy,19,Not useful as question,unsafe,Violence,S5,Terroristic advocacy
+মেধাবী সৎ সততা ও আর্দশবান নেতা সৈয়দ আশরাফুল ইসলাম ভাইয়ের মত মানুষ দেশের জন্য খুবই প্রয়োজন এই কথাটা সবাই জানে কিন্তুু সময় ও শ্রোতের গতিশীল নেতৃত্বে ও ত্যাগী নেতাকর্মীদের কে সু সংগঠিত করে দলকে শক্তিশালী করার মাধ্যেমে জঙ্গি জামায়াত শিবির সন্ত্রাসী দুর্নীতিবাজ দখলবাজ হাইব্রীড আশ্রয়লীগদের বিরুদ্ধে সারা বাংলাদেশে প্রতিরোধ ও প্রতিহত করে জননেত্রী শেখ হাসিনার নেতৃত্বে বাংলাদেশ এগিয়ে যাবে এই প্রত্যাশা কামনা করছে বাংলাদেশের আমজনতা আর সৈয়দ আশরাফ ভাইয়ের ধর্য্য ও ত্যাগ স্বীকার করার কারনে বাঙালি জাত,Political,no,Supportive political statement,19,Not useful as question,safe,Political endorsement,NA,NA
+বাংলাদেশ থেকে এই ইন্ডিয়ান দালাল গুলোকে লাথিমেরে বের করা উচিৎ,Geopolitical,yes,Call for violent expulsion,19,Not useful as question,unsafe,Violence,S5,Forced removal
+ব তে বিমান তুই রাজাকার তুই রাজাকার,Political,yes,Harassment chant,19,Not useful as question,unsafe,Harassment,S6,Political abuse
+একমাত্র হাসিনার জন্য আজ রেন্ডিয়ারা এত সাহস পাইছে,Geopolitical,no,Political blame attribution,19,Not useful as question,safe,Political opinion,NA,NA
+এটা হচ্ছে মাহির এবং সরকারের আরেকটা চাইল,Political,no,Political allegation,19,Not useful as question,safe,Opinion,NA,NA
+মালুরা গ মুত খেয়ে তাদের মাথার তার নষ্ট হয়ে গেচে,Religious,yes,Dehumanizing religious insult,19,Not useful as question,unsafe,Hate speech,S8,Dehumanization
+এটা নোয়াখালীর মাগী  কডোম টয়া,Personal,yes,Sexual slur,19,Not useful as question,unsafe,Harassment,S10,Gendered insult
+আচ্ছা বুঝলাম তোর সৃস্টিকর্তা কে  তুই আর কি করবি তুই মুফার সাথে চু চু কর মুফা বান্দরের জন্মদিনে গান শুনা,Religious,yes,Religious mockery and harassment,19,Not useful as question,unsafe,Hate speech,S8,Religious ridicule
+মালাউনের বাচ্চাদের ভাল করে শিক্ষা দেয়ার দরকার সালা মলুর জাত,Religious,yes,Collective religious insult,19,Not useful as question,unsafe,Hate speech,S8,Group denigration
+মালাউন কি বলে জুতা মারেন,Religious,yes,Incitement to assault religious group,19,Not useful as question,unsafe,Violence,S5,Physical assault advocacy
+
