@@ -487,3 +487,125 @@ def translate(
     stats["output_path"] = output_path
     return stats
 
+
+if __name__ == "__main__":
+    # Full language list (low resource languages)
+    # High-resource languages
+    high_resource = [
+        "Arabic",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Portuguese",
+        "Russian",
+        "Spanish"
+    ]
+
+    # Medium-resource languages
+    medium_resource = [
+        "Bengali",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "Dutch",
+        "Finnish",
+        "Greek",
+        "Hebrew",
+        "Hindi",
+        "Indonesian",
+        "Malay",
+        "Norwegian",
+        "Persian",
+        "Polish",
+        "Romanian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Urdu",
+        "Vietnamese"
+    ]
+
+    # Low-resource languages
+    low_resource = [
+        "Afrikaans",
+        "Amharic",
+        "Armenian",
+        "Assamese",
+        "Asturian",
+        "Azerbaijani",
+        "Belarusian",
+        "Bosnian",
+        "Burmese",
+        "Catalan",
+        "Cebuano",
+        "Croatian",
+        "Estonian",
+        "Filipino (Tagalog)",
+        "Fula",
+        "Galician",
+        "Ganda",
+        "Georgian",
+        "Gujarati",
+        "Hausa",
+        "Hungarian",
+        "Icelandic",
+        "Igbo",
+        "Irish",
+        "Javanese",
+        "Kabuverdianu",
+        "Kamba",
+        "Kannada",
+        "Kazakh",
+        "Khmer",
+        "Kyrgyz",
+        "Lao",
+        "Latvian",
+        "Lingala",
+        "Lithuanian",
+        "Luo",
+        "Luxembourgish",
+        "Macedonian",
+        "Malayalam",
+        "Maltese",
+        "Maori",
+        "Marathi",
+        "Mongolian",
+        "Nepali",
+        "Northern Sotho",
+        "Nyanja",
+        "Occitan",
+        "Oriya",
+        "Oromo",
+        "Pashto",
+        "Punjabi",
+        "Serbian",
+        "Shona",
+        "Sindhi",
+        "Slovak",
+        "Slovenian",
+        "Somali",
+        "Sorani Kurdish",
+        "Swahili",
+        "Tajik",
+        "Tamil",
+        "Telugu",
+        "Umbundu",
+        "Welsh",
+        "Wolof",
+        "Xhosa",
+        "Yoruba",
+        "Zulu"
+    ]
+
+    # Optional: quick sanity check
+    print("High:", len(high_resource))
+    print("Medium:", len(medium_resource))
+    print("Low:", len(low_resource))
+    
+
