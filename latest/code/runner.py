@@ -7,7 +7,7 @@ import json
 import re
 import unicodedata
 from pathlib import Path
-setproctitle("runner.py")
+# setproctitle("runner.py")
 from difflib import SequenceMatcher
 from setproctitle import setproctitle
 from typing import Any, Dict, List, Tuple
@@ -78,8 +78,8 @@ if __name__ == "__main__":
         from dataset_analysis import run_all_analyses
         analyses = run_all_analyses(df_agg, df_src)
 
-        from dataset_analysis import plot_all
-        plot_all(analyses, df_agg, df_src)
+        from dataset_analysis_plots import plot_all
+        plot_all(analyses, df_agg, df_src) 
 
     ##########################################################
     ################## Dataset Analysis ends #################
