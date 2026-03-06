@@ -568,4 +568,10 @@ These templates can be filled directly from the result tables generated above.
 ### ECML-PKDD deadline
     0. [text](https://ecmlpkdd.org/2026/submissions-research-track/)
     1. Abstract: 03.05.2026 Paper: 03.12.2026
+
+## TODO list from meeting on 03.05.2026
+### Prepare development plan for deadline May 11th, 2026 for full set of experiments discussed/brainstormed today
+### Dataset Clean up & Translation quality check
+### List the languages, group into regions and try to find human annotator to validate the translated prompt-response. check Amazon Mechanical Turk and check in connections
 ---
+
